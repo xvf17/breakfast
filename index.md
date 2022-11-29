@@ -10,15 +10,13 @@ enjoy reading about it.
 Here is a complete list of the countries. If there isn't a link for
 it, it's because I haven't gotten there yet.
 
-<ul>
-[Afghanistan](a/afghanistan.md)
-[Albania](albania.md)
-[Algeria](algeria.md)
-[Andorra](andorra.md)
-[Angola](angola.md)
-[Antigua and Barbuda](antigua_and_barbuda.md)
-[Argentina](argentina.md)
-[Armenia](armenia.md)
-[Australia](australia.md)
-[Austria](austria.md)
-</ul>
+* [Afghanistan](a/afghanistan.md)
+* [Albania](albania.md)
+* [Algeria](algeria.md)
+* [Andorra](andorra.md)
+* [Angola](angola.md)
+* [Antigua and Barbuda](antigua_and_barbuda.md)
+* [Argentina](argentina.md)
+* [Armenia](armenia.md)
+* [Australia](australia.md)
+* [Austria](austria.md)
