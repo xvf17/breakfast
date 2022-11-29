@@ -1,4 +1,4 @@
-#Algeria
+# Algeria
 
 Algerian breakfast: M'shewsha. Eggy pancake steeped in honey. What's
 not to like?

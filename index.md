@@ -10,7 +10,7 @@ enjoy reading about it.
 Here is a complete list of the countries. If there isn't a link for
 it, it's because I haven't gotten there yet.
 
-* [Afghanistan](a/afghanistan.md)
+* [Afghanistan](afghanistan.md)
 * [Albania](albania.md)
 * [Algeria](algeria.md)
 * [Andorra](andorra.md)
