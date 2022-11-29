@@ -1,4 +1,4 @@
-#A personal project to make breakfast from every country in the world
+# A personal project to make breakfast from every country in the world
 
 I started this project on the 25th of April, 2021. My pledge was that
 I was going to breakfast for my wife and myself every Sunday, once
