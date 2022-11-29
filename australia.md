@@ -6,4 +6,4 @@ end of the jar. [Narrator: It didn't happen.]
 
 No recipe this time, but I did make the bread.
 
-![Toast on a plate, smeared with vegemite][images/australia.heic]
+![Toast on a plate, smeared with vegemite][images/australia.jpeg)
