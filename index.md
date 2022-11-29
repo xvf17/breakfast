@@ -10,6 +10,7 @@ enjoy reading about it.
 Here is a complete list of the countries. If there isn't a link for
 it, it's because I haven't gotten there yet.
 
+<ul>
 [Afghanistan](a/afghanistan.md)
 [Albania](albania.md)
 [Algeria](algeria.md)
@@ -20,3 +21,4 @@ it, it's because I haven't gotten there yet.
 [Armenia](armenia.md)
 [Australia](australia.md)
 [Austria](austria.md)
+</ul>
