@@ -20,4 +20,4 @@ it, it's because I haven't gotten there yet.
 * [Armenia](armenia.md)
 * [Australia](australia.md)
 * [Austria](austria.md)
-* [Azerbeijan][azerbeizan.md]
+* [Azerbeijan](azerbeizan.md)
