@@ -1,4 +1,4 @@
-# A personal project to make breakfast from every country in the world
+# Breakfast from every country in the world
 
 I started this project on the 25th of April, 2021. My pledge to myself
 was that I would make breakfast for my wife and myself every Sunday,
@@ -10,14 +10,200 @@ and I hope you enjoy reading about it.
 Here is a complete list of the countries. If there isn't a link for
 it, it's because I haven't gotten there yet.
 
-* [Afghanistan](afghanistan.md)
-* [Albania](albania.md)
-* [Algeria](algeria.md)
-* [Andorra](andorra.md)
-* [Angola](angola.md)
-* [Antigua and Barbuda](antigua_and_barbuda.md)
-* [Argentina](argentina.md)
-* [Armenia](armenia.md)
-* [Australia](australia.md)
-* [Austria](austria.md)
-* [Azerbeijan](azerbeijan.md)
+* [Afghanistan](afghanistan.md) - pilaf with chicken parts, candied carrots, and
+raisins
+* [Albania](a/albania.md) - byrek
+* [Algeria](a/algeria.md) - mshewsha
+* [Andorra](a/andorra.md) - truites de carreroles
+* [Angola](a/angola.md) - funje, bananas, mangoes, pineapple
+* [Antigua and Barbuda](a/antigua_and_barbuda.md) - ducana and salt fish
+* [Argentina](a/argentina.md) - catamarquean empanadas
+* [Armenia](a/armenia.md) - tomatoes and eggs
+* [Australia](a/australia.md) - toast with Vegemite
+* [Austria](a/austria.md) - tiroler groestl
+* [Azerbeijan](a/azerbeijan.md) - tandoori bread, feta, curd cheese, jam
+* [The Bahamas](b/bahamas.md) - chicken souse, Johnny cake
+* [Bahrain](b/bahrain.md) - chai haleeb, balaleet, nikhee
+* [Bangladesh](b/bangladesh.md) - chapri, potato cury
+* [Barbados](b/barbados.md) - conkies
+* [Belarus](b/belarus.md) - draniki, sour cream
+* [Belgium](b/belgium.md) - waffles
+* [Belize](b/belize.md) - fried eggs, refried beans, fry jacks
+* [Benin](b/benin.md) - akara, baked yam, peanut sauce
+* [Bhutan](b/bhutan.md) - red rice porridge
+* [Bolivia](b/bolivia.md) - embanadas, licuado
+* [Bosnia and Herzegovina](b/bosnia.md) - cimbur, pita
+* [Botswana](b/botswana.md) - breakfast porridge
+* [Brazil](b/brazil.md) - misq quente, pingado
+* [Brunei](b/brunei.md) - brench toast and Kaya
+* [Bulgaria](b/bulgaria.md) - banitsa
+* [Burkina Faso](b/burkina_faso.md) - coffee, fried egg, and fresh French-style baguette
+* [Burundi](b/burundi.md) - bean and plantain stew, toast, coffee
+* Cabo Verde - cachupa guisado
+* Cambodia - bai sach chrouk
+* Cameroon - puff puffs
+* Canada - bacon, eggs over easy, and hash browns
+* Central African Republic
+* Chad - La bouillie
+* Chile - ulpo, toast, coffee
+* China - red bean paste steamed buns (from "Asian Dumplings")
+* Colombia - Changua
+* Comoros - mkatra foutra
+* Congo, Democratic Republic of the - maize porridge, coffee and bread
+* Congo, Republic of the - beignets 
+* Costa Rica - choreadas, coffee, gallo pinto, lizano sauce
+* Côte d’Ivoire - Attiéké (aka Garba) w/ roast chicken
+* Croatia - Burek
+* Cuba - Coffee, fruit (plantain, mango), pan de gloria
+* Cyprus - prozymi bread, fried eggs, Halloumi (fried), Lountza (-> Speck)
+* Czech Republic - smaženice with veka bread
+* Denmark - Rundstykker with havarti, jam, and coffee
+* Djibouti - lahoh with coffee, oodkac (3 days to make lahoh)
+* Dominica - Arepa Salada
+* Dominican Republic - los tres golpes (large)
+* East Timor (Timor-Leste) - kape at pandesal
+* Ecuador - humitas
+* Egypt - foul and falafel 
+* El Salvador
+* Equatorial Guinea - akwadu
+* Eritrea - shaman ful (with fried egg)
+* Estonia - Kama
+* Eswatini - Sishwala
+* Ethiopia - firfir and njera
+* Fiji - babakao
+* Finland - karjalan pies (with ham)
+* France - hot chocolate w/ brioche
+* Gabon - coupé-coupé
+* The Gambia - Chura Gerte
+* Georgia - Chirbuli
+* Germany - Potato Omelet with toast and jam 
+* Ghana - waakye (w/ hard boiled eggs)
+* Greece - Sfakianoputa
+* Grenada - oat coconut bake, cocoa ball tea, fried plantains
+* Guatemala - black beans, fried plantain slices, fresh cheese, eggs, tortillas
+* Guinea - beignet de poisson
+* Guinea-Bissau - chakery
+* Guyana - rock buns
+* Haiti - Labouyi Bannann
+* Honduras - Baleadas
+* Hungary - Búbos rántotta
+* Iceland - Pönnukökur
+* India - Aloo Paratha
+* Indonesia - Bubur ayam w/ peanut sauce
+* Iran - sangak, feta, chai, omelet
+* Iraq - Bigilla and Khubz
+* Ireland - Full Irish Breakfast
+* Israel - shakshuka
+* Italy - necci
+* Jamaica
+* Japan
+* Jordan
+* Kazakhstan
+* Kenya
+* Kiribati - milk rice
+* Korea, North
+* Korea, South
+* Kosovo
+* Kuwait
+* Kyrgyzstan
+* Laos
+* Latvia
+* Lebanon
+* Lesotho
+* Liberia
+* Libya
+* Liechtenstein
+* Lithuania
+* Luxembourg
+* Madagascar
+* Malawi
+* Malaysia - Nasi Lemak, sambal, fried peanuts, chicken rendang
+* Maldives
+* Mali
+* Malta
+* Marshall Islands
+* Mauritania
+* Mauritius
+* Mexico - machaca (overnight, for lunch time)
+* Micronesia, Federated States of
+* Moldova
+* Monaco
+* Mongolia
+* Montenegro
+* Morocco
+* Mozambique
+* Myanmar (Burma)
+* Namibia
+* Nauru
+* Nepal
+* Netherlands
+* New Zealand
+* Nicaragua
+* Niger
+* Nigeria
+* North Macedonia
+* Norway
+* Oman
+* Pakistan - manakeesh
+* Palau
+* Panama
+* Papua New Guinea
+* Paraguay
+* Peru
+* Philippines
+* Poland
+* Portugal
+* Qatar
+* Romania
+* Russia
+* Rwanda
+* Saint Kitts and Nevis
+* Saint Lucia
+* Saint Vincent and the Grenadines
+* Samoa
+* San Marino
+* Sao Tome and Principe
+* Saudi Arabia
+* Senegal
+* Serbia
+* Seychelles
+* Sierra Leone
+* Singapore
+* Slovakia
+* Slovenia
+* Solomon Islands
+* Somalia
+* South Africa
+* Spain
+* Sri Lanka
+* Sudan
+* Sudan, South
+* Suriname
+* Sweden
+* Switzerland
+* Syria
+* Taiwan
+* Tajikistan
+* Tanzania
+* Thailand
+* Togo
+* Tonga
+* Trinidad and Tobago
+* Tunisia
+* Turkey
+* Turkmenistan
+* Tuvalu
+* Uganda
+* Ukraine
+* United Arab Emirates
+* United Kingdom - Full English breakfast
+* United States - biscuits and gravy 
+* Uruguay
+* Uzbekistan
+* Vanuatu
+* Vatican City
+* Venezuela
+* Vietnam
+* Yemen
+* Zambia
+* Zimbabwe
