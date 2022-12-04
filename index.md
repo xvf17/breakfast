@@ -57,22 +57,22 @@ raisins
 * [Cuba](c/cuba.md) - Coffee, fruit (plantain, mango), pan de gloria
 * [Cyprus](c/cyprus.md) - prozymi bread, fried eggs, Halloumi (fried), Speck
 * [Czech Republic](c/czech.md) - smaženice with veka bread
-* Denmark - Rundstykker with havarti, jam, and coffee
-* Djibouti - lahoh with coffee, oodkac (3 days to make lahoh)
-* Dominica - Arepa Salada
-* Dominican Republic - los tres golpes (large)
-* East Timor (Timor-Leste) - kape at pandesal
-* Ecuador - humitas
-* Egypt - foul and falafel
-* El Salvador
-* Equatorial Guinea - akwadu
-* Eritrea - shaman ful (with fried egg)
-* Estonia - Kama
-* Eswatini - Sishwala
-* Ethiopia - firfir and njera
-* Fiji - babakao
-* Finland - karjalan pies (with ham)
-* France - hot chocolate w/ brioche
+* [Denmark](d/denmark.md) - Rundstykker with havarti, jam, and coffee
+* [Djibouti](d/djibouti.md) - lahoh with coffee, oodkac (3 days to make lahoh)
+* [Dominica](d/dominica.md) - Arepa Salada
+* [Dominican Republic](d/dominican_republic.md) - los tres golpes (large)
+* [East Timor](e/east_timor.md) (Timor-Leste) - kape at pandesal
+* [Ecuador](e/ecuador.md) - humitas
+* [Egypt](e/egypt.md) - foul and falafel
+* [El Salvador](e/el_salvador.md) - casamiento
+* [Equatorial Guinea](e/equatorial_guinea.md) - akwadu
+* [Eritrea](e/eritrea.md) - shaman ful (with fried egg)
+* [Estonia](e/estonia.md) - Kama
+* [Eswatini](e/eswatini.md) - Sishwala
+* [Ethiopia](e/ethiopia.md) - firfir and njera
+* [Fiji](f/fiji.md) - babakao
+* [Finland](f/finland.md) - karjalan pies (with ham)
+* [France](f/france.md) - hot chocolate w/ brioche
 * Gabon - coupé-coupé
 * The Gambia - Chura Gerte
 * Georgia - Chirbuli
