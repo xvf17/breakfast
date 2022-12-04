@@ -39,31 +39,31 @@ raisins
 * [Bulgaria](b/bulgaria.md) - banitsa
 * [Burkina Faso](b/burkina_faso.md) - coffee, fried egg, and fresh French-style baguette
 * [Burundi](b/burundi.md) - bean and plantain stew, toast, coffee
-* Cabo Verde - cachupa guisado
-* Cambodia - bai sach chrouk
-* Cameroon - puff puffs
-* Canada - bacon, eggs over easy, and hash browns
-* Central African Republic
-* Chad - La bouillie
-* Chile - ulpo, toast, coffee
-* China - red bean paste steamed buns (from "Asian Dumplings")
-* Colombia - Changua
-* Comoros - mkatra foutra
-* Congo, Democratic Republic of the - maize porridge, coffee and bread
-* Congo, Republic of the - beignets 
-* Costa Rica - choreadas, coffee, gallo pinto, lizano sauce
-* Côte d’Ivoire - Attiéké (aka Garba) w/ roast chicken
-* Croatia - Burek
-* Cuba - Coffee, fruit (plantain, mango), pan de gloria
-* Cyprus - prozymi bread, fried eggs, Halloumi (fried), Lountza (-> Speck)
-* Czech Republic - smaženice with veka bread
+* [Cabo Verde](c/cabo_verde.md) - cachupa guisado
+* [Cambodia](c/cambodia.md) - bai sach chrouk
+* [Cameroon](c/cameroon.md) - puff puffs
+* [Canada](c/canada.md) - bacon, eggs over easy, and hash browns
+* [Central African Republic](c/car.md) - chichinga beef kebab
+* [Chad](c/chad.md) - La bouillie
+* [Chile](c/chile.md) - ulpo, toast, coffee
+* [China](c/china.md) - red bean paste steamed buns (from "Asian Dumplings")
+* [Colombia](c/colombia.md) - Changua
+* [Comoros](c/comoros.md) - mkatra foutra
+* [Congo, Democratic Republic of the](c/droc.md) - maize porridge, coffee and bread
+* [Congo, Republic of the](c/roc.md) - beignets
+* [Costa Rica](c/costa_rica.md) - choreadas, coffee, gallo pinto, lizano sauce
+* [Côte d’Ivoire](c/cote_divoire.md) - Attiéké (aka Garba) w/ roast chicken
+* [Croatia](c/croatia.md) - Burek
+* [Cuba](c/cuba.md) - Coffee, fruit (plantain, mango), pan de gloria
+* [Cyprus](c/cyprus.md) - prozymi bread, fried eggs, Halloumi (fried), Lountza (-> Speck)
+* [Czech Republic](c/czech.md) - smaženice with veka bread
 * Denmark - Rundstykker with havarti, jam, and coffee
 * Djibouti - lahoh with coffee, oodkac (3 days to make lahoh)
 * Dominica - Arepa Salada
 * Dominican Republic - los tres golpes (large)
 * East Timor (Timor-Leste) - kape at pandesal
 * Ecuador - humitas
-* Egypt - foul and falafel 
+* Egypt - foul and falafel
 * El Salvador
 * Equatorial Guinea - akwadu
 * Eritrea - shaman ful (with fried egg)
@@ -76,7 +76,7 @@ raisins
 * Gabon - coupé-coupé
 * The Gambia - Chura Gerte
 * Georgia - Chirbuli
-* Germany - Potato Omelet with toast and jam 
+* Germany - Potato Omelet with toast and jam
 * Ghana - waakye (w/ hard boiled eggs)
 * Greece - Sfakianoputa
 * Grenada - oat coconut bake, cocoa ball tea, fried plantains
@@ -197,7 +197,7 @@ raisins
 * Ukraine
 * United Arab Emirates
 * United Kingdom - Full English breakfast
-* United States - biscuits and gravy 
+* United States - biscuits and gravy
 * Uruguay
 * Uzbekistan
 * Vanuatu
