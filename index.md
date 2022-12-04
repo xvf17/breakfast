@@ -10,7 +10,7 @@ and I hope you enjoy reading about it.
 Here is a complete list of the countries. If there isn't a link for
 it, it's because I haven't gotten there yet.
 
-* [Afghanistan](afghanistan.md) - pilaf with chicken parts, candied carrots, and
+* [Afghanistan](a/afghanistan.md) - pilaf with chicken parts, candied carrots, and
 raisins
 * [Albania](a/albania.md) - byrek
 * [Algeria](a/algeria.md) - mshewsha
@@ -55,7 +55,7 @@ raisins
 * [Côte d’Ivoire](c/cote_divoire.md) - Attiéké (aka Garba) w/ roast chicken
 * [Croatia](c/croatia.md) - Burek
 * [Cuba](c/cuba.md) - Coffee, fruit (plantain, mango), pan de gloria
-* [Cyprus](c/cyprus.md) - prozymi bread, fried eggs, Halloumi (fried), Lountza (-> Speck)
+* [Cyprus](c/cyprus.md) - prozymi bread, fried eggs, Halloumi (fried), Speck
 * [Czech Republic](c/czech.md) - smaženice with veka bread
 * Denmark - Rundstykker with havarti, jam, and coffee
 * Djibouti - lahoh with coffee, oodkac (3 days to make lahoh)
