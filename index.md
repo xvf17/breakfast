@@ -10,6 +10,12 @@ and I hope you enjoy reading about it.
 Here is a complete list of the countries. If there isn't a link for
 it, it's because I haven't gotten there yet.
 
+Because of the way I'm publishing this, there's no way to get notices
+from here for updates, or to comment on the posts. If you want to
+reach out, I'm Zen Zero on [mastodon](https://sfba.social/@xvf17).  I
+will also post from there when there are new entries here, so you can
+follow me for updates if you like.
+
 * [Afghanistan](a/afghanistan.md) - pilaf with chicken parts, candied carrots, and
 raisins
 * [Albania](a/albania.md) - byrek
@@ -46,7 +52,7 @@ raisins
 * [Central African Republic](c/car.md) - chichinga beef kebab
 * [Chad](c/chad.md) - La bouillie
 * [Chile](c/chile.md) - ulpo, toast, coffee
-* [China](c/china.md) - red bean paste steamed buns (from "Asian Dumplings")
+* [China](c/china.md) - red bean paste steamed buns
 * [Colombia](c/colombia.md) - Changua
 * [Comoros](c/comoros.md) - mkatra foutra
 * [Congo, Democratic Republic of the](c/droc.md) - maize porridge, coffee and bread
@@ -55,42 +61,42 @@ raisins
 * [Côte d’Ivoire](c/cote_divoire.md) - Attiéké (aka Garba) w/ roast chicken
 * [Croatia](c/croatia.md) - Burek
 * [Cuba](c/cuba.md) - Coffee, fruit (plantain, mango), pan de gloria
-* [Cyprus](c/cyprus.md) - prozymi bread, fried eggs, Halloumi (fried), Speck
+* [Cyprus](c/cyprus.md) - prozymi bread, fried eggs, halloumi, speck
 * [Czech Republic](c/czech.md) - smaženice with veka bread
 * [Denmark](d/denmark.md) - Rundstykker with havarti, jam, and coffee
-* [Djibouti](d/djibouti.md) - lahoh with coffee, oodkac (3 days to make lahoh)
+* [Djibouti](d/djibouti.md) - lahoh with coffee, oodkac
 * [Dominica](d/dominica.md) - Arepa Salada
-* [Dominican Republic](d/dominican_republic.md) - los tres golpes (large)
+* [Dominican Republic](d/dominican_republic.md) - los tres golpes
 * [East Timor](e/east_timor.md) (Timor-Leste) - kape at pandesal
 * [Ecuador](e/ecuador.md) - humitas
 * [Egypt](e/egypt.md) - foul and falafel
 * [El Salvador](e/el_salvador.md) - casamiento
 * [Equatorial Guinea](e/equatorial_guinea.md) - akwadu
-* [Eritrea](e/eritrea.md) - shaman ful (with fried egg)
+* [Eritrea](e/eritrea.md) - shaman ful with fried egg
 * [Estonia](e/estonia.md) - Kama
 * [Eswatini](e/eswatini.md) - Sishwala
 * [Ethiopia](e/ethiopia.md) - firfir and njera
 * [Fiji](f/fiji.md) - babakao
 * [Finland](f/finland.md) - karjalan pies (with ham)
 * [France](f/france.md) - hot chocolate w/ brioche
-* Gabon - coupé-coupé
-* The Gambia - Chura Gerte
-* Georgia - Chirbuli
-* Germany - Potato Omelet with toast and jam
-* Ghana - waakye (w/ hard boiled eggs)
-* Greece - Sfakianoputa
-* Grenada - oat coconut bake, cocoa ball tea, fried plantains
-* Guatemala - black beans, fried plantain slices, fresh cheese, eggs, tortillas
-* Guinea - beignet de poisson
-* Guinea-Bissau - chakery
-* Guyana - rock buns
-* Haiti - Labouyi Bannann
-* Honduras - Baleadas
-* Hungary - Búbos rántotta
-* Iceland - Pönnukökur
-* India - Aloo Paratha
-* Indonesia - Bubur ayam w/ peanut sauce
-* Iran - sangak, feta, chai, omelet
+* [Gabon](g/gabon.md) - coupé-coupé
+* [The Gambia](g/gambia.md) - Chura Gerte
+* [Georgia](g/georgia.md) - Chirbuli
+* [Germany](g/germany.md) - Potato Omelet with toast and jam
+* [Ghana](g/ghana.md) - waakye with hard boiled eggs
+* [Greece](g/greece.md) - Sfakianoputa
+* [Grenada](g/grenada.md) - oat coconut bake, cocoa ball tea, fried plantains
+* [Guatemala](g/guatemala.md) - black beans, fried plantain slices, fresh cheese, eggs, tortillas
+* [Guinea](g/guinea.md) - beignet de poisson
+* [Guinea-Bissau](g/guinea_bissau.md) - chakery
+* [Guyana](g/guyana.md) - rock buns
+* [Haiti](h/haiti.md) - Labouyi Bannann
+* [Honduras](h/honduras.md) - Baleadas
+* [Hungary](h/hungary.md) - Búbos rántotta
+* [Iceland](i/iceland.md) - Pönnukökur
+* [India](i/india.md) - Aloo Paratha
+* [Indonesia](i/indonesia.md) - Bubur ayam with peanut sauce
+* [Iran](i/iran.md) - sangak, feta, chai, omelet
 * Iraq - Bigilla and Khubz
 * Ireland - Full Irish Breakfast
 * Israel - shakshuka

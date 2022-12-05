@@ -1,6 +1,6 @@
 # Co&#770;te d'Ivoire
 
-Ivoirian breakfast: Attie&#769;ke&#769; (aga Garba) with roast
+Ivoirian breakfast: Attie&#769;ke&#769; (aka Garba) with roast
 chicken. It's more commonly served with fish, but this is also
 common. Everything was great; we really enjoyed this one.
 

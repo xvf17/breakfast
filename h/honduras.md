@@ -1,0 +1,10 @@
+# Honduras
+
+Honduran breakfast: baleadas. Basically bean tacos. Really yummy; my
+presentation doesn't do it justice. If you're thinking about making
+any of these breakfasts, this should be on your short list.
+
+[baleadas recipe](https://www.curiouscuisiniere.com/honduran-baleadas/)<br>
+[refried beans recipe](https://www.onehappyhousewife.com/authentic-refried-beans/)
+
+![breakfast](images/honduras.jpeg)

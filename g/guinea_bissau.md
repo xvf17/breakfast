@@ -1,0 +1,8 @@
+# Guinea-Bissau
+
+Bissau-Guinean breakfast: chakery. This is a sweet, creamy porridge
+made from couscous. Not my favorite breakfast, but it keeps you going!
+
+[recipe](https://www.internationalcuisine.com/chakery)
+
+![breakfast](images/guinea_bissau.jpeg)
