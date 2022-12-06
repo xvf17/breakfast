@@ -1,3 +1,6 @@
+[prev](albania.md)
+[top](../index.md)
+[next](andorra.md)
 # Algeria
 
 Algerian breakfast: M'shewsha. Eggy pancake steeped in honey. What's

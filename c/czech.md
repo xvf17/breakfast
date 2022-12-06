@@ -1,3 +1,6 @@
+[prev](cyprus.md)
+[top](../index.md)
+[next](../d/denmark.md)
 # Czech Republic
 
 Czech breakfast: smaz&#774;enice with veka bread. This tasted way

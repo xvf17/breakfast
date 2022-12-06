@@ -1,3 +1,6 @@
+[prev](gabon.md)
+[top](../index.md)
+[next](georgia.md)
 # Gambia
 
 Gambian breakfast: chura gerte. Peanut rice porridge that was very

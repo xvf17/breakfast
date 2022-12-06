@@ -1,3 +1,6 @@
+[prev](el_salvador.md)
+[top](../index.md)
+[next](eritrea.md)
 # Equatorial Guinea
 
 Equatoguinean breakfast: akwadu. More or less bananas foster without

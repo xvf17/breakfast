@@ -1,3 +1,6 @@
+[prev](egypt.md)
+[top](../index.md)
+[next](equatorial_guinea.md)
 # El Salvador
 
 Salvadoran breakfast: casamiento, with scrambled eggs, fried

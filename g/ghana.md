@@ -1,3 +1,6 @@
+[prev](germany.md)
+[top](../index.md)
+[next](greece.md)
 # Ghana
 
 Ghanaian breakfast: waakye, with fried plantains and a hard boiled

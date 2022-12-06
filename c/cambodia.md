@@ -1,3 +1,6 @@
+[prev](cabo_verde.md)
+[top](../index.md)
+[next](cameroon.md)
 # Cambodia
 
 Cambodian breakfast: bai sach chrouk. I have enjoyed many of the

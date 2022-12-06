@@ -1,3 +1,6 @@
+[prev](dominica.md)
+[top](../index.md)
+[next](../e/east_timor.md)
 # Dominican Republic
 
 Dominican breakfast: mangu&#769; con los tres golpes. This was a fun

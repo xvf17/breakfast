@@ -1,3 +1,6 @@
+[prev](eritrea.md)
+[top](../index.md)
+[next](eswatini.md)
 # Estonia
 
 Estonian breakfast: kama. This was a lot of work, but the results were

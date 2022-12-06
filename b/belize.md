@@ -1,3 +1,6 @@
+[prev](belgium.md)
+[top](../index.md)
+[next](benin.md)
 # Belize
 
 Belizean breakfast: fried egg, refried beans, fry jacks. These kept me

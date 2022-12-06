@@ -1,3 +1,6 @@
+[prev](comoros.md)
+[top](../index.md)
+[next](roc.md)
 # Democratic Republic of Congo
 
 Congolese breakfast: maize porridge, coffee, and bread. This was a fun

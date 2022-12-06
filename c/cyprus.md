@@ -1,3 +1,6 @@
+[prev](cuba.md)
+[top](../index.md)
+[next](czech.md)
 # Cyprus
 
 Cypriot breakfast: prozymi bread, fried eggs, fried halloumi, and

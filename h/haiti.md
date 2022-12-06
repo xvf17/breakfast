@@ -1,3 +1,6 @@
+[prev](../g/guyana.md)
+[top](../index.md)
+[next](honduras.md)
 # Haiti
 
 Haitian breakfast: labouyi bannann. Porridge made from plantains. Spice mix was a fun addition.

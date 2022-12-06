@@ -1,3 +1,6 @@
+[prev](colombia.md)
+[top](../index.md)
+[next](droc.md)
 # Comoros
 
 Comorian breakfast: mkatra futra.  A savory pancake that is much more

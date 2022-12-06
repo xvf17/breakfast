@@ -1,3 +1,6 @@
+[prev](denmark.md)
+[top](../index.md)
+[next](dominica.md)
 # Djibouti
 
 Djiboutian breakfast: lahoh with coffee, oodkac. Both of these dishes

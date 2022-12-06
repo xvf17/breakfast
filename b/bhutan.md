@@ -1,3 +1,6 @@
+[prev](benin.md)
+[top](../index.md)
+[next](bolivia.md)
 # Bhutan
 
 Bhutanese breakfast: Red rice porridge. Topped with butter and

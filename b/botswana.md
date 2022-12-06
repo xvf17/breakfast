@@ -1,3 +1,6 @@
+[prev](bosnia.md)
+[top](../index.md)
+[next](brazil.md)
 # Botswana
 
 Botswana breakfast: Sorghum porridge. In a word: bland. It does fill

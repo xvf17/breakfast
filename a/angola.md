@@ -1,3 +1,6 @@
+[prev](andorra.md)
+[top](../index.md)
+[next](antigua_and_barbuda.md)
 # Angola
 
 Angolan breakfast: Funje. This tastes like packing material to me. The

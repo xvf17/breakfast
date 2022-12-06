@@ -1,3 +1,6 @@
+[prev](estonia.md)
+[top](../index.md)
+[next](ethiopia.md)
 # Eswatini
 
 Liswati breakfast: Sishwala. Cornmeal and beans, will keep you going all day.

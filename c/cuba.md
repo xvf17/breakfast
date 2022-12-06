@@ -1,3 +1,6 @@
+[prev](croatia.md)
+[top](../index.md)
+[next](cyprus.md)
 # Cuba
 
 Cuban breakfast: Coffee, frut (plantain, mango), pan de

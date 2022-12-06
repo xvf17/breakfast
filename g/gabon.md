@@ -1,3 +1,6 @@
+[prev](../f/france.md)
+[top](../index.md)
+[next](gambia.md)
 # Gabon
 
 Gabonese breakfast: coupe&#769;-coupe&#769; steak sandwich. I was not

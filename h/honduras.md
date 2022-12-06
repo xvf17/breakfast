@@ -1,3 +1,6 @@
+[prev](haiti.md)
+[top](../index.md)
+[next](hungary.md)
 # Honduras
 
 Honduran breakfast: baleadas. Basically bean tacos. Really yummy; my

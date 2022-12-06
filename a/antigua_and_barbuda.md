@@ -1,3 +1,6 @@
+[prev](angola.md)
+[top](../index.md)
+[next](argentina.md)
 # Antigua and Barbuda
 
 Antiguan/Barbudan breakfast: Ducana and Salt Fish. I enjoyed this a lot more than I expected to, but my wife says I'm not allowed to maek salt cod any more. Stunk up the house for around 2 weeks.

@@ -1,3 +1,6 @@
+[prev](barbados.md)
+[top](../index.md)
+[next](belgium.md)
 # Belarus
 
 Belarusian breakfast: Draniki. These are very similar to latkes, served with sour cream. Would definitely eat these again.

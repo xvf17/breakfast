@@ -1,3 +1,6 @@
+[prev](afghanistan.md)
+[top](../index.md)
+[next](algeria.md)
 # Albania
 
 Albanian breakfast: Byrek, with yogurt for dipping. Very tasty, wish I'd made more. Three apiece just wasn't enough.

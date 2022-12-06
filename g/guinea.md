@@ -1,3 +1,6 @@
+[prev](guatemala.md)
+[top](../index.md)
+[next](guinea_bissau.md)
 # Guinea
 
 Guinean breakfast: beignets de poisson. Tuna empanadas, more or

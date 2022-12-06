@@ -1,3 +1,6 @@
+[prev](australia.md)
+[top](../index.md)
+[next](azerbeijan.md)
 # Austria
 
 Austrian breakfast: Tiroler Grostl

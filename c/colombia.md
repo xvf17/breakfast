@@ -1,3 +1,6 @@
+[prev](china.md)
+[top](../index.md)
+[next](comoros.md)
 # Colombia
 
 Colombian breakfast: changua. My first go at making poached eggs, and

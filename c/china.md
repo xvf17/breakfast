@@ -1,3 +1,6 @@
+[prev](chile.md)
+[top](../index.md)
+[next](colombia.md)
 # China
 
 Chinese breakfast: adzuki bean bao and oolong tea. Who doesn't like bao? Our adzuki beans were a little old, but this was still great.

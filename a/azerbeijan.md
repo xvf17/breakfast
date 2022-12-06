@@ -1,3 +1,6 @@
+[prev](austria.md)
+[top](../index.md)
+[next](../b/bahamas.md)
 # Azerbaijan
 
 Azerbaijani breakfast: kezmik, feta, olallieberry jam, and tandir

@@ -1,3 +1,6 @@
+[prev](eswatini.md)
+[top](../index.md)
+[next](../f/fiji.md)
 # Ethiopia
 
 Ethiopian breakfast: firfir and injera. Firfir is a stew made from

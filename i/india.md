@@ -1,3 +1,6 @@
+[prev](iceland.md)
+[top](../index.md)
+[next](indonesia.md)
 # India
 
 Indian breakfast: Aloo Paratha. I showed this picture to an Indian

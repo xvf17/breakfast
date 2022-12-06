@@ -1,3 +1,6 @@
+[prev](equatorial_guinea.md)
+[top](../index.md)
+[next](estonia.md)
 # Eritrea
 
 Eritrean breakfast: shaman ful with fried egg. The ful is made from

@@ -1,3 +1,6 @@
+[prev](bahamas.md)
+[top](../index.md)
+[next](bangladesh.md)
 # Bahrain
 
 Bahrani breakfast: Chai Haleeb, balaleet, nikhee. Chick peas and

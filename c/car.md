@@ -1,3 +1,6 @@
+[prev](canada.md)
+[top](../index.md)
+[next](chad.md)
 # Central African Republic
 
 Central African breakfast: chichinga beef kebab with a bright tropical

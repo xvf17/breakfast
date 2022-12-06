@@ -1,3 +1,6 @@
+[prev](../a/azerbeijan.md)
+[top](../index.md)
+[next](bahrain.md)
 # The Bahamas
 
 Bahamian breakfast: Chicken Souse and Johnny Cake. The lime in teh

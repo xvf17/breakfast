@@ -1,3 +1,6 @@
+[prev](costa_rica.md)
+[top](../index.md)
+[next](croatia.md)
 # Co&#770;te d'Ivoire
 
 Ivoirian breakfast: Attie&#769;ke&#769; (aka Garba) with roast

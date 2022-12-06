@@ -1,3 +1,6 @@
+[prev](bangladesh.md)
+[top](../index.md)
+[next](belarus.md)
 # Barbados
 
 Barbados breakfast: Conkies. Sweet puddings cooked with steam. Very

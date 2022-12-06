@@ -1,3 +1,6 @@
+[prev](../e/ethiopia.md)
+[top](../index.md)
+[next](finland.md)
 # Fiji
 
 Fijian breakfast: babakao. Basically cinnamon toast. Yummy.

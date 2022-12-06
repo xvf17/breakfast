@@ -1,3 +1,6 @@
+[prev](car.md)
+[top](../index.md)
+[next](chile.md)
 # Chad
 
 Chadian breakfast: la bouillie. Basically a rice porridge with a

@@ -1,3 +1,6 @@
+[prev](antigua_and_barbuda.md)
+[top](../index.md)
+[next](armenia.md)
 # Argentina
 
 Argentinian breakfast: Veal empanadas. These were awesome. I didn't make enough.

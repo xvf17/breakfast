@@ -1,3 +1,6 @@
+[prev](honduras.md)
+[top](../index.md)
+[next](../i/iceland.md)
 # Hungary
 
 Hungarian breakfast: bu&#769;bos ra&#769;ntotta with rye toast and

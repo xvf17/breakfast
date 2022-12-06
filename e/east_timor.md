@@ -1,3 +1,6 @@
+[prev](../d/dominican_republic.md)
+[top](../index.md)
+[next](ecuador.md)
 # East Timor (Timor-Leste)
 
 Timorese breakfast: kape at pandesal. Literally, coffee and bread. Fun

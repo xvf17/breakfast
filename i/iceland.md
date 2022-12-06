@@ -1,3 +1,6 @@
+[prev](../h/hungary.md)
+[top](../index.md)
+[next](india.md)
 # Iceland
 
 Icelandic breakfast: Po&#776;nnuko&#776;kur with lingonberry

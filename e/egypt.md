@@ -1,3 +1,6 @@
+[prev](ecuador.md)
+[top](../index.md)
+[next](el_salvador.md)
 # Egypt
 
 Egyptian breakfast: foul and falafel. I had some trouble following

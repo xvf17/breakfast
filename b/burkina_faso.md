@@ -1,3 +1,6 @@
+[prev](bulgaria.md)
+[top](../index.md)
+[next](burundi.md)
 # Burkina Faso
 
 Burkinab&egrave; breakfast: fried eggs with baguette and coffee.

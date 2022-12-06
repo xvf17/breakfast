@@ -1,3 +1,6 @@
+[prev](roc.md)
+[top](../index.md)
+[next](cote_divoire.md)
 # Costa Rica
 
 Costa Rican breakfast: (slightly burnt) choreadas, gallo pinto, lizano sauce, and coffee. Savory, just a bit spicy. Really good, though.

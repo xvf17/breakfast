@@ -1,3 +1,5 @@
+[prev](indonesia.md)
+[top](../index.md)
 # Iran
 
 Iranian breakfast: sangak, feta, chai, omelette. Another fun set of

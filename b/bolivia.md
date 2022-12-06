@@ -1,3 +1,6 @@
+[prev](bhutan.md)
+[top](../index.md)
+[next](bosnia.md)
 # Boliva
 
 Bolivian breakfast: Sultanas and batido. Sultanas are basically

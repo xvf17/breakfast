@@ -1,3 +1,6 @@
+[prev](armenia.md)
+[top](../index.md)
+[next](austria.md)
 # Australia
 
 Australian breakfast: Vegemite! This stuff is strong, so it's used in

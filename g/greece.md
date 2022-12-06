@@ -1,3 +1,6 @@
+[prev](ghana.md)
+[top](../index.md)
+[next](grenada.md)
 # Greece
 
 Greek breakfast: sfakianoputa. (No idea how to pronounce it.) Sort of

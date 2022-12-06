@@ -1,3 +1,6 @@
+[prev](east_timor.md)
+[top](../index.md)
+[next](egypt.md)
 # Ecuador
 
 Ecuadorian breakfast: humitas. Essentially, these are the same as

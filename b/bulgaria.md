@@ -1,3 +1,6 @@
+[prev](brunei.md)
+[top](../index.md)
+[next](burkina_faso.md)
 # Bulgaria
 
 Bulgarian breakfast: Banista. Feta cheese pie made with phyllo

@@ -1,3 +1,6 @@
+[prev](droc.md)
+[top](../index.md)
+[next](costa_rica.md)
 # Republic of Congo
 
 Congolese breakfast: beignets! More deep fried yumminess. Who doesn't like beignets?

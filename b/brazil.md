@@ -1,7 +1,10 @@
+[prev](botswana.md)
+[top](../index.md)
+[next](brunei.md)
 # Brazil
 
-Brazilian breakfast: misto quento and pingado. Basically a breeakfast
-panini. Delicious. And of course, no Brazilian breakfast woudl be
+Brazilian breakfast: misto quento and pingado. Basically a breakfast
+panini. Delicious. And of course, no Brazilian breakfast would be
 complete without coffee. (I have no espresso machine, so compromises
 were made.)
 

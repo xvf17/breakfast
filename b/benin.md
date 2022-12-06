@@ -1,3 +1,6 @@
+[prev](belize.md)
+[top](../index.md)
+[next](bhutan.md)
 # Benin
 
 Beninese breakfast: Akara, peanut sauce, baked yam. Akara are fritters

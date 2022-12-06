@@ -1,3 +1,6 @@
+[prev](argentina.md)
+[top](../index.md)
+[next](australia.md)
 # Armenia
 
 Armenian breakfast: Tomatoes and eggs. Just what it sounds like. In

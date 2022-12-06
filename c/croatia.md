@@ -1,3 +1,6 @@
+[prev](cote_divoire.md)
+[top](../index.md)
+[next](cuba.md)
 # Croatia
 
 Croatian breakfast: burek. Long tube of filo dough filled with spiced

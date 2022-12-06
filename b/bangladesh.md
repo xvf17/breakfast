@@ -1,3 +1,6 @@
+[prev](bahrain.md)
+[top](../index.md)
+[next](barbados.md)
 # Bangladesh
 
 Bangladeshi breakfast: Chapri with potato curry. The Chapri were just savory pancakes. Delicious, but I made to many. >urp<

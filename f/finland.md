@@ -1,3 +1,6 @@
+[prev](fiji.md)
+[top](../index.md)
+[next](france.md)
 # Finland
 
 Finnish breakfast: karjalan pies. Rice filled hand pies topped with ham. Yum.

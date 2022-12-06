@@ -1,3 +1,6 @@
+[prev](belarus.md)
+[top](../index.md)
+[next](belize.md)
 # Belgium
 
 Belgian breakfast: Li&egrave;ge Waffles. How could I do anything else

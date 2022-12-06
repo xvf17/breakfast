@@ -1,3 +1,6 @@
+[prev](india.md)
+[top](../index.md)
+[next](iran.md)
 # Indonesia
 
 Indonesian breakfast: Bubur ayam with peanut sauce. I think I maybe

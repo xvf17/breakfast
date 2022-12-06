@@ -1,3 +1,6 @@
+[prev](burkina_faso.md)
+[top](../index.md)
+[next](../c/cabo_verde.md)
 # Burundi
 
 Abarundi breakfast: bean and plantain stew with toast and coffee. The

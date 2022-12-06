@@ -1,3 +1,6 @@
+[prev](grenada.md)
+[top](../index.md)
+[next](guinea.md)
 # Guatemala
 
 Guatemalan breakfast: refried beans, plantains, egg, tortillas, queso

@@ -1,3 +1,6 @@
+[prev](georgia.md)
+[top](../index.md)
+[next](ghana.md)
 # Germany
 
 German breakfast: potato omelet with toast and jam. Just as it sounds,

@@ -1,3 +1,6 @@
+[prev](chad.md)
+[top](../index.md)
+[next](china.md)
 # Chile
 
 Chilean breakfast: ulpo and toast. I like this a lot mre than I

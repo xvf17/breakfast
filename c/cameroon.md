@@ -1,3 +1,6 @@
+[prev](cambodia.md)
+[top](../index.md)
+[next](canada.md)
 # Cameroon
 
 Cameroonian breakfast: puff-puffs. AFAICT, these are no different from

@@ -1,3 +1,6 @@
+[prev](gambia.md)
+[top](../index.md)
+[next](germany.md)
 # Georgia
 
 Georgian breakfast: chirbuli. Basically, shakshouka with nuts. Very

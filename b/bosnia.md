@@ -1,3 +1,6 @@
+[prev](bolivia.md)
+[top](../index.md)
+[next](botswana.md)
 # Bosnia
 
 Bosnian breakfast: C&#780;imbur. Minced meat with poached eggs and

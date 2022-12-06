@@ -1,3 +1,6 @@
+[prev](guinea.md)
+[top](../index.md)
+[next](guyana.md)
 # Guinea-Bissau
 
 Bissau-Guinean breakfast: chakery. This is a sweet, creamy porridge

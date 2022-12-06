@@ -1,3 +1,6 @@
+[prev](cameroon.md)
+[top](../index.md)
+[next](car.md)
 # Canada
 
 Canadian breakfast: hash browns, back bacon, fried eggs. 'Nuff said.

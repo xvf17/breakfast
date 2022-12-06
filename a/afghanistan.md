@@ -1,3 +1,5 @@
+[top](../index.md)
+[next](albania.md)
 # Afghanistan
 
 Afghani breakfast: pilaf with chicken parts and candied carrots and
