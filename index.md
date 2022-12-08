@@ -1,5 +1,7 @@
 # Breakfast from every country in the world
 
+![breakfast spread](images/spread.jpeg)
+
 I started this project on the 25th of April, 2021. My pledge to myself
 was that I would make breakfast for my wife and myself every Sunday,
 once each from every country in the UN offical list of world
@@ -11,12 +13,12 @@ Here is a complete list of the countries. If there isn't a link for
 it, it's because I haven't gotten there yet.
 
 Because of the way I'm publishing this, there's no way to get notices
-from here for updates, or to comment on the posts. If you want to
+from here about updates, or to comment on the posts. If you want to
 reach out, I'm Zen Zero on [mastodon](https://sfba.social/@xvf17).  I
 will also post from there when there are new entries here, so you can
 follow me for updates if you like.
 
-![breakfast spread](images/spread.jpeg)
+![Albanian breakfast](a/images/albania.jpeg)
 
 * [Afghanistan](a/afghanistan.md) - pilaf with chicken parts, candied carrots, and
 raisins
@@ -30,6 +32,9 @@ raisins
 * [Australia](a/australia.md) - toast with Vegemite
 * [Austria](a/austria.md) - tiroler groestl
 * [Azerbeijan](a/azerbeijan.md) - tandoori bread, feta, curd cheese, jam
+
+![Belgian waffles](b/images/belgium.jpeg)
+
 * [The Bahamas](b/bahamas.md) - chicken souse, Johnny cake
 * [Bahrain](b/bahrain.md) - chai haleeb, balaleet, nikhee
 * [Bangladesh](b/bangladesh.md) - chapri, potato cury
@@ -47,6 +52,9 @@ raisins
 * [Bulgaria](b/bulgaria.md) - banitsa
 * [Burkina Faso](b/burkina_faso.md) - coffee, fried egg, and fresh French-style baguette
 * [Burundi](b/burundi.md) - bean and plantain stew, toast, coffee
+
+![Cambodian breakfast](c/images/cambodia.jpeg)
+
 * [Cabo Verde](c/cabo_verde.md) - cachupa guisado
 * [Cambodia](c/cambodia.md) - bai sach chrouk
 * [Cameroon](c/cameroon.md) - puff puffs
@@ -65,10 +73,16 @@ raisins
 * [Cuba](c/cuba.md) - Coffee, fruit (plantain, mango), pan de gloria
 * [Cyprus](c/cyprus.md) - prozymi bread, fried eggs, halloumi, speck
 * [Czech Republic](c/czech.md) - smaženice with veka bread
+
+![Danish breakfast](d/images/denmark.jpeg)
+
 * [Denmark](d/denmark.md) - Rundstykker with havarti, jam, and coffee
 * [Djibouti](d/djibouti.md) - lahoh with coffee, oodkac
 * [Dominica](d/dominica.md) - Arepa Salada
 * [Dominican Republic](d/dominican_republic.md) - los tres golpes
+
+![Estonian breakfast](e/images/estonia.jpeg)
+
 * [East Timor](e/east_timor.md) (Timor-Leste) - kape at pandesal
 * [Ecuador](e/ecuador.md) - humitas
 * [Egypt](e/egypt.md) - foul and falafel
@@ -78,9 +92,15 @@ raisins
 * [Estonia](e/estonia.md) - Kama
 * [Eswatini](e/eswatini.md) - Sishwala
 * [Ethiopia](e/ethiopia.md) - firfir and njera
+
+![Finnish breakfast](f/images/finland.jpeg)
+
 * [Fiji](f/fiji.md) - babakao
 * [Finland](f/finland.md) - karjalan pies (with ham)
 * [France](f/france.md) - hot chocolate w/ brioche
+
+![Gabonese breakfast](g/images/gabon.jpeg)
+
 * [Gabon](g/gabon.md) - coupé-coupé
 * [The Gambia](g/gambia.md) - Chura Gerte
 * [Georgia](g/georgia.md) - Chirbuli
@@ -92,9 +112,15 @@ raisins
 * [Guinea](g/guinea.md) - beignet de poisson
 * [Guinea-Bissau](g/guinea_bissau.md) - chakery
 * [Guyana](g/guyana.md) - rock buns
+
+![Hungarian breakfast](h/images/hungary.jpeg)
+
 * [Haiti](h/haiti.md) - Labouyi Bannann
 * [Honduras](h/honduras.md) - Baleadas
 * [Hungary](h/hungary.md) - Búbos rántotta
+
+![Icelandic breakfast](i/images/iceland.jpeg)
+
 * [Iceland](i/iceland.md) - Pönnukökur
 * [India](i/india.md) - Aloo Paratha
 * [Indonesia](i/indonesia.md) - Bubur ayam with peanut sauce
@@ -103,8 +129,11 @@ raisins
 * Ireland - Full Irish Breakfast
 * Israel - shakshuka
 * Italy - necci
+
+<span></span>
+
 * Jamaica
-* Japan
+* Japan - traditional Japanese breakfast
 * Jordan
 * Kazakhstan
 * Kenya
@@ -125,14 +154,14 @@ raisins
 * Luxembourg
 * Madagascar
 * Malawi
-* Malaysia - Nasi Lemak, sambal, fried peanuts, chicken rendang
+* Malaysia - nasi lemak, sambal, fried peanuts, chicken rendang
 * Maldives
 * Mali
 * Malta
 * Marshall Islands
 * Mauritania
 * Mauritius
-* Mexico - machaca (overnight, for lunch time)
+* Mexico - machaca
 * Micronesia, Federated States of
 * Moldova
 * Monaco
@@ -204,7 +233,7 @@ raisins
 * Uganda
 * Ukraine
 * United Arab Emirates
-* United Kingdom - Full English breakfast
+* United Kingdom - full English breakfast
 * United States - biscuits and gravy
 * Uruguay
 * Uzbekistan
