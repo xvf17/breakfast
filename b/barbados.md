@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](belarus.md)
 # Barbados
+5 September, 2021
+
 
 Barbados breakfast: Conkies. Sweet puddings cooked with steam. Very
 similar to the ducana from Antigua.

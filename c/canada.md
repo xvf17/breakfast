@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](car.md)
 # Canada
+2 January, 2022
+
 
 Canadian breakfast: hash browns, back bacon, fried eggs. 'Nuff said.
 

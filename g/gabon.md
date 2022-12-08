@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](gambia.md)
 # Gabon
+7 August, 2022
+
 
 Gabonese breakfast: coupe&#769;-coupe&#769; steak sandwich. I was not
 disappointed to discover this is what I had to make for

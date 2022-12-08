@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](ethiopia.md)
 # Eswatini
+3 July, 2022
+
 
 Liswati breakfast: Sishwala. Cornmeal and beans, will keep you going all day.
 

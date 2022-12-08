@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](dominica.md)
 # Djibouti
+24 April, 2022
+
 
 Djiboutian breakfast: lahoh with coffee, oodkac. Both of these dishes
 were great, but the oodkac (in the bowl) was amazing.  Made with beef,

@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](../d/denmark.md)
 # Czech Republic
+10 April, 2022
+
 
 Czech breakfast: smaz&#774;enice with veka bread. This tasted way
 better than it looks. Basically a mushroom scramble and some

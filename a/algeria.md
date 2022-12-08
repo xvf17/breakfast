@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](andorra.md)
 # Algeria
+13 June, 2021
+
 
 Algerian breakfast: M'shewsha. Eggy pancake steeped in honey. What's
 not to like?

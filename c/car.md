@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](chad.md)
 # Central African Republic
+9 January, 2022
+
 
 Central African breakfast: chichinga beef kebab with a bright tropical
 salad. From my research, breakfast in CAR is just left-overs from the

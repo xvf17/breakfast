@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](colombia.md)
 # China
+30 January, 2022
+
 
 Chinese breakfast: adzuki bean bao and oolong tea. Who doesn't like bao? Our adzuki beans were a little old, but this was still great.
 

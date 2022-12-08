@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](honduras.md)
 # Haiti
+23 October, 2022
+
 
 Haitian breakfast: labouyi bannann. Porridge made from plantains. Spice mix was a fun addition.
 

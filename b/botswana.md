@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](brazil.md)
 # Botswana
+31 October, 2021
+
 
 Botswana breakfast: Sorghum porridge. In a word: bland. It does fill
 you up till lunch time, though.

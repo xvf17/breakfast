@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](../f/fiji.md)
 # Ethiopia
+10 July, 2022
+
 
 Ethiopian breakfast: firfir and injera. Firfir is a stew made from
 tomatoes and dried beef. I really enjoyed eating this, though I doubt

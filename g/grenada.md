@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](guatemala.md)
 # Grenada
+18 September, 2022
+
 
 Grenadian breakfast: oat coconut bake, cocoa ball tea, fried
 plantains. you have to buy cocoa balls in huge quantities, so I have

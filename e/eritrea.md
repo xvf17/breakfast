@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](estonia.md)
 # Eritrea
+19 June, 2022
+
 
 Eritrean breakfast: shaman ful with fried egg. The ful is made from
 lima beans, tomatoes, and chilies. LIked this much more than expected;

@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](germany.md)
 # Georgia
+21 August, 2022
+
 
 Georgian breakfast: chirbuli. Basically, shakshouka with nuts. Very
 agreeable, but a challenge to plate.

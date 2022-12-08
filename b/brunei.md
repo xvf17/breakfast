@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](bulgaria.md)
 # Brunei
+14 November, 2021
+
 
 Bruneian breakfast: Kaya and briche french toast. My wife put the kaya
 on the french toast instead fo syrup.

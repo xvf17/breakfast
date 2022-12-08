@@ -1,6 +1,8 @@
 [top](../index.md)
 [next](albania.md)
 # Afghanistan
+30 May, 2021
+
 
 Afghani breakfast: pilaf with chicken parts and candied carrots and
 raisins. We enjoyed this quite a bit, though I should have scaled the

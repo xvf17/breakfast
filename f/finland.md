@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](france.md)
 # Finland
+24 July, 2022
+
 
 Finnish breakfast: karjalan pies. Rice filled hand pies topped with ham. Yum.
 

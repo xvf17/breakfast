@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](brunei.md)
 # Brazil
+7 November, 2021
+
 
 Brazilian breakfast: misto quento and pingado. Basically a breakfast
 panini. Delicious. And of course, no Brazilian breakfast would be

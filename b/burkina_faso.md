@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](burundi.md)
 # Burkina Faso
+28 November, 2021
+
 
 Burkinab&egrave; breakfast: fried eggs with baguette and coffee.
 

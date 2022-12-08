@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](bangladesh.md)
 # Bahrain
+22 August, 2021
+
 
 Bahrani breakfast: Chai Haleeb, balaleet, nikhee. Chick peas and
 spaghetti for breakfast? Why not?

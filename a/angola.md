@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](antigua_and_barbuda.md)
 # Angola
+27 June, 2021
+
 
 Angolan breakfast: Funje. This tastes like packing material to me. The
 fruit wa nice, thtough.

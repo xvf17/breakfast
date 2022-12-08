@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](georgia.md)
 # Gambia
+14 August, 2022
+
 
 Gambian breakfast: chura gerte. Peanut rice porridge that was very
 strange to my palate, but very enjoyable.

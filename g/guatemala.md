@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](guinea.md)
 # Guatemala
+25 September, 2022
+
 
 Guatemalan breakfast: refried beans, plantains, egg, tortillas, queso
 fresco, and coffee. I could easily eat this every day. Yum.

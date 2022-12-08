@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](bosnia.md)
 # Boliva
+17 October, 2021
+
 
 Bolivian breakfast: Sultanas and batido. Sultanas are basically
 empanadas. I screwed up the aesthetics a bit, but they were

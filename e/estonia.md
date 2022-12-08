@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](eswatini.md)
 # Estonia
+26 June, 2022
+
 
 Estonian breakfast: kama. This was a lot of work, but the results were
 well worth it. Delicious nutty breakfast cereal, very satisfying. And

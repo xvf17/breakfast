@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](india.md)
 # Iceland
+13 November, 2022
+
 
 Icelandic breakfast: Po&#776;nnuko&#776;kur with lingonberry
 jam. Lingonberry jam is my new jam; it is sooooo good. The

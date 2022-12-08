@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](algeria.md)
 # Albania
+6 June, 2021
+
 
 Albanian breakfast: Byrek, with yogurt for dipping. Very tasty, wish I'd made more. Three apiece just wasn't enough.
 

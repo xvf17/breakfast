@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](finland.md)
 # Fiji
+17 July, 2022
+
 
 Fijian breakfast: babakao. Basically cinnamon toast. Yummy.
 

@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](cyprus.md)
 # Cuba
+27 March, 2022
+
 
 Cuban breakfast: Coffee, frut (plantain, mango), pan de
 gloria. Amusingly, my wife's family are from Cuba, but they don't

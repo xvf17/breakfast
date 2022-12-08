@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](belize.md)
 # Belgium
+19 September, 2021
+
 
 Belgian breakfast: Li&egrave;ge Waffles. How could I do anything else
 for Belgium? These were unusual to me, as they're made from a dough

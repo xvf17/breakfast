@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](equatorial_guinea.md)
 # El Salvador
+5 June, 2022
+
 
 Salvadoran breakfast: casamiento, with scrambled eggs, fried
 plantains, and tortillas. Casamiento is a variation on red beans and

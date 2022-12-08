@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](cambodia.md)
 # Cabo Verde
+12 December, 2021
+
 
 Cabo Verdean breakfast: cachupa guisado. This dish is made from leftover cachupa, so I got to try two new things. Very hearty dish, and I think a small village could have been happy with the batch I made.
 

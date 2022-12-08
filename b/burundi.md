@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](../c/cabo_verde.md)
 # Burundi
+5 December, 2021
+
 
 Abarundi breakfast: bean and plantain stew with toast and coffee. The
 stew was very good, fi a little savory for my breakfast time

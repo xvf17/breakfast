@@ -16,6 +16,8 @@ reach out, I'm Zen Zero on [mastodon](https://sfba.social/@xvf17).  I
 will also post from there when there are new entries here, so you can
 follow me for updates if you like.
 
+![breakfast spread](images/spread.jpeg)
+
 * [Afghanistan](a/afghanistan.md) - pilaf with chicken parts, candied carrots, and
 raisins
 * [Albania](a/albania.md) - byrek

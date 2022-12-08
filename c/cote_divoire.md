@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](croatia.md)
 # Co&#770;te d'Ivoire
+13 March, 2022
+
 
 Ivoirian breakfast: Attie&#769;ke&#769; (aka Garba) with roast
 chicken. It's more commonly served with fish, but this is also

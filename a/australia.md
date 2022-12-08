@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](austria.md)
 # Australia
+25 July, 2021
+
 
 Australian breakfast: Vegemite! This stuff is strong, so it's used in
 very small quantities. I've resolved to develop a taste for it by the

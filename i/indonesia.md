@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](iran.md)
 # Indonesia
+27 November, 2022
+
 
 Indonesian breakfast: Bubur ayam with peanut sauce. I think I maybe
 overdid the shrimp crackers, but I'm here to say it was NOT a

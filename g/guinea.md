@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](guinea_bissau.md)
 # Guinea
+2 October, 2022
+
 
 Guinean breakfast: beignets de poisson. Tuna empanadas, more or
 less. Enjoyed these a lot more than I expected, would make again.

@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](hungary.md)
 # Honduras
+30 October, 2022
+
 
 Honduran breakfast: baleadas. Basically bean tacos. Really yummy; my
 presentation doesn't do it justice. If you're thinking about making

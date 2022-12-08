@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](czech.md)
 # Cyprus
+3 April, 2022
+
 
 Cypriot breakfast: prozymi bread, fried eggs, fried halloumi, and
 speck. The speck was a substitute for lountza, which I was unable to

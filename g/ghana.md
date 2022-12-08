@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](greece.md)
 # Ghana
+4 September, 2022
+
 
 Ghanaian breakfast: waakye, with fried plantains and a hard boiled
 egg. The Ghan version of rice and beans, with spaghetti and

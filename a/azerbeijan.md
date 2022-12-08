@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](../b/bahamas.md)
 # Azerbaijan
+8 August, 2021
+
 
 Azerbaijani breakfast: kezmik, feta, olallieberry jam, and tandir
 bread. All home made except the feta. The kezmic was easy to make, but

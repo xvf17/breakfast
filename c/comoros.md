@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](droc.md)
 # Comoros
+13 February, 2022
+
 
 Comorian breakfast: mkatra futra.  A savory pancake that is much more
 interesting than it looks because of the coconut milk. I'll definitely

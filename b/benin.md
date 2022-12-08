@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](bhutan.md)
 # Benin
+3 October, 2021
+
 
 Beninese breakfast: Akara, peanut sauce, baked yam. Akara are fritters
 made from hulled black-eyed peas. Hulling black-eyed peas is a pain,

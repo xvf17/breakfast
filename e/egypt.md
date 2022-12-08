@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](el_salvador.md)
 # Egypt
+29 May, 2022
+
 
 Egyptian breakfast: foul and falafel. I had some trouble following
 this recipe; my falafel just disintegrated in the oil. But the taste

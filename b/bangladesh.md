@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](barbados.md)
 # Bangladesh
+29 August, 2021
+
 
 Bangladeshi breakfast: Chapri with potato curry. The Chapri were just savory pancakes. Delicious, but I made to many. >urp<
 

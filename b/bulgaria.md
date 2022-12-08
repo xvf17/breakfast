@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](burkina_faso.md)
 # Bulgaria
+21 November, 2021
+
 
 Bulgarian breakfast: Banista. Feta cheese pie made with phyllo
 dough. Very rich and filling, keeps you going all morning.

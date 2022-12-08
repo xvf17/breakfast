@@ -2,6 +2,8 @@
 [top](../index.md)
 [next](../e/east_timor.md)
 # Dominican Republic
+8 May, 2022
+
 
 Dominican breakfast: mangu&#769; con los tres golpes. This was a fun
 one, with lots of different components. A little frenetic in the
