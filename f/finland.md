@@ -5,7 +5,7 @@
 24 July, 2022
 
 
-Finnish breakfast: karjalan pies. Rice filled hand pies topped with ham. Yum.
+Finnish breakfast: karjalan pies. Rice-filled hand pies topped with ham. Yum.
 
 [recipe](https://www.allrecipes.com/recipe/56443/karjalan-pies/)
 

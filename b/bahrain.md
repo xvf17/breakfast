@@ -5,7 +5,7 @@
 22 August, 2021
 
 
-Bahrani breakfast: Chai Haleeb, balaleet, nikhee. Chick peas and
+Bahraini breakfast: Chai Haleeb, balaleet, nikhee. Chickpeas and
 spaghetti for breakfast? Why not?
 
 [chai haleeb recipe](https://housewivesofkuwait.wordpress.com/2012/10/05/kuwaiti-breakfast-staple-chai-haleeb/)<br>

@@ -5,8 +5,8 @@
 27 June, 2021
 
 
-Angolan breakfast: Funje. This tastes like packing material to me. The
-fruit wa nice, thtough.
+Angolan breakfast: Funje. This tasted like packing material to me. The
+fruit was nice though.
 
 [recipe](https://wakeupandeatglobal.weebly.com/angolan-breakfast.html)
 

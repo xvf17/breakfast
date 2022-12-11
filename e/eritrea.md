@@ -6,7 +6,7 @@
 
 
 Eritrean breakfast: shaman ful with fried egg. The ful is made from
-lima beans, tomatoes, and chilies. Liked this much more than expected;
+lima beans, tomatoes, and chilis. Liked this much more than expected;
 my history with lima beans is checkered. Biggest surprise: there were
 no frozen lima beans at the market.
 

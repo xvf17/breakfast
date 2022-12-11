@@ -5,8 +5,8 @@
 8 August, 2021
 
 
-Azerbaijani breakfast: kezmik, feta, olallieberry jam, and tandir
-bread. All home made except the feta. The kezmic was easy to make, but
+Azerbaijani breakfast: kesmik, feta, olallieberry jam, and tandir
+bread. All homemade except the feta. The kesmik was easy to make, but
 a little boring to eat.
 
 [bread recipe](https://azcookbook.com/2008/01/15/tandoori-bread/)<br>

@@ -5,7 +5,7 @@
 6 March, 2022
 
 
-Costa Rican breakfast: (slightly burnt) choreadas, gallo pinto, lizano sauce, and coffee. Savory, just a bit spicy. Really good, though.
+Costa Rican breakfast: (slightly burnt) choreadas, gallo pinto, lizano sauce, and coffee. Savory, just a bit spicy. Really good though.
 
 Clearly, my plating needs work....
 

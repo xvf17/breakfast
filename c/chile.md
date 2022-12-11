@@ -5,7 +5,7 @@
 23 January, 2022
 
 
-Chilean breakfast: ulpo and toast. I like this a lot more than I
+Chilean breakfast: ulpo and toast. I liked this a lot more than I
 expected to; it improves a lot with added milk.
 
 [Ulpo recipe](https://www.chileanfoodandgarden.com/ulpo-chilean-recipe/)<br>

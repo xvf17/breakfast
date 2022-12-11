@@ -5,9 +5,9 @@
 15 August, 2021
 
 
-Bahamian breakfast: Chicken Souse and Johnny Cake. The lime in teh
-souse was surprisingly strong, giving it a much lighter flaver than I
-epxected. Very enjoyable.
+Bahamian breakfast: Chicken Souse and Johnny Cake. The lime in the
+souse was surprisingly strong, giving it a much lighter flavor than I
+expected. Very enjoyable.
 
 [souse recipe](https://www.allrecipes.com/recipe/163906/bahamian-chicken-souse/)
 <br>

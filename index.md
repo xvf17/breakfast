@@ -31,7 +31,7 @@ raisins
 * [Armenia](a/armenia.md) - tomatoes and eggs
 * [Australia](a/australia.md) - toast with Vegemite
 * [Austria](a/austria.md) - tiroler groestl
-* [Azerbeijan](a/azerbeijan.md) - tandoori bread, feta, curd cheese, jam
+* [Azerbaijan](a/azerbeijan.md) - tandoori bread, feta, curd cheese, jam
 
 <img src="b/images/belgium.jpeg" width="30%" height="30%">
 

@@ -5,7 +5,7 @@
 21 August, 2022
 
 
-Georgian breakfast: chirbuli. Basically, shakshouka with nuts. Very
+Georgian breakfast: chirbuli. Basically shakshouka with nuts. Very
 agreeable, but a challenge to plate.
 
 [recipe](https://folkways.today/chirbuli-georgian-breakfast-egg/#Lets_Cook)

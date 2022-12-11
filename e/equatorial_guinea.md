@@ -5,7 +5,7 @@
 12 June, 2022
 
 
-Equatoguinean breakfast: akwadu. More or less bananas foster without
+Equatoguinean breakfast: akwadu. More or less Bananas Foster without
 the booze. Enjoyed this quite a bit.
 
 [recipe](https://www.internationalcuisine.com/baked-bananas/)
