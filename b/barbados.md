@@ -1,6 +1,8 @@
-[prev](bangladesh.md)
-[top](../index.md)
+<span><p align=center>
+[prev](bangladesh.md)&emsp;
+[top](../index.md)&emsp;
 [next](belarus.md)
+</p></span>
 # Barbados
 5 September, 2021
 

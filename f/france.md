@@ -1,6 +1,8 @@
-[prev](finland.md)
-[top](../index.md)
+<span><p align=center>
+[prev](finland.md)&emsp;
+[top](../index.md)&emsp;
 [next](../g/gabon.md)
+</p></span>
 # France
 31 July, 2022
 

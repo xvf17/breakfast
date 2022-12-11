@@ -1,6 +1,8 @@
-[prev](bulgaria.md)
-[top](../index.md)
+<span><p align=center>
+[prev](bulgaria.md)&emsp;
+[top](../index.md)&emsp;
 [next](burundi.md)
+</p></span>
 # Burkina Faso
 28 November, 2021
 

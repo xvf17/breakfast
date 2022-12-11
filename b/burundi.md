@@ -1,6 +1,8 @@
-[prev](burkina_faso.md)
-[top](../index.md)
+<span><p align=center>
+[prev](burkina_faso.md)&emsp;
+[top](../index.md)&emsp;
 [next](../c/cabo_verde.md)
+</p></span>
 # Burundi
 5 December, 2021
 

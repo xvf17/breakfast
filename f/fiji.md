@@ -1,6 +1,8 @@
-[prev](../e/ethiopia.md)
-[top](../index.md)
+<span><p align=center>
+[prev](../e/ethiopia.md)&emsp;
+[top](../index.md)&emsp;
 [next](finland.md)
+</p></span>
 # Fiji
 17 July, 2022
 

@@ -1,6 +1,8 @@
-[prev](cambodia.md)
-[top](../index.md)
+<span><p align=center>
+[prev](cambodia.md)&emsp;
+[top](../index.md)&emsp;
 [next](canada.md)
+</p></span>
 # Cameroon
 26 December, 2021
 

@@ -1,6 +1,8 @@
-[prev](fiji.md)
-[top](../index.md)
+<span><p align=center>
+[prev](fiji.md)&emsp;
+[top](../index.md)&emsp;
 [next](france.md)
+</p></span>
 # Finland
 24 July, 2022
 

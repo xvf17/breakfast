@@ -1,13 +1,15 @@
-[prev](china.md)
-[top](../index.md)
+<span><p align=center>
+[prev](china.md)&emsp;
+[top](../index.md)&emsp;
 [next](comoros.md)
+</p></span>
 # Colombia
 6 February, 2022
 
 
 Colombian breakfast: changua. My first go at making poached eggs, and
 it has to be paired with soggy bread. This dish would definitely take
-som getting used to.
+some getting used to.
 
 [recipe](https://www.unacolombianaencalifornia.com/2020/09/changua-colombian-breakfast-soup/)
 

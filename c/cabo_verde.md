@@ -1,6 +1,8 @@
-[prev](../b/burundi.md)
-[top](../index.md)
+<span><p align=center>
+[prev](../b/burundi.md)&emsp;
+[top](../index.md)&emsp;
 [next](cambodia.md)
+</p></span>
 # Cabo Verde
 12 December, 2021
 

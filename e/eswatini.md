@@ -1,6 +1,8 @@
-[prev](estonia.md)
-[top](../index.md)
+<span><p align=center>
+[prev](estonia.md)&emsp;
+[top](../index.md)&emsp;
 [next](ethiopia.md)
+</p></span>
 # Eswatini
 3 July, 2022
 

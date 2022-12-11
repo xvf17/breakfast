@@ -1,6 +1,8 @@
-[prev](angola.md)
-[top](../index.md)
+<span><p align=center>
+[prev](angola.md)&emsp;
+[top](../index.md)&emsp;
 [next](argentina.md)
+</p></span>
 # Antigua and Barbuda
 4 July, 2021
 

@@ -2,7 +2,7 @@
 
 ![breakfast spread](images/spread.jpeg)
 
-I started this project on the 25th of April, 2021. My pledge to myself
+I started this project on the 30th of May, 2021. My pledge to myself
 was that I would make breakfast for my wife and myself every Sunday,
 once each from every country in the UN offical list of world
 countries. I decided to do it in alphabetical order, so that I
@@ -18,7 +18,7 @@ reach out, I'm Zen Zero on [mastodon](https://sfba.social/@xvf17).  I
 will also post from there when there are new entries here, so you can
 follow me for updates if you like.
 
-![Albanian breakfast](a/images/albania.jpeg)
+<img src="a/images/albania.jpeg" height="30%" width="30%">
 
 * [Afghanistan](a/afghanistan.md) - pilaf with chicken parts, candied carrots, and
 raisins
@@ -33,7 +33,7 @@ raisins
 * [Austria](a/austria.md) - tiroler groestl
 * [Azerbeijan](a/azerbeijan.md) - tandoori bread, feta, curd cheese, jam
 
-![Belgian waffles](b/images/belgium.jpeg)
+<img src="b/images/belgium.jpeg" width="30%" height="30%">
 
 * [The Bahamas](b/bahamas.md) - chicken souse, Johnny cake
 * [Bahrain](b/bahrain.md) - chai haleeb, balaleet, nikhee
@@ -53,7 +53,7 @@ raisins
 * [Burkina Faso](b/burkina_faso.md) - coffee, fried egg, and fresh French-style baguette
 * [Burundi](b/burundi.md) - bean and plantain stew, toast, coffee
 
-![Cambodian breakfast](c/images/cambodia.jpeg)
+<img src="c/images/cambodia.jpeg" width="30%" height="30%">
 
 * [Cabo Verde](c/cabo_verde.md) - cachupa guisado
 * [Cambodia](c/cambodia.md) - bai sach chrouk
@@ -74,14 +74,14 @@ raisins
 * [Cyprus](c/cyprus.md) - prozymi bread, fried eggs, halloumi, speck
 * [Czech Republic](c/czech.md) - smaženice with veka bread
 
-![Danish breakfast](d/images/denmark.jpeg)
+<img src="d/images/denmark.jpeg" width="30%" height="30%">
 
 * [Denmark](d/denmark.md) - Rundstykker with havarti, jam, and coffee
 * [Djibouti](d/djibouti.md) - lahoh with coffee, oodkac
 * [Dominica](d/dominica.md) - Arepa Salada
 * [Dominican Republic](d/dominican_republic.md) - los tres golpes
 
-![Estonian breakfast](e/images/estonia.jpeg)
+<img src="e/images/estonia.jpeg" width="30%" height="30%">
 
 * [East Timor](e/east_timor.md) (Timor-Leste) - kape at pandesal
 * [Ecuador](e/ecuador.md) - humitas
@@ -93,13 +93,13 @@ raisins
 * [Eswatini](e/eswatini.md) - Sishwala
 * [Ethiopia](e/ethiopia.md) - firfir and njera
 
-![Finnish breakfast](f/images/finland.jpeg)
+<img src="f/images/finland.jpeg" width="30%" height="30%">
 
 * [Fiji](f/fiji.md) - babakao
 * [Finland](f/finland.md) - karjalan pies (with ham)
 * [France](f/france.md) - hot chocolate w/ brioche
 
-![Gabonese breakfast](g/images/gabon.jpeg)
+<img src="g/images/gabon.jpeg" width="30%" height="30%">
 
 * [Gabon](g/gabon.md) - coupé-coupé
 * [The Gambia](g/gambia.md) - Chura Gerte
@@ -113,19 +113,19 @@ raisins
 * [Guinea-Bissau](g/guinea_bissau.md) - chakery
 * [Guyana](g/guyana.md) - rock buns
 
-![Hungarian breakfast](h/images/hungary.jpeg)
+<img src="h/images/hungary.jpeg" width="30%" height="30%">
 
 * [Haiti](h/haiti.md) - Labouyi Bannann
 * [Honduras](h/honduras.md) - Baleadas
 * [Hungary](h/hungary.md) - Búbos rántotta
 
-![Icelandic breakfast](i/images/iceland.jpeg)
+<img src="i/images/iceland.jpeg" width="30%" height="30%">
 
 * [Iceland](i/iceland.md) - Pönnukökur
 * [India](i/india.md) - Aloo Paratha
 * [Indonesia](i/indonesia.md) - Bubur ayam with peanut sauce
 * [Iran](i/iran.md) - sangak, feta, chai, omelet
-* Iraq - Bigilla and Khubz
+* [Iraq](i/iraq.md) - Bigilla and Khubz
 * Ireland - Full Irish Breakfast
 * Israel - shakshuka
 * Italy - necci

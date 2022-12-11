@@ -1,6 +1,8 @@
-[prev](bolivia.md)
-[top](../index.md)
+<span><p align=center>
+[prev](bolivia.md)&emsp;
+[top](../index.md)&emsp;
 [next](botswana.md)
+</p></span>
 # Bosnia
 24 October, 2021
 

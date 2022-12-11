@@ -1,6 +1,8 @@
-[prev](../f/france.md)
-[top](../index.md)
+<span><p align=center>
+[prev](../f/france.md)&emsp;
+[top](../index.md)&emsp;
 [next](gambia.md)
+</p></span>
 # Gabon
 7 August, 2022
 

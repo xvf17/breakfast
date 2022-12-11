@@ -1,6 +1,8 @@
-[prev](ghana.md)
-[top](../index.md)
+<span><p align=center>
+[prev](ghana.md)&emsp;
+[top](../index.md)&emsp;
 [next](grenada.md)
+</p></span>
 # Greece
 11 September, 2022
 

@@ -1,6 +1,8 @@
-[prev](barbados.md)
-[top](../index.md)
+<span><p align=center>
+[prev](barbados.md)&emsp;
+[top](../index.md)&emsp;
 [next](belgium.md)
+</p></span>
 # Belarus
 12 September, 2021
 

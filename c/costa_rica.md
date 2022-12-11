@@ -1,6 +1,8 @@
-[prev](roc.md)
-[top](../index.md)
+<span><p align=center>
+[prev](roc.md)&emsp;
+[top](../index.md)&emsp;
 [next](cote_divoire.md)
+</p></span>
 # Costa Rica
 6 March, 2022
 

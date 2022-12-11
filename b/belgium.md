@@ -1,6 +1,8 @@
-[prev](belarus.md)
-[top](../index.md)
+<span><p align=center>
+[prev](belarus.md)&emsp;
+[top](../index.md)&emsp;
 [next](belize.md)
+</p></span>
 # Belgium
 19 September, 2021
 

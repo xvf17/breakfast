@@ -1,11 +1,13 @@
-[prev](chad.md)
-[top](../index.md)
+<span><p align=center>
+[prev](chad.md)&emsp;
+[top](../index.md)&emsp;
 [next](china.md)
+</p></span>
 # Chile
 23 January, 2022
 
 
-Chilean breakfast: ulpo and toast. I like this a lot mre than I
+Chilean breakfast: ulpo and toast. I like this a lot more than I
 expected to; it improves a lot with added milk.
 
 [Ulpo recipe](https://www.chileanfoodandgarden.com/ulpo-chilean-recipe/)<br>

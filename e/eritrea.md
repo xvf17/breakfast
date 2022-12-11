@@ -1,14 +1,16 @@
-[prev](equatorial_guinea.md)
-[top](../index.md)
+<span><p align=center>
+[prev](equatorial_guinea.md)&emsp;
+[top](../index.md)&emsp;
 [next](estonia.md)
+</p></span>
 # Eritrea
 19 June, 2022
 
 
 Eritrean breakfast: shaman ful with fried egg. The ful is made from
-lima beans, tomatoes, and chilies. LIked this much more than expected;
-my history with lima beans is checkered. Biggest surprise, no frozen
-lima beans at the market.
+lima beans, tomatoes, and chilies. Liked this much more than expected;
+my history with lima beans is checkered. Biggest surprise: there were
+no frozen lima beans at the market.
 
 [recipe](https://tastecooking.com/recipes/shahan-ful-mashed-limas-with-onions-tomatoes-and-chiles/)
 

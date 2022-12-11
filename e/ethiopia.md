@@ -1,6 +1,8 @@
-[prev](eswatini.md)
-[top](../index.md)
+<span><p align=center>
+[prev](eswatini.md)&emsp;
+[top](../index.md)&emsp;
 [next](../f/fiji.md)
+</p></span>
 # Ethiopia
 10 July, 2022
 

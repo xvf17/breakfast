@@ -1,6 +1,8 @@
-[prev](antigua_and_barbuda.md)
-[top](../index.md)
+<span><p align=center>
+[prev](antigua_and_barbuda.md)&emsp;
+[top](../index.md)&emsp;
 [next](armenia.md)
+</p></span>
 # Argentina
 11 July, 2021
 

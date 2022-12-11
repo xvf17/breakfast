@@ -1,6 +1,8 @@
-[prev](brazil.md)
-[top](../index.md)
+<span><p align=center>
+[prev](brazil.md)&emsp;
+[top](../index.md)&emsp;
 [next](bulgaria.md)
+</p></span>
 # Brunei
 14 November, 2021
 

@@ -1,6 +1,8 @@
-[prev](armenia.md)
-[top](../index.md)
+<span><p align=center>
+[prev](armenia.md)&emsp;
+[top](../index.md)&emsp;
 [next](austria.md)
+</p></span>
 # Australia
 25 July, 2021
 

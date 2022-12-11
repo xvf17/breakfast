@@ -1,6 +1,8 @@
-[prev](georgia.md)
-[top](../index.md)
+<span><p align=center>
+[prev](georgia.md)&emsp;
+[top](../index.md)&emsp;
 [next](ghana.md)
+</p></span>
 # Germany
 28 August, 2022
 

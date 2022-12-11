@@ -1,6 +1,8 @@
-[prev](belize.md)
-[top](../index.md)
+<span><p align=center>
+[prev](belize.md)&emsp;
+[top](../index.md)&emsp;
 [next](bhutan.md)
+</p></span>
 # Benin
 3 October, 2021
 

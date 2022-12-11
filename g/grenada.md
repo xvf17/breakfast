@@ -1,6 +1,8 @@
-[prev](greece.md)
-[top](../index.md)
+<span><p align=center>
+[prev](greece.md)&emsp;
+[top](../index.md)&emsp;
 [next](guatemala.md)
+</p></span>
 # Grenada
 18 September, 2022
 

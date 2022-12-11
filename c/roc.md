@@ -1,6 +1,8 @@
-[prev](droc.md)
-[top](../index.md)
+<span><p align=center>
+[prev](droc.md)&emsp;
+[top](../index.md)&emsp;
 [next](costa_rica.md)
+</p></span>
 # Republic of Congo
 27 February, 2022
 

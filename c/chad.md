@@ -1,6 +1,8 @@
-[prev](car.md)
-[top](../index.md)
+<span><p align=center>
+[prev](car.md)&emsp;
+[top](../index.md)&emsp;
 [next](chile.md)
+</p></span>
 # Chad
 16 January, 2022
 

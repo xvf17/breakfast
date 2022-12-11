@@ -1,6 +1,8 @@
-[prev](cuba.md)
-[top](../index.md)
+<span><p align=center>
+[prev](cuba.md)&emsp;
+[top](../index.md)&emsp;
 [next](czech.md)
+</p></span>
 # Cyprus
 3 April, 2022
 

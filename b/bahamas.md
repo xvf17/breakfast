@@ -1,6 +1,8 @@
-[prev](../a/azerbeijan.md)
-[top](../index.md)
+<span><p align=center>
+[prev](../a/azerbeijan.md)&emsp;
+[top](../index.md)&emsp;
 [next](bahrain.md)
+</p></span>
 # The Bahamas
 15 August, 2021
 

@@ -1,6 +1,8 @@
-[prev](dominica.md)
-[top](../index.md)
+<span><p align=center>
+[prev](dominica.md)&emsp;
+[top](../index.md)&emsp;
 [next](../e/east_timor.md)
+</p></span>
 # Dominican Republic
 8 May, 2022
 

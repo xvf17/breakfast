@@ -1,6 +1,8 @@
-[prev](bhutan.md)
-[top](../index.md)
+<span><p align=center>
+[prev](bhutan.md)&emsp;
+[top](../index.md)&emsp;
 [next](bosnia.md)
+</p></span>
 # Boliva
 17 October, 2021
 
@@ -14,4 +16,4 @@ sure.
 <br>
 [Batido recipe](https://mexicanfoodjournal.com/banana-licuado/)
 
-![Bolivian breakfast](images/boliva.jpeg)
+![Bolivian breakfast](images/bolivia.jpeg)

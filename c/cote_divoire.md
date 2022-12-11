@@ -1,6 +1,8 @@
-[prev](costa_rica.md)
-[top](../index.md)
+<span><p align=center>
+[prev](costa_rica.md)&emsp;
+[top](../index.md)&emsp;
 [next](croatia.md)
+</p></span>
 # Co&#770;te d'Ivoire
 13 March, 2022
 
