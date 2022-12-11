@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](argentina.md)&emsp;
 [top](../index.md)&emsp;
 [next](australia.md)
-</p></span>
 # Armenia
 18 July, 2021
 

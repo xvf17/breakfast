@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](guatemala.md)&emsp;
 [top](../index.md)&emsp;
 [next](guinea_bissau.md)
-</p></span>
 # Guinea
 2 October, 2022
 

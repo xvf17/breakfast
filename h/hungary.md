@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](honduras.md)&emsp;
 [top](../index.md)&emsp;
 [next](../i/iceland.md)
-</p></span>
 # Hungary
 6 November, 2022
 

@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](haiti.md)&emsp;
 [top](../index.md)&emsp;
 [next](hungary.md)
-</p></span>
 # Honduras
 30 October, 2022
 

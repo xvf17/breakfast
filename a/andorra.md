@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](algeria.md)&emsp;
 [top](../index.md)&emsp;
 [next](angola.md)
-</p></span>
 # Andorra
 20 June, 2021
 

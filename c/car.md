@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](canada.md)&emsp;
 [top](../index.md)&emsp;
 [next](chad.md)
-</p></span>
 # Central African Republic
 9 January, 2022
 

@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](afghanistan.md)&emsp;
 [top](../index.md)&emsp;
 [next](algeria.md)
-</p></span>
 # Albania
 6 June, 2021
 

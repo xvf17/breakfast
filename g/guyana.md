@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](guinea_bissau.md)&emsp;
 [top](../index.md)&emsp;
 [next](../h/haiti.md)
-</p></span>
 # Guyana
 16 October, 2022
 

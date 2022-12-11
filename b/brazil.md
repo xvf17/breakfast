@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](botswana.md)&emsp;
 [top](../index.md)&emsp;
 [next](brunei.md)
-</p></span>
 # Brazil
 7 November, 2021
 

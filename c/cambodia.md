@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](cabo_verde.md)&emsp;
 [top](../index.md)&emsp;
 [next](cameroon.md)
-</p></span>
 # Cambodia
 19 December, 2021
 

@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](cameroon.md)&emsp;
 [top](../index.md)&emsp;
 [next](car.md)
-</p></span>
 # Canada
 2 January, 2022
 

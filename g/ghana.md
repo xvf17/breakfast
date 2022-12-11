@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](germany.md)&emsp;
 [top](../index.md)&emsp;
 [next](greece.md)
-</p></span>
 # Ghana
 4 September, 2022
 

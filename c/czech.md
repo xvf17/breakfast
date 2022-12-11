@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](cyprus.md)&emsp;
 [top](../index.md)&emsp;
 [next](../d/denmark.md)
-</p></span>
 # Czech Republic
 10 April, 2022
 

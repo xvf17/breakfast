@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](iceland.md)&emsp;
 [top](../index.md)&emsp;
 [next](indonesia.md)
-</p></span>
 # India
 20 November, 2022
 

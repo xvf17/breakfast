@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](bosnia.md)&emsp;
 [top](../index.md)&emsp;
 [next](brazil.md)
-</p></span>
 # Botswana
 31 October, 2021
 

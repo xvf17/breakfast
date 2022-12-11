@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](belgium.md)&emsp;
 [top](../index.md)&emsp;
 [next](benin.md)
-</p></span>
 # Belize
 26 September, 2021
 

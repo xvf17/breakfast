@@ -1,7 +1,5 @@
-<span><p align=center>
 [top](../index.md)&emsp;
 [next](albania.md)
-</p></span>
 # Afghanistan
 30 May, 2021
 

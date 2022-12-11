@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](../c/czech.md)&emsp;
 [top](../index.md)&emsp;
 [next](djibouti.md)
-</p></span>
 # Denmark
 17 April, 2022
 

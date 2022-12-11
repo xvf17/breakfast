@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](../h/hungary.md)&emsp;
 [top](../index.md)&emsp;
 [next](india.md)
-</p></span>
 # Iceland
 13 November, 2022
 

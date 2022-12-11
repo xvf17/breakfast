@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](china.md)&emsp;
 [top](../index.md)&emsp;
 [next](comoros.md)
-</p></span>
 # Colombia
 6 February, 2022
 

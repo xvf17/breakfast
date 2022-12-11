@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](grenada.md)&emsp;
 [top](../index.md)&emsp;
 [next](guinea.md)
-</p></span>
 # Guatemala
 25 September, 2022
 

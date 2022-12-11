@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](equatorial_guinea.md)&emsp;
 [top](../index.md)&emsp;
 [next](estonia.md)
-</p></span>
 # Eritrea
 19 June, 2022
 

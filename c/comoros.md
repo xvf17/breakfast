@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](colombia.md)&emsp;
 [top](../index.md)&emsp;
 [next](droc.md)
-</p></span>
 # Comoros
 13 February, 2022
 

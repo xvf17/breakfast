@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](el_salvador.md)&emsp;
 [top](../index.md)&emsp;
 [next](eritrea.md)
-</p></span>
 # Equatorial Guinea
 12 June, 2022
 

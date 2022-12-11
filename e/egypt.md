@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](ecuador.md)&emsp;
 [top](../index.md)&emsp;
 [next](el_salvador.md)
-</p></span>
 # Egypt
 29 May, 2022
 

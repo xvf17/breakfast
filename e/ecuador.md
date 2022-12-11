@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](east_timor.md)&emsp;
 [top](../index.md)&emsp;
 [next](egypt.md)
-</p></span>
 # Ecuador
 22 May, 2022
 

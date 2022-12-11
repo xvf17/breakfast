@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](gabon.md)&emsp;
 [top](../index.md)&emsp;
 [next](georgia.md)
-</p></span>
 # Gambia
 14 August, 2022
 

@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](cote_divoire.md)&emsp;
 [top](../index.md)&emsp;
 [next](cuba.md)
-</p></span>
 # Croatia
 20 March, 2022
 

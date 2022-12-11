@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](guinea.md)&emsp;
 [top](../index.md)&emsp;
 [next](guyana.md)
-</p></span>
 # Guinea-Bissau
 9 October, 2022
 

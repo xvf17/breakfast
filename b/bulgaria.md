@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](brunei.md)&emsp;
 [top](../index.md)&emsp;
 [next](burkina_faso.md)
-</p></span>
 # Bulgaria
 21 November, 2021
 

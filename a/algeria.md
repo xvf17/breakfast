@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](albania.md)&emsp;
 [top](../index.md)&emsp;
 [next](andorra.md)
-</p></span>
 # Algeria
 13 June, 2021
 

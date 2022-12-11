@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](bhutan.md)&emsp;
 [top](../index.md)&emsp;
 [next](bosnia.md)
-</p></span>
 # Boliva
 17 October, 2021
 

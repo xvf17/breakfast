@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](chile.md)&emsp;
 [top](../index.md)&emsp;
 [next](colombia.md)
-</p></span>
 # China
 30 January, 2022
 

@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](bahamas.md)&emsp;
 [top](../index.md)&emsp;
 [next](bangladesh.md)
-</p></span>
 # Bahrain
 22 August, 2021
 

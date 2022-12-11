@@ -1,7 +1,5 @@
-<span><p align=center>
 [prev](iran.md)&emsp;
 [top](../index.md)&emsp;
-</p></span>
 # Iraq
 11 December, 2022
 

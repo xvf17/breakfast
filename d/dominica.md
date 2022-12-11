@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](djibouti.md)&emsp;
 [top](../index.md)&emsp;
 [next](dominican_republic.md)
-</p></span>
 # Dominica
 1 May, 2022
 

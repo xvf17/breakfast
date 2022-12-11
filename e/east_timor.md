@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](../d/dominican_republic.md)&emsp;
 [top](../index.md)&emsp;
 [next](ecuador.md)
-</p></span>
 # East Timor (Timor-Leste)
 15 May, 2022
 

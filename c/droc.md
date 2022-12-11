@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](comoros.md)&emsp;
 [top](../index.md)&emsp;
 [next](roc.md)
-</p></span>
 # Democratic Republic of Congo
 20 February, 2022
 

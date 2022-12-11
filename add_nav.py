@@ -19,9 +19,7 @@ for i in range(len(entries)):
     next = entries[i + 1] if i < len(entries) - 1 else None
     if next: next = path.relpath(next, path.dirname(entries[i]))
     with open(entries[i], 'w') as ouf:
-        ouf.write('<span><p align=center>\n')
         if prev: ouf.write('[prev](%s)&emsp;\n' % prev)
         ouf.write('[top](../index.md)&emsp;\n')
         if next: ouf.write('[next](%s)\n' % next)
-        ouf.write('</p></span>\n')
         ouf.write('\n'.join(lines))

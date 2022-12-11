@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](indonesia.md)&emsp;
 [top](../index.md)&emsp;
 [next](iraq.md)
-</p></span>
 # Iran
 4 December, 2022
 

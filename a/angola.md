@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](andorra.md)&emsp;
 [top](../index.md)&emsp;
 [next](antigua_and_barbuda.md)
-</p></span>
 # Angola
 27 June, 2021
 

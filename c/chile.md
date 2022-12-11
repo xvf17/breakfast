@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](chad.md)&emsp;
 [top](../index.md)&emsp;
 [next](china.md)
-</p></span>
 # Chile
 23 January, 2022
 

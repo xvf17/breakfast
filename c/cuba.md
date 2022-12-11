@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](croatia.md)&emsp;
 [top](../index.md)&emsp;
 [next](cyprus.md)
-</p></span>
 # Cuba
 27 March, 2022
 

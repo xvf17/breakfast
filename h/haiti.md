@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](../g/guyana.md)&emsp;
 [top](../index.md)&emsp;
 [next](honduras.md)
-</p></span>
 # Haiti
 23 October, 2022
 

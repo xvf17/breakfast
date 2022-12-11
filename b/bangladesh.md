@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](bahrain.md)&emsp;
 [top](../index.md)&emsp;
 [next](barbados.md)
-</p></span>
 # Bangladesh
 29 August, 2021
 

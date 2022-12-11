@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](egypt.md)&emsp;
 [top](../index.md)&emsp;
 [next](equatorial_guinea.md)
-</p></span>
 # El Salvador
 5 June, 2022
 

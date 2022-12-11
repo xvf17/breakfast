@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](eritrea.md)&emsp;
 [top](../index.md)&emsp;
 [next](eswatini.md)
-</p></span>
 # Estonia
 26 June, 2022
 

@@ -1,8 +1,6 @@
-<span><p align=center>
 [prev](denmark.md)&emsp;
 [top](../index.md)&emsp;
 [next](dominica.md)
-</p></span>
 # Djibouti
 24 April, 2022
 
