@@ -1,5 +1,6 @@
 [prev](iran.md)&emsp;
 [top](../index.md)&emsp;
+[next](ireland.md)
 # Iraq
 11 December, 2022
 

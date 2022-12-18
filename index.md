@@ -126,7 +126,7 @@ raisins
 * [Indonesia](i/indonesia.md) - Bubur ayam with peanut sauce
 * [Iran](i/iran.md) - sangak, feta, chai, omelet
 * [Iraq](i/iraq.md) - Bigilla and Khubz
-* Ireland - Full Irish Breakfast
+* [Ireland](i/ireland.md) - Full Irish Breakfast
 * Israel - shakshuka
 * Italy - necci
 
