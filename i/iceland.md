@@ -2,6 +2,7 @@
 [top](../index.md)&emsp;
 [next](india.md)
 # Iceland
+<meta property="og:image" content="images/iceland.png"/>
 13 November, 2022
 
 
