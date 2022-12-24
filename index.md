@@ -127,19 +127,19 @@ raisins
 * [Iran](i/iran.md) - sangak, feta, chai, omelet
 * [Iraq](i/iraq.md) - Bigilla and Khubz
 * [Ireland](i/ireland.md) - Full Irish Breakfast
-* Israel - shakshuka
+* [Israel](i/israel.md) - shakshuka
 * Italy - necci
 
 <span></span>
 
-* Jamaica
+* Jamaica - porridge
 * Japan - traditional Japanese breakfast
-* Jordan
-* Kazakhstan
+* Jordan - foul mudummas, shrak, halawa
+* Kazakhstan - baursaki
 * Kenya
 * Kiribati - milk rice
-* Korea, North
-* Korea, South
+* Korea, North - corn congee
+* Korea, South - street toast
 * Kosovo
 * Kuwait
 * Kyrgyzstan
