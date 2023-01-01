@@ -128,7 +128,7 @@ raisins
 * [Iraq](i/iraq.md) - Bigilla and Khubz
 * [Ireland](i/ireland.md) - Full Irish Breakfast
 * [Israel](i/israel.md) - shakshuka
-* Italy - necci
+* [Italy](i/italy.md) - necci
 
 <span></span>
 

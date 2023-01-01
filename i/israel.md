@@ -1,5 +1,6 @@
 [prev](ireland.md)&emsp;
 [top](../index.md)&emsp;
+[next](italy.md)
 # Israel
 <meta property="og:image" content="images/israel.png"/>
 24 December, 2022
