@@ -130,13 +130,16 @@ raisins
 * [Israel](i/israel.md) - shakshuka
 * [Italy](i/italy.md) - necci
 
-<span></span>
+<img src="j/images/jamaica.jpeg" width="30%" height="30%">
 
-* Jamaica - porridge
+* [Jamaica](j/jamaica.md) - porridge
 * Japan - traditional Japanese breakfast
 * Jordan - foul mudummas, shrak, halawa
+
+<span></span>
+
 * Kazakhstan - baursaki
-* Kenya
+* Kenya - cr&ecirc;pes
 * Kiribati - milk rice
 * Korea, North - corn congee
 * Korea, South - street toast

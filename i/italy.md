@@ -1,5 +1,6 @@
 [prev](israel.md)&emsp;
 [top](../index.md)&emsp;
+[next](../j/jamaica.md)
 # Italy
 <meta property="og:image" content="images/italy.png"/>
 1 January, 2023
