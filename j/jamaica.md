@@ -1,5 +1,6 @@
 [prev](../i/italy.md)&emsp;
 [top](../index.md)&emsp;
+[next](japan.md)
 # Jamaica
 <meta property="og:image" content="images/jamaica.png"/>
 8 January, 2023

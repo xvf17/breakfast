@@ -130,10 +130,10 @@ raisins
 * [Israel](i/israel.md) - shakshuka
 * [Italy](i/italy.md) - necci
 
-<img src="j/images/jamaica.jpeg" width="30%" height="30%">
+<img src="j/images/japan.jpeg" width="30%" height="30%">
 
 * [Jamaica](j/jamaica.md) - porridge
-* Japan - traditional Japanese breakfast
+* [Japan](j/japan.md) - traditional Japanese breakfast
 * Jordan - foul mudummas, shrak, halawa
 
 <span></span>
