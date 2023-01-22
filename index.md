@@ -134,7 +134,7 @@ raisins
 
 * [Jamaica](j/jamaica.md) - porridge
 * [Japan](j/japan.md) - traditional Japanese breakfast
-* Jordan - foul mudummas, shrak, halawa
+* [Jordan](j/jordan.md) - foul mudummas, shrak, halawa
 
 <span></span>
 
@@ -143,10 +143,10 @@ raisins
 * Kiribati - milk rice
 * Korea, North - corn congee
 * Korea, South - street toast
-* Kosovo
-* Kuwait
-* Kyrgyzstan
-* Laos
+* Kosovo - llokuma
+* Kuwait - balaleet
+* Kyrgyzstan - borsok
+* Laos - khao jee
 * Latvia
 * Lebanon
 * Lesotho
@@ -186,6 +186,7 @@ raisins
 * Oman
 * Pakistan - manakeesh
 * Palau
+* Palestine
 * Panama
 * Papua New Guinea
 * Paraguay
