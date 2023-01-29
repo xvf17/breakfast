@@ -1,5 +1,6 @@
 [prev](japan.md)&emsp;
 [top](../index.md)&emsp;
+[next](../k/kazakhstan.md)
 # Jordan
 <meta property="og:image" content="images/jordan.png"/>
 22 January, 2023

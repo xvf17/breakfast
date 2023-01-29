@@ -136,9 +136,9 @@ raisins
 * [Japan](j/japan.md) - traditional Japanese breakfast
 * [Jordan](j/jordan.md) - foul mudummas, shrak, halawa
 
-<span></span>
+<img src="k/images/kazakhstan.jpeg" width="30%" height="30%">
 
-* Kazakhstan - baursaki
+* [Kazakhstan](k/kazakhstan.md) - baursaki
 * Kenya - cr&ecirc;pes
 * Kiribati - milk rice
 * Korea, North - corn congee
@@ -146,6 +146,9 @@ raisins
 * Kosovo - llokuma
 * Kuwait - balaleet
 * Kyrgyzstan - borsok
+
+<span></span>
+
 * Laos - khao jee
 * Latvia
 * Lebanon
