@@ -1,5 +1,6 @@
 [prev](../j/jordan.md)&emsp;
 [top](../index.md)&emsp;
+[next](kenya.md)
 # Kazakhstan
 <meta property="og:image" content="images/kazakhstan.png"/>
 29 January, 2023

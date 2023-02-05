@@ -139,7 +139,7 @@ raisins
 <img src="k/images/kazakhstan.jpeg" width="30%" height="30%">
 
 * [Kazakhstan](k/kazakhstan.md) - baursaki
-* Kenya - cr&ecirc;pes
+* [Kenya](k/kenya.md) - cr&ecirc;pes
 * Kiribati - milk rice
 * Korea, North - corn congee
 * Korea, South - street toast
