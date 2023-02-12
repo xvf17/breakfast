@@ -1,5 +1,6 @@
 [prev](kazakhstan.md)&emsp;
 [top](../index.md)&emsp;
+[next](kiribati.md)
 # Kenya
 <meta property="og:image" content="images/kenya.png"/>
 5 February, 2023

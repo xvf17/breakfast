@@ -140,20 +140,20 @@ raisins
 
 * [Kazakhstan](k/kazakhstan.md) - baursaki
 * [Kenya](k/kenya.md) - cr&ecirc;pes
-* Kiribati - milk rice
+* [Kiribati](k/kiribati.md) - milk rice
 * Korea, North - corn congee
 * Korea, South - street toast
 * Kosovo - llokuma
 * Kuwait - balaleet
-* Kyrgyzstan - borsok
+* Kyrgyzstan - blini
 
 <span></span>
 
 * Laos - khao jee
-* Latvia
-* Lebanon
-* Lesotho
-* Liberia
+* Latvia - apple pancakes
+* Lebanon - fattet hummus and eggs
+* Lesotho - makoenva
+* Liberia - moni kalama
 * Libya
 * Liechtenstein
 * Lithuania
@@ -208,7 +208,7 @@ raisins
 * San Marino
 * Sao Tome and Principe
 * Saudi Arabia
-* Senegal
+* Senegal - ndambe
 * Serbia
 * Seychelles
 * Sierra Leone
@@ -216,7 +216,7 @@ raisins
 * Slovakia
 * Slovenia
 * Solomon Islands
-* Somalia
+* Somalia - malawah
 * South Africa
 * Spain
 * Sri Lanka
@@ -238,7 +238,7 @@ raisins
 * Turkmenistan
 * Tuvalu
 * Uganda
-* Ukraine
+* Ukraine - deruny
 * United Arab Emirates
 * United Kingdom - full English breakfast
 * United States - biscuits and gravy
