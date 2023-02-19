@@ -141,7 +141,7 @@ raisins
 * [Kazakhstan](k/kazakhstan.md) - baursaki
 * [Kenya](k/kenya.md) - cr&ecirc;pes
 * [Kiribati](k/kiribati.md) - milk rice
-* Korea, North - corn congee
+* [Korea, North](k/north_korea.md) - corn congee
 * Korea, South - street toast
 * Kosovo - llokuma
 * Kuwait - balaleet
