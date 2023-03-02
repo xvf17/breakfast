@@ -1,5 +1,6 @@
 [prev](kiribati.md)&emsp;
 [top](../index.md)&emsp;
+[next](south_korea.md)
 # North Korea
 <meta property="og:image" content="images/north_korea.png"/>
 19 February, 2023
