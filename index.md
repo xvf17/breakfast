@@ -143,7 +143,7 @@ raisins
 * [Kiribati](k/kiribati.md) - milk rice
 * [Korea, North](k/north_korea.md) - corn congee
 * [Korea, South](k/south_korea.md) - street toast
-* Kosovo - llokuma
+* [Kosovo](k/kosovo.md) - llokuma
 * Kuwait - balaleet
 * Kyrgyzstan - blini
 

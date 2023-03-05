@@ -1,5 +1,6 @@
 [prev](north_korea.md)&emsp;
 [top](../index.md)&emsp;
+[next](kosovo.md)
 # South Korea
 <meta property="og:image" content="images/south_korea.png"/>
 26 February, 2023
