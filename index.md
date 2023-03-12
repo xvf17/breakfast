@@ -144,7 +144,7 @@ raisins
 * [Korea, North](k/north_korea.md) - corn congee
 * [Korea, South](k/south_korea.md) - street toast
 * [Kosovo](k/kosovo.md) - llokuma
-* Kuwait - balaleet
+* [Kuwait](k/kuwait.md) - balaleet
 * Kyrgyzstan - blini
 
 <span></span>
