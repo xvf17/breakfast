@@ -145,7 +145,7 @@ raisins
 * [Korea, South](k/south_korea.md) - street toast
 * [Kosovo](k/kosovo.md) - llokuma
 * [Kuwait](k/kuwait.md) - balaleet
-* Kyrgyzstan - blini
+* [Kyrgyzstan](k/kyrgyzstan.md) - blini
 
 <span></span>
 

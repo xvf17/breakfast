@@ -1,5 +1,6 @@
 [prev](kosovo.md)&emsp;
 [top](../index.md)&emsp;
+[next](kyrgyzstan.md)
 # Kuwait
 <meta property="og:image" content="images/kuwait.png"/>
 12 March, 2023
