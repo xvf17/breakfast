@@ -147,9 +147,9 @@ raisins
 * [Kuwait](k/kuwait.md) - balaleet
 * [Kyrgyzstan](k/kyrgyzstan.md) - blini
 
-<span></span>
+<img src="l/images/laos.jpeg" width="30%" height="30%">
 
-* Laos - khao jee
+* [Laos](l/laos) - khao jee
 * Latvia - apple pancakes
 * Lebanon - fattet hummus and eggs
 * Lesotho - makoenva
