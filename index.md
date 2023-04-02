@@ -149,15 +149,15 @@ raisins
 
 <img src="l/images/laos.jpeg" width="30%" height="30%">
 
-* [Laos](l/laos) - khao jee
-* Latvia - apple pancakes
+* [Laos](l/laos.md) - khao jee
+* [Latvia](l/latvia.md) - apple pancakes
 * Lebanon - fattet hummus and eggs
 * Lesotho - makoenva
 * Liberia - moni kalama
-* Libya
-* Liechtenstein
-* Lithuania
-* Luxembourg
+* Libya - asida
+* Liechtenstein - tatsch
+* Lithuania - bundukies
+* Luxembourg - gebeeseschmier
 * Madagascar
 * Malawi
 * Malaysia - nasi lemak, sambal, fried peanuts, chicken rendang

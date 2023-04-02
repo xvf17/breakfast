@@ -1,6 +1,6 @@
 [prev](kuwait.md)&emsp;
 [top](../index.md)&emsp;
-[next](../l/laos)
+[next](../l/laos.md)
 # Kyrgyzstan
 <meta property="og:image" content="images/kyrgyzstan.png"/>
 19 March, 2023
