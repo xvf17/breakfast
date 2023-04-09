@@ -1,5 +1,6 @@
 [prev](laos.md)&emsp;
 [top](../index.md)&emsp;
+[next](lebanon.md)
 # Latvia
 <meta property="og:image" content="images/latvia.png"/>
 2 April, 2023

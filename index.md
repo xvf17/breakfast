@@ -151,7 +151,7 @@ raisins
 
 * [Laos](l/laos.md) - khao jee
 * [Latvia](l/latvia.md) - apple pancakes
-* Lebanon - fattet hummus and eggs
+* [Lebanon](l/lebanon.md) - fattet hummus and eggs
 * Lesotho - makoenva
 * Liberia - moni kalama
 * Libya - asida
