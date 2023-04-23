@@ -1,5 +1,6 @@
 [prev](lebanon.md)&emsp;
 [top](../index.md)&emsp;
+[next](liberia.md)
 # Lesotho
 <meta property="og:image" content="images/lesotho.png"/>
 16 April, 2023
