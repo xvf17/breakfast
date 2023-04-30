@@ -154,19 +154,19 @@ raisins
 * [Lebanon](l/lebanon.md) - fattet hummus and eggs
 * [Lesotho](l/lesotho.md) - makoenva
 * [Liberia](l/liberia.md) - moni kalama
-* Libya - asida
+* [Libya](l/libya.md) - asida
 * Liechtenstein - tatsch
 * Lithuania - bundukies
 * Luxembourg - gebeeseschmier
-* Madagascar
-* Malawi
+* Madagascar - mofo baolina
+* Malawi - nsima
 * Malaysia - nasi lemak, sambal, fried peanuts, chicken rendang
-* Maldives
-* Mali
-* Malta
-* Marshall Islands
-* Mauritania
-* Mauritius
+* Maldives - mos huni
+* Mali - la bouillie
+* Malta - pastizzi
+* Marshall Islands - Donat
+* Mauritania - lakh
+* Mauritius - eggs with roti
 * Mexico - machaca
 * Micronesia, Federated States of
 * Moldova
