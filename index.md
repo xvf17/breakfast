@@ -155,7 +155,7 @@ raisins
 * [Lesotho](l/lesotho.md) - makoenva
 * [Liberia](l/liberia.md) - moni kalama
 * [Libya](l/libya.md) - asida
-* Liechtenstein - tatsch
+* [Liechtenstein](l/liechtenstein.md) - tatsch
 * Lithuania - bundukies
 * Luxembourg - gebeeseschmier
 * Madagascar - mofo baolina

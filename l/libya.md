@@ -1,5 +1,6 @@
 [prev](liberia.md)&emsp;
 [top](../index.md)&emsp;
+[next](liechtenstein.md)
 # Libya
 <meta property="og:image" content="images/libya.png"/>
 30 April, 2023
