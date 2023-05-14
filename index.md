@@ -156,7 +156,7 @@ raisins
 * [Liberia](l/liberia.md) - moni kalama
 * [Libya](l/libya.md) - asida
 * [Liechtenstein](l/liechtenstein.md) - tatsch
-* Lithuania - bundukies
+* [Lithuania](l/lithuania.md) - bundukies
 * Luxembourg - gebeeseschmier
 * Madagascar - mofo baolina
 * Malawi - nsima

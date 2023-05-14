@@ -1,5 +1,6 @@
 [prev](libya.md)&emsp;
 [top](../index.md)&emsp;
+[next](lithuania.md)
 # Liechtenstein
 <meta property="og:image" content="images/liechtenstein.png"/>
 7 May, 2023
