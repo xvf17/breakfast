@@ -157,12 +157,12 @@ raisins
 * [Libya](l/libya.md) - asida
 * [Liechtenstein](l/liechtenstein.md) - tatsch
 * [Lithuania](l/lithuania.md) - bundukies
-* Luxembourg - gebeeseschmier
+* [Luxembourg](l/luxembourg.md) - gebeeseschmier
 * Madagascar - mofo baolina
-* Malawi - nsima
+* Malawi - futali
 * Malaysia - nasi lemak, sambal, fried peanuts, chicken rendang
-* Maldives - mos huni
-* Mali - la bouillie
+* Maldives - mas huni, chapati
+* Mali - ndiwo, nsima
 * Malta - pastizzi
 * Marshall Islands - Donat
 * Mauritania - lakh
@@ -175,7 +175,7 @@ raisins
 * Montenegro
 * Morocco
 * Mozambique
-* Myanmar (Burma)
+* Myanmar
 * Namibia
 * Nauru
 * Nepal
