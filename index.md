@@ -158,7 +158,10 @@ raisins
 * [Liechtenstein](l/liechtenstein.md) - tatsch
 * [Lithuania](l/lithuania.md) - bundukies
 * [Luxembourg](l/luxembourg.md) - gebeeseschmier
-* Madagascar - mofo baolina
+
+<img src="m/images/madagascar.jpeg" width="30%" height="30%">
+
+* [Madagascar](m/madagascar.md) - mofo baolina
 * Malawi - futali
 * Malaysia - nasi lemak, sambal, fried peanuts, chicken rendang
 * Maldives - mas huni, chapati

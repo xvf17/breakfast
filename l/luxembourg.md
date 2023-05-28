@@ -1,5 +1,6 @@
 [prev](lithuania.md)&emsp;
 [top](../index.md)&emsp;
+[next](../m/madagascar.md)
 # Luxembourg
 <meta property="og:image" content="images/luxembourg.png"/>
 21 May, 2023
