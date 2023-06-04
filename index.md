@@ -162,7 +162,7 @@ raisins
 <img src="m/images/madagascar.jpeg" width="30%" height="30%">
 
 * [Madagascar](m/madagascar.md) - mofo baolina
-* Malawi - futali
+* [Malawi](m/malawi.md) - futali
 * Malaysia - nasi lemak, sambal, fried peanuts, chicken rendang
 * Maldives - mas huni, chapati
 * Mali - ndiwo, nsima

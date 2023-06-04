@@ -1,5 +1,6 @@
 [prev](../l/luxembourg.md)&emsp;
 [top](../index.md)&emsp;
+[next](malawi.md)
 # Madagascar
 <meta property="og:image" content="images/madagascar.png"/>
 28 May, 2023
