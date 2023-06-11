@@ -163,9 +163,9 @@ raisins
 
 * [Madagascar](m/madagascar.md) - mofo baolina
 * [Malawi](m/malawi.md) - futali
-* Malaysia - nasi lemak, sambal, fried peanuts, chicken rendang
+* [Malaysia](m/malaysia.md) - nasi lemak, sambal, fried peanuts, chicken rendang
 * Maldives - mas huni, chapati
-* Mali - ndiwo, nsima
+* Mali - maasa
 * Malta - pastizzi
 * Marshall Islands - Donat
 * Mauritania - lakh
