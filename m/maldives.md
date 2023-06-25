@@ -1,5 +1,6 @@
 [prev](malaysia.md)&emsp;
 [top](../index.md)&emsp;
+[next](mali.md)
 # Maldives
 <meta property="og:image" content="images/maldives.png"/>
 18 June, 2023

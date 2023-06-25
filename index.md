@@ -159,26 +159,26 @@ raisins
 * [Lithuania](l/lithuania.md) - bundukies
 * [Luxembourg](l/luxembourg.md) - gebeeseschmier
 
-<img src="m/images/madagascar.jpeg" width="30%" height="30%">
+<img src="m/images/malaysia.jpeg" width="30%" height="30%">
 
 * [Madagascar](m/madagascar.md) - mofo baolina
 * [Malawi](m/malawi.md) - futali
 * [Malaysia](m/malaysia.md) - nasi lemak, sambal, fried peanuts, chicken rendang
 * [Maldives](m/maldives.md) - mas huni, chapati
-* Mali - maasa
+* [Mali](m/mali.md) - maasa
 * Malta - pastizzi
 * Marshall Islands - Donat
-* Mauritania - lakh
-* Mauritius - eggs with roti
+* Mauritania - mbourou wetay
+* Mauritius - egg rougaille with roti
 * Mexico - machaca
-* Micronesia, Federated States of
-* Moldova
-* Monaco
-* Mongolia
-* Montenegro
-* Morocco
-* Mozambique
-* Myanmar
+* Micronesia, Federated States of - uht sukusuk
+* Moldova - branzoaice
+* Monaco - croissants, bread, cheese, ham, eggs, coffee
+* Mongolia - milk tea, boortsorg, urum
+* Montenegro - ka&#774;amak
+* Morocco - beghrir, mint tea
+* Mozambique - sandes de queijo
+* Myanmar - Burmese egg curry
 * Namibia
 * Nauru
 * Nepal
@@ -254,3 +254,4 @@ raisins
 * Yemen
 * Zambia
 * Zimbabwe
+```````
