@@ -166,7 +166,7 @@ raisins
 * [Malaysia](m/malaysia.md) - nasi lemak, sambal, fried peanuts, chicken rendang
 * [Maldives](m/maldives.md) - mas huni, chapati
 * [Mali](m/mali.md) - maasa
-* Malta - pastizzi
+* [Malta](m/malta.md) - pastizzi
 * Marshall Islands - Donat
 * Mauritania - mbourou wetay
 * Mauritius - egg rougaille with roti
