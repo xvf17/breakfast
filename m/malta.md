@@ -1,5 +1,6 @@
 [prev](mali.md)&emsp;
 [top](../index.md)&emsp;
+[next](marshall_islands.md)
 # Malta
 <meta property="og:image" content="images/malta.png"/>
 2 July, 2023

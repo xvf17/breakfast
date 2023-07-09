@@ -167,7 +167,7 @@ raisins
 * [Maldives](m/maldives.md) - mas huni, chapati
 * [Mali](m/mali.md) - maasa
 * [Malta](m/malta.md) - pastizzi
-* Marshall Islands - Donat
+* [Marshall Islands](m/marshall_islands.md) - Donat
 * Mauritania - mbourou wetay
 * Mauritius - egg rougaille with roti
 * Mexico - machaca
