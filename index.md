@@ -168,11 +168,11 @@ raisins
 * [Mali](m/mali.md) - maasa
 * [Malta](m/malta.md) - pastizzi
 * [Marshall Islands](m/marshall_islands.md) - Donat
-* Mauritania - mbourou wetay
+* [Mauritania](m/mauritania.md) - mbourou wetay
 * Mauritius - egg rougaille with roti
 * Mexico - machaca
 * Micronesia, Federated States of - uht sukusuk
-* Moldova - branzoaice
+* Moldova - bra&#770;nzoaice
 * Monaco - croissants, bread, cheese, ham, eggs, coffee
 * Mongolia - milk tea, boortsorg, urum
 * Montenegro - ka&#774;amak

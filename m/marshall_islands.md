@@ -1,5 +1,6 @@
 [prev](malta.md)&emsp;
 [top](../index.md)&emsp;
+[next](mauritania.md)
 # Marshall Islands
 <meta property="og:image" content="images/marshall_islands.png"/>
 9 July, 2023
