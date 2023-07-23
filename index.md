@@ -169,7 +169,7 @@ raisins
 * [Malta](m/malta.md) - pastizzi
 * [Marshall Islands](m/marshall_islands.md) - Donat
 * [Mauritania](m/mauritania.md) - mbourou wetay
-* Mauritius - egg rougaille with roti
+* [Mauritius](m/mauritius.md) - egg rougaille with roti
 * Mexico - machaca
 * Micronesia, Federated States of - uht sukusuk
 * Moldova - bra&#770;nzoaice
