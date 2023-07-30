@@ -170,7 +170,7 @@ raisins
 * [Marshall Islands](m/marshall_islands.md) - Donat
 * [Mauritania](m/mauritania.md) - mbourou wetay
 * [Mauritius](m/mauritius.md) - egg rougaille with roti
-* Mexico - machaca
+* [Mexico](m/mexico.md) - machaca
 * Micronesia, Federated States of - uht sukusuk
 * Moldova - bra&#770;nzoaice
 * Monaco - croissants, bread, cheese, ham, eggs, coffee
