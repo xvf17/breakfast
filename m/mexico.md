@@ -1,5 +1,6 @@
 [prev](mauritius.md)&emsp;
 [top](../index.md)&emsp;
+[next](micronesia.md)
 # Mexico
 <meta property="og:image" content="images/mexico.png"/>
 30 July, 2023
