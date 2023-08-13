@@ -1,5 +1,6 @@
 [prev](mexico.md)&emsp;
 [top](../index.md)&emsp;
+[next](moldova.md)
 # Micronesia
 <meta property="og:image" content="images/micronesia.png"/>
 6 August, 2023
