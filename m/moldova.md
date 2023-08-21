@@ -1,5 +1,6 @@
 [prev](micronesia.md)&emsp;
 [top](../index.md)&emsp;
+[next](monaco.md)
 # Moldova
 <meta property="og:image" content="images/moldova.png"/>
 13 August, 2023

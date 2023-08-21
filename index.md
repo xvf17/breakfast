@@ -173,7 +173,7 @@ raisins
 * [Mexico](m/mexico.md) - machaca
 * [Micronesia, Federated States of](m/micronesia.md) - uht sukusuk
 * [Moldova](m/moldova.md) - bra&#770;nzoaice
-* Monaco - croissants, bread, cheese, ham, eggs, coffee
+* [Monaco](m/monaco.md) - croissants, bread, cheese, ham, eggs, coffee
 * Mongolia - milk tea, boortsorg, urum
 * Montenegro - ka&#774;amak
 * Morocco - beghrir, mint tea
