@@ -174,7 +174,7 @@ raisins
 * [Micronesia, Federated States of](m/micronesia.md) - uht sukusuk
 * [Moldova](m/moldova.md) - bra&#770;nzoaice
 * [Monaco](m/monaco.md) - croissants, bread, cheese, ham, eggs, coffee
-* Mongolia - milk tea, boortsorg, urum
+* [Mongolia](m/mongolia.md) - milk tea, boortsorg, urum
 * Montenegro - ka&#774;amak
 * Morocco - beghrir, mint tea
 * Mozambique - sandes de queijo

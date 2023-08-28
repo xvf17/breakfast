@@ -1,5 +1,6 @@
 [prev](moldova.md)&emsp;
 [top](../index.md)&emsp;
+[next](mongolia.md)
 # Monaco
 <meta property="og:image" content="images/monaco.png"/>
 20 August, 2023
