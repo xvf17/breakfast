@@ -175,20 +175,20 @@ raisins
 * [Moldova](m/moldova.md) - bra&#770;nzoaice
 * [Monaco](m/monaco.md) - croissants, bread, cheese, ham, eggs, coffee
 * [Mongolia](m/mongolia.md) - milk tea, boortsorg, urum
-* Montenegro - ka&#774;amak
+* [Montenegro](m/montenegro.md) - ka&#774;amak
 * Morocco - beghrir, mint tea
 * Mozambique - sandes de queijo
 * Myanmar - Burmese egg curry
-* Namibia
-* Nauru
-* Nepal
-* Netherlands
-* New Zealand
-* Nicaragua
-* Niger
-* Nigeria
-* North Macedonia
-* Norway
+* Namibia - kapana
+* Nauru - fish and Root vegetables
+* Nepal - dahi chiura
+* Netherlands - uitsmijter
+* New Zealand - spaghetti on toast
+* Nicaragua - desayuno tipico
+* Niger - millet porridge
+* Nigeria - istant noodles and egg
+* North Macedonia - zelnik
+* Norway - Laks og Egger&oslash;re
 * Oman
 * Pakistan - manakeesh
 * Palau
