@@ -176,7 +176,7 @@ raisins
 * [Monaco](m/monaco.md) - croissants, bread, cheese, ham, eggs, coffee
 * [Mongolia](m/mongolia.md) - milk tea, boortsorg, urum
 * [Montenegro](m/montenegro.md) - ka&#774;amak
-* Morocco - beghrir, mint tea
+* [Morocco](m/morocco.md) - beghrir, mint tea
 * Mozambique - sandes de queijo
 * Myanmar - Burmese egg curry
 * Namibia - kapana
