@@ -177,7 +177,7 @@ raisins
 * [Mongolia](m/mongolia.md) - milk tea, boortsorg, urum
 * [Montenegro](m/montenegro.md) - ka&#774;amak
 * [Morocco](m/morocco.md) - beghrir, mint tea
-* Mozambique - sandes de queijo
+* [Mozambique](m/mozambique.md) - sandes de queijo
 * Myanmar - Burmese egg curry
 * Namibia - kapana
 * Nauru - fish and Root vegetables
