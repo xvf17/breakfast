@@ -178,10 +178,10 @@ raisins
 * [Montenegro](m/montenegro.md) - ka&#774;amak
 * [Morocco](m/morocco.md) - beghrir, mint tea
 * [Mozambique](m/mozambique.md) - sandes de queijo
-* Myanmar - Burmese egg curry
+* [Myanmar](m/myanmar.md) - Burmese egg curry
 * Namibia - kapana
 * Nauru - fish and Root vegetables
-* Nepal - dahi chiura
+* Nepal - dahi-chiura
 * Netherlands - uitsmijter
 * New Zealand - spaghetti on toast
 * Nicaragua - desayuno tipico
