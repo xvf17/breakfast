@@ -179,16 +179,20 @@ raisins
 * [Morocco](m/morocco.md) - beghrir, mint tea
 * [Mozambique](m/mozambique.md) - sandes de queijo
 * [Myanmar](m/myanmar.md) - Burmese egg curry
-* Namibia - kapana
+
+<img src="n/images/namibia.jpeg" width="30%" height="30%">
+
+* [Namibia](n/namibia.md) - kapana
 * Nauru - fish and Root vegetables
 * Nepal - dahi-chiura
 * Netherlands - uitsmijter
 * New Zealand - spaghetti on toast
 * Nicaragua - desayuno tipico
 * Niger - millet porridge
-* Nigeria - istant noodles and egg
+* Nigeria - instant noodles and egg
 * North Macedonia - zelnik
 * Norway - Laks og Egger&oslash;re
+
 * Oman
 * Pakistan - manakeesh
 * Palau

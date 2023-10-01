@@ -1,5 +1,6 @@
 [prev](mozambique.md)&emsp;
 [top](../index.md)&emsp;
+[next](../n/namibia.md)
 # Myanmar
 <meta property="og:image" content="images/myanmar.png"/>
 24 September, 2023
