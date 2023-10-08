@@ -183,7 +183,7 @@ raisins
 <img src="n/images/namibia.jpeg" width="30%" height="30%">
 
 * [Namibia](n/namibia.md) - kapana
-* Nauru - fish and Root vegetables
+* [Nauru](n/nauru.md) - fish and root vegetables
 * Nepal - dahi-chiura
 * Netherlands - uitsmijter
 * New Zealand - spaghetti on toast

@@ -1,5 +1,6 @@
 [prev](../m/myanmar.md)&emsp;
 [top](../index.md)&emsp;
+[next](nauru.md)
 # Namibia
 <meta property="og:image" content="images/namibia.png"/>
 1 October, 2023
