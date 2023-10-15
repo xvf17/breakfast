@@ -184,7 +184,7 @@ raisins
 
 * [Namibia](n/namibia.md) - kapana
 * [Nauru](n/nauru.md) - fish and root vegetables
-* Nepal - dahi-chiura
+* [Nepal](n/nepal.md) - dahi-chiura
 * Netherlands - uitsmijter
 * New Zealand - spaghetti on toast
 * Nicaragua - desayuno tipico
