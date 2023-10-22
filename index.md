@@ -185,7 +185,7 @@ raisins
 * [Namibia](n/namibia.md) - kapana
 * [Nauru](n/nauru.md) - fish and root vegetables
 * [Nepal](n/nepal.md) - dahi-chiura
-* Netherlands - uitsmijter
+* [Netherlands](n/netherlands.md) - uitsmijter
 * New Zealand - spaghetti on toast
 * Nicaragua - desayuno tipico
 * Niger - millet porridge
@@ -258,4 +258,3 @@ raisins
 * Yemen
 * Zambia
 * Zimbabwe
-```````

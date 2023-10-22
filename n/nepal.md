@@ -1,5 +1,6 @@
 [prev](nauru.md)&emsp;
 [top](../index.md)&emsp;
+[next](netherlands.md)
 # Nepal
 <meta property="og:image" content="images/nepal.png"/>
 15 October, 2023
