@@ -186,7 +186,7 @@ raisins
 * [Nauru](n/nauru.md) - fish and root vegetables
 * [Nepal](n/nepal.md) - dahi-chiura
 * [Netherlands](n/netherlands.md) - uitsmijter
-* New Zealand - spaghetti on toast
+* [New Zealand](n/new_zealand.md) - spaghetti on toast
 * Nicaragua - desayuno tipico
 * Niger - millet porridge
 * Nigeria - instant noodles and egg
