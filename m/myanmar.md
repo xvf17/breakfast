@@ -1,8 +1,11 @@
+---
+title: Myanmar
+image: m/images/myanmar.png
+---
 [prev](mozambique.md)&emsp;
 [top](../index.md)&emsp;
 [next](../n/namibia.md)
 # Myanmar
-<meta property="og:image" content="images/myanmar.png"/>
 24 September, 2023
 
 Myanma breakfast: burmese egg curry. This was very tasty. I had a

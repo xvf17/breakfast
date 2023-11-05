@@ -1,8 +1,11 @@
+---
+title: Madagascar
+image: m/images/madagascar.png
+---
 [prev](../l/luxembourg.md)&emsp;
 [top](../index.md)&emsp;
 [next](malawi.md)
 # Madagascar
-<meta property="og:image" content="images/madagascar.png"/>
 28 May, 2023
 
 Malagasy breakfast: Mofo baolina. Banana fritters.  Ripe bananas

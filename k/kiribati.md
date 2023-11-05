@@ -1,8 +1,11 @@
+---
+title: Kiribati
+image: k/images/kiribati.png
+---
 [prev](kenya.md)&emsp;
 [top](../index.md)&emsp;
 [next](north_korea.md)
 # Kiribati
-<meta property="og:image" content="images/kiribati.png"/>
 12 February, 2023
 
 I-Kiribati breakfast: milk rice. This is mostly just a mixture of rice

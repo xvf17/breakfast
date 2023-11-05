@@ -1,8 +1,11 @@
+---
+title: Liberia
+image: l/images/liberia.png
+---
 [prev](lesotho.md)&emsp;
 [top](../index.md)&emsp;
 [next](libya.md)
 # Liberia
-<meta property="og:image" content="images/liberia.png"/>
 23 April, 2023
 
 Liberian breakfast: moni kalama (rice flour porridge). This recipe was

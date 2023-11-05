@@ -1,8 +1,11 @@
+---
+title: Netherlands
+image: n/images/netherlands.png
+---
 [prev](nepal.md)&emsp;
 [top](../index.md)&emsp;
 [next](new_zealand.md)
 # Netherlands
-<meta property="og:image" content="images/netherlands.png"/>
 22 October, 2023
 
 Dutch breakfast: uitsmijter. ($10 to anyone who can tell me how to

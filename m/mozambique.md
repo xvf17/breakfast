@@ -1,8 +1,11 @@
+---
+title: Mozambique
+image: m/images/mozambique.png
+---
 [prev](morocco.md)&emsp;
 [top](../index.md)&emsp;
 [next](myanmar.md)
 # Mozambique
-<meta property="og:image" content="images/mozambique.png"/>
 17 September, 2023
 
 Mozambican breakfast: sandes de queijo. Ham and cheese sandwich. Only

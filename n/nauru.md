@@ -1,8 +1,11 @@
+---
+title: Nauru
+image: n/images/nauru.png
+---
 [prev](namibia.md)&emsp;
 [top](../index.md)&emsp;
 [next](nepal.md)
 # Nauru
-<meta property="og:image" content="images/nauru.png"/>
 8 October, 2023
 
 Nauran breakfast: grilled talapia and grilled sweet potatoes. The

@@ -1,8 +1,11 @@
+---
+title: Malaysia
+image: m/images/malaysia.png
+---
 [prev](malawi.md)&emsp;
 [top](../index.md)&emsp;
 [next](maldives.md)
 # Malaysia
-<meta property="og:image" content="images/malaysia.png"/>
 11 June, 2023
 
 Malaysian breakfast: Nasi Lemak, sambal, fried peanuts, chicken

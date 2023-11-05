@@ -1,7 +1,10 @@
+---
+title: Nicarauga
+image: n/images/nicaragua.png
+---
 [prev](new_zealand.md)&emsp;
 [top](../index.md)&emsp;
 # Nicaragua
-<meta property="og:image" content="images/nicaragua.png"/>
 5 November, 2023
 
 Nicaraguan breakfast: desayuno typ&iacute;co (typical breakfast). In

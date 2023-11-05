@@ -1,8 +1,11 @@
+---
+title: Malta
+image: m/images/malta.png
+---
 [prev](mali.md)&emsp;
 [top](../index.md)&emsp;
 [next](marshall_islands.md)
 # Malta
-<meta property="og:image" content="images/malta.png"/>
 2 July, 2023
 
 Maltese breakfast: pastizzi. These were very good. Very rich, though.  Three apiece was plenty to keep us going. Mine sort of flattened out during the baking; they're supposed tobe sort of canoe shaped.

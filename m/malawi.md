@@ -1,8 +1,11 @@
+---
+title: Malawi
+image: m/images/malawi.png
+---
 [prev](madagascar.md)&emsp;
 [top](../index.md)&emsp;
 [next](malaysia.md)
 # Malawi
-<meta property="og:image" content="images/malawi.png"/>
 4 June, 2023
 
 Malawian breakfast: futali. This is often served with greens, marked

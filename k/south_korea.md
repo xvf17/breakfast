@@ -1,8 +1,11 @@
+---
+title: South Korea
+image: k/images/south_korea.png
+---
 [prev](north_korea.md)&emsp;
 [top](../index.md)&emsp;
 [next](kosovo.md)
 # South Korea
-<meta property="og:image" content="images/south_korea.png"/>
 26 February, 2023
 
 South Korean breakfast: street toast. This was very enjoyable. Very

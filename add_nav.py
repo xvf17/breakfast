@@ -11,6 +11,14 @@ with open('index.md') as inf:
 for i in range(len(entries)):
     with open(entries[i]) as inf:
         lines = inf.read().split('\n')
+    if lines[0] == '---':
+        for j in range(1, len(lines)):
+            if lines[j] == '---': break
+        j += 1
+        pre = '\n'.join(lines[:j]) + '\n'
+        lines = lines[j:]
+        assert lines
+    else: pre = None
     while lines and not lines[0].startswith('#'):
         lines.pop(0)
     assert lines
@@ -19,6 +27,7 @@ for i in range(len(entries)):
     next = entries[i + 1] if i < len(entries) - 1 else None
     if next: next = path.relpath(next, path.dirname(entries[i]))
     with open(entries[i], 'w') as ouf:
+        if pre: ouf.write(pre)
         if prev: ouf.write('[prev](%s)&emsp;\n' % prev)
         ouf.write('[top](../index.md)&emsp;\n')
         if next: ouf.write('[next](%s)\n' % next)

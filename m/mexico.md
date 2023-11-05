@@ -1,8 +1,11 @@
+---
+title: Mexico
+image: m/images/mexico.png
+---
 [prev](mauritius.md)&emsp;
 [top](../index.md)&emsp;
 [next](micronesia.md)
 # Mexico
-<meta property="og:image" content="images/mexico.png"/>
 30 July, 2023
 
 Mexican breakfast: machaca, with refried beans, salsa fresca, flour

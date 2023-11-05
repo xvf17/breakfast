@@ -1,8 +1,11 @@
+---
+title: Micronesia
+image: m/images/micronesia.png
+---
 [prev](mexico.md)&emsp;
 [top](../index.md)&emsp;
 [next](moldova.md)
 # Micronesia
-<meta property="og:image" content="images/micronesia.png"/>
 6 August, 2023
 
 Micronesian breakfast: uht sukusuk. Mashed bananas with coconut milk

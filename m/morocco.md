@@ -1,8 +1,11 @@
+---
+title: Morocco
+image: m/images/morocco.png
+---
 [prev](montenegro.md)&emsp;
 [top](../index.md)&emsp;
 [next](mozambique.md)
 # Morocco
-<meta property="og:image" content="images/morocco.png"/>
 10 September, 2023
 
 Moroccan breakfast: beghrir, mint tea. A simple pancake with some

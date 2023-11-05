@@ -1,8 +1,11 @@
+---
+title: North Korea
+image: k/images/north_korea.png
+---
 [prev](kiribati.md)&emsp;
 [top](../index.md)&emsp;
 [next](south_korea.md)
 # North Korea
-<meta property="og:image" content="images/north_korea.png"/>
 19 February, 2023
 
 North Korean breakfast: sweet corn congee. This takes a while to make,

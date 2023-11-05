@@ -1,8 +1,11 @@
+---
+title: Kosovo
+image: k/images/kosovo.png
+---
 [prev](south_korea.md)&emsp;
 [top](../index.md)&emsp;
 [next](kuwait.md)
 # Kosovo
-<meta property="og:image" content="images/kosovo.png"/>
 5 March, 2023
 
 Kosovar breakfast: llokuma with garlic yogurt dipping sauce. I made

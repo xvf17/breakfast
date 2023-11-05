@@ -1,8 +1,11 @@
+---
+title: Monaco
+image: m/images/monaco.png
+---
 [prev](moldova.md)&emsp;
 [top](../index.md)&emsp;
 [next](mongolia.md)
 # Monaco
-<meta property="og:image" content="images/monaco.png"/>
 20 August, 2023
 
 Mon&eacute;gasque breakfast: croissants, goat cheese, ham, fried egg,

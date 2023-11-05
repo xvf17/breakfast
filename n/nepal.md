@@ -1,8 +1,11 @@
+---
+title: Nepal
+image: n/images/nepal.png
+---
 [prev](nauru.md)&emsp;
 [top](../index.md)&emsp;
 [next](netherlands.md)
 # Nepal
-<meta property="og:image" content="images/nepal.png"/>
 15 October, 2023
 
 Nepali breakfast: dahi-chiura. Aside from making the flattened rice,

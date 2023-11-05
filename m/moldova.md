@@ -1,8 +1,11 @@
+---
+title: Moldova
+image: m/images/moldova.png
+---
 [prev](micronesia.md)&emsp;
 [top](../index.md)&emsp;
 [next](monaco.md)
 # Moldova
-<meta property="og:image" content="images/moldova.png"/>
 13 August, 2023
 
 Moldovan breakfast: bra&#770;nzoaice. The recipe says it serves 1, but

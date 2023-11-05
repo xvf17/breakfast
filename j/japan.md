@@ -1,8 +1,11 @@
+---
+title: Japan
+image: j/images/japan.png
+---
 [prev](jamaica.md)&emsp;
 [top](../index.md)&emsp;
 [next](jordan.md)
 # Japan
-<meta property="og:image" content="images/japan.png"/>
 15 January, 2023
 
 Japanese breakfast: Traditional Japanese breakfast.  Tamagoyaki,

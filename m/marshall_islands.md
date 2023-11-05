@@ -1,8 +1,11 @@
+---
+title: Marshall Islands
+image: m/images/marshall_islands.png
+---
 [prev](malta.md)&emsp;
 [top](../index.md)&emsp;
 [next](mauritania.md)
 # Marshall Islands
-<meta property="og:image" content="images/marshall_islands.png"/>
 9 July, 2023
 
 Marshallese breakfast: Donat. Pretty much just doughnuts. Very tasty,

@@ -1,8 +1,11 @@
+---
+title: Lesotho
+image: l/images/lesotho.png
+---
 [prev](lebanon.md)&emsp;
 [top](../index.md)&emsp;
 [next](liberia.md)
 # Lesotho
-<meta property="og:image" content="images/lesotho.png"/>
 16 April, 2023
 
 Basotho breakfast: makoenva. This is sort of a cross between cinnamon

@@ -1,8 +1,11 @@
+---
+title: Montenegro
+image: m/images/montenegro.png
+---
 [prev](mongolia.md)&emsp;
 [top](../index.md)&emsp;
 [next](morocco.md)
 # Montenegro
-<meta property="og:image" content="images/montenegro.png"/>
 3 September, 2023
 
 Montenegrin breakfast: kac&#774;amak. Porridge made from polenta.  Very

@@ -1,8 +1,11 @@
+---
+title: Namibia
+image: n/images/namibia.png
+---
 [prev](../m/myanmar.md)&emsp;
 [top](../index.md)&emsp;
 [next](nauru.md)
 # Namibia
-<meta property="og:image" content="images/namibia.png"/>
 1 October, 2023
 
 Namibian breakfast: kapana. This is a street food that is commonly

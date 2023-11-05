@@ -1,8 +1,11 @@
+---
+title: Laos
+image: l/images/laos.png
+---
 [prev](../k/kyrgyzstan.md)&emsp;
 [top](../index.md)&emsp;
 [next](latvia.md)
 # Laos
-<meta property="og:image" content="images/laos.png"/>
 26 March, 2023
 
 Lao breakfast: khao jee. Delicious sausage sandwich. I doubt if the

@@ -1,8 +1,11 @@
+---
+title: Lebanon
+image: l/images/lebanon.png
+---
 [prev](latvia.md)&emsp;
 [top](../index.md)&emsp;
 [next](lesotho.md)
 # Lebanon
-<meta property="og:image" content="images/lebanon.png"/>
 9 April, 2023
 
 Lebonese breakfast: fattet humous and kawarma with eggs. This was

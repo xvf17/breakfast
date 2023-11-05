@@ -1,8 +1,11 @@
+---
+title: Mali
+image: m/images/mali.png
+---
 [prev](maldives.md)&emsp;
 [top](../index.md)&emsp;
 [next](malta.md)
 # Mali
-<meta property="og:image" content="images/mali.png"/>
 25 June, 2023
 
 Malian breakfast: maasa. I substituted buckwheat flour for the

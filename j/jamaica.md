@@ -1,8 +1,11 @@
+---
+title: Jamaica
+image: j/images/jamaica.png
+---
 [prev](../i/italy.md)&emsp;
 [top](../index.md)&emsp;
 [next](japan.md)
 # Jamaica
-<meta property="og:image" content="images/jamaica.png"/>
 8 January, 2023
 
 Jamaican breakfast: cornmeal porridge and hard dough bread. Not sure
