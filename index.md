@@ -180,24 +180,24 @@ raisins
 * [Mozambique](m/mozambique.md) - sandes de queijo
 * [Myanmar](m/myanmar.md) - Burmese egg curry
 
-<img src="n/images/namibia.jpeg" width="30%" height="30%">
+<img src="n/images/nicaragua.jpeg" width="30%" height="30%">
 
 * [Namibia](n/namibia.md) - kapana
 * [Nauru](n/nauru.md) - fish and root vegetables
 * [Nepal](n/nepal.md) - dahi-chiura
 * [Netherlands](n/netherlands.md) - uitsmijter
 * [New Zealand](n/new_zealand.md) - spaghetti on toast
-* Nicaragua - desayuno tipico
+* [Nicaragua](n/nicaragua.md) - desayuno tipico
 * Niger - millet porridge
 * Nigeria - instant noodles and egg
 * North Macedonia - zelnik
 * Norway - Laks og Egger&oslash;re
 
-* Oman
+* Oman - regag with honey
 * Pakistan - manakeesh
-* Palau
-* Palestine
-* Panama
+* Palau - fish and rice
+* Palestine - fatayer
+* Panama - arepas
 * Papua New Guinea
 * Paraguay
 * Peru
