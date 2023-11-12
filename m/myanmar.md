@@ -1,6 +1,6 @@
 ---
 title: Myanmar
-image: m/images/myanmar.png
+image: m/images/myanmar.jpeg
 ---
 [prev](mozambique.md)&emsp;
 [top](../index.md)&emsp;

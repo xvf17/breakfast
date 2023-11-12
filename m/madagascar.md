@@ -1,6 +1,6 @@
 ---
 title: Madagascar
-image: m/images/madagascar.png
+image: m/images/madagascar.jpeg
 ---
 [prev](../l/luxembourg.md)&emsp;
 [top](../index.md)&emsp;

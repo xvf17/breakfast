@@ -1,6 +1,6 @@
 ---
 title: Lesotho
-image: l/images/lesotho.png
+image: l/images/lesotho.jpeg
 ---
 [prev](lebanon.md)&emsp;
 [top](../index.md)&emsp;

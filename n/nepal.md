@@ -1,6 +1,6 @@
 ---
 title: Nepal
-image: n/images/nepal.png
+image: n/images/nepal.jpeg
 ---
 [prev](nauru.md)&emsp;
 [top](../index.md)&emsp;

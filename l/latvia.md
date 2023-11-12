@@ -1,6 +1,6 @@
 ---
 title: Latvia
-image: l/images/latvia.png
+image: l/images/latvia.jpeg
 ---
 [prev](laos.md)&emsp;
 [top](../index.md)&emsp;

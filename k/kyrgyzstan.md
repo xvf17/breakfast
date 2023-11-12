@@ -1,6 +1,6 @@
 ---
 title: Kyrgyzstan
-image: k/images/kyrgyzstan.png
+image: k/images/kyrgyzstan.jpeg
 ---
 [prev](kuwait.md)&emsp;
 [top](../index.md)&emsp;

@@ -1,6 +1,6 @@
 ---
 title: Iceland
-image: i/images/iceland.png
+image: i/images/iceland.jpeg
 ---
 [prev](../h/hungary.md)&emsp;
 [top](../index.md)&emsp;

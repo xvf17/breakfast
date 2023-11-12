@@ -1,6 +1,6 @@
 ---
 title: Monaco
-image: m/images/monaco.png
+image: m/images/monaco.jpeg
 ---
 [prev](moldova.md)&emsp;
 [top](../index.md)&emsp;

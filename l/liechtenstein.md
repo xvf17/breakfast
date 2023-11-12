@@ -1,6 +1,6 @@
 ---
 title: Liechtenstein
-image: l/images/liechtenstein.png
+image: l/images/liechtenstein.jpeg
 ---
 [prev](libya.md)&emsp;
 [top](../index.md)&emsp;

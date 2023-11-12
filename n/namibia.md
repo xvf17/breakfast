@@ -1,6 +1,6 @@
 ---
 title: Namibia
-image: n/images/namibia.png
+image: n/images/namibia.jpeg
 ---
 [prev](../m/myanmar.md)&emsp;
 [top](../index.md)&emsp;

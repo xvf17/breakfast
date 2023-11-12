@@ -1,6 +1,6 @@
 ---
 title: Malta
-image: m/images/malta.png
+image: m/images/malta.jpeg
 ---
 [prev](mali.md)&emsp;
 [top](../index.md)&emsp;

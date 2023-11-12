@@ -1,6 +1,6 @@
 ---
 title: Lithuania
-image: l/images/lithuania.png
+image: l/images/lithuania.jpeg
 ---
 [prev](liechtenstein.md)&emsp;
 [top](../index.md)&emsp;

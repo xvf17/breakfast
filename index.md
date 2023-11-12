@@ -188,7 +188,7 @@ raisins
 * [Netherlands](n/netherlands.md) - uitsmijter
 * [New Zealand](n/new_zealand.md) - spaghetti on toast
 * [Nicaragua](n/nicaragua.md) - desayuno tipico
-* Niger - millet porridge
+* [Niger](n/niger.md) - millet porridge
 * Nigeria - instant noodles and egg
 * North Macedonia - zelnik
 * Norway - Laks og Egger&oslash;re

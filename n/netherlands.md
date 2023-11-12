@@ -1,6 +1,6 @@
 ---
 title: Netherlands
-image: n/images/netherlands.png
+image: n/images/netherlands.jpeg
 ---
 [prev](nepal.md)&emsp;
 [top](../index.md)&emsp;

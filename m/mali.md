@@ -1,6 +1,6 @@
 ---
 title: Mali
-image: m/images/mali.png
+image: m/images/mali.jpeg
 ---
 [prev](maldives.md)&emsp;
 [top](../index.md)&emsp;

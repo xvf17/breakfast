@@ -1,6 +1,6 @@
 ---
 title: Morocco
-image: m/images/morocco.png
+image: m/images/morocco.jpeg
 ---
 [prev](montenegro.md)&emsp;
 [top](../index.md)&emsp;

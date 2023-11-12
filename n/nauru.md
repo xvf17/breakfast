@@ -1,6 +1,6 @@
 ---
 title: Nauru
-image: n/images/nauru.png
+image: n/images/nauru.jpeg
 ---
 [prev](namibia.md)&emsp;
 [top](../index.md)&emsp;

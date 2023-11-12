@@ -1,6 +1,6 @@
 ---
 title: Jamaica
-image: j/images/jamaica.png
+image: j/images/jamaica.jpeg
 ---
 [prev](../i/italy.md)&emsp;
 [top](../index.md)&emsp;

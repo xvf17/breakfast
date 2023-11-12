@@ -1,6 +1,6 @@
 ---
 title: Lebanon
-image: l/images/lebanon.png
+image: l/images/lebanon.jpeg
 ---
 [prev](latvia.md)&emsp;
 [top](../index.md)&emsp;

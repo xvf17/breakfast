@@ -1,6 +1,6 @@
 ---
 title: Liberia
-image: l/images/liberia.png
+image: l/images/liberia.jpeg
 ---
 [prev](lesotho.md)&emsp;
 [top](../index.md)&emsp;

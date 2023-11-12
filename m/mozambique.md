@@ -1,6 +1,6 @@
 ---
 title: Mozambique
-image: m/images/mozambique.png
+image: m/images/mozambique.jpeg
 ---
 [prev](morocco.md)&emsp;
 [top](../index.md)&emsp;

@@ -1,6 +1,6 @@
 ---
 title: Japan
-image: j/images/japan.png
+image: j/images/japan.jpeg
 ---
 [prev](jamaica.md)&emsp;
 [top](../index.md)&emsp;

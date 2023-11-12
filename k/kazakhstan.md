@@ -1,6 +1,6 @@
 ---
 title: Kazakhstan
-image: k/images/kazakhstan.png
+image: k/images/kazakhstan.jpeg
 ---
 [prev](../j/jordan.md)&emsp;
 [top](../index.md)&emsp;

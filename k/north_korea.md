@@ -1,6 +1,6 @@
 ---
 title: North Korea
-image: k/images/north_korea.png
+image: k/images/north_korea.jpeg
 ---
 [prev](kiribati.md)&emsp;
 [top](../index.md)&emsp;

@@ -1,6 +1,6 @@
 ---
 title: Malawi
-image: m/images/malawi.png
+image: m/images/malawi.jpeg
 ---
 [prev](madagascar.md)&emsp;
 [top](../index.md)&emsp;

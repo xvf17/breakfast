@@ -1,6 +1,6 @@
 ---
 title: Kiribati
-image: k/images/kiribati.png
+image: k/images/kiribati.jpeg
 ---
 [prev](kenya.md)&emsp;
 [top](../index.md)&emsp;

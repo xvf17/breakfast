@@ -1,6 +1,6 @@
 ---
 title: South Korea
-image: k/images/south_korea.png
+image: k/images/south_korea.jpeg
 ---
 [prev](north_korea.md)&emsp;
 [top](../index.md)&emsp;

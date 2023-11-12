@@ -1,6 +1,6 @@
 ---
 title: Mauritius
-image: m/images/mauritius.png
+image: m/images/mauritius.jpeg
 ---
 [prev](mauritania.md)&emsp;
 [top](../index.md)&emsp;

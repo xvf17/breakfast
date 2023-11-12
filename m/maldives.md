@@ -1,6 +1,6 @@
 ---
 title: Maldives
-image: m/images/maldives.png
+image: m/images/maldives.jpeg
 ---
 [prev](malaysia.md)&emsp;
 [top](../index.md)&emsp;

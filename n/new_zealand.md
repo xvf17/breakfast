@@ -1,8 +1,11 @@
+---
+title: New Zealand
+image: n/images/new_zealand.jpeg
+---
 [prev](netherlands.md)&emsp;
 [top](../index.md)&emsp;
 [next](nicaragua.md)
 # New Zealand
-<meta property="og:image" content="images/new_zealand.png"/>
 29 October, 2023
 
 New Zealand breakfast: canned spaghetti on toast. This was a strange

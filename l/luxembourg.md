@@ -1,6 +1,6 @@
 ---
 title: Luxembourg
-image: l/images/luxembourg.png
+image: l/images/luxembourg.jpeg
 ---
 [prev](lithuania.md)&emsp;
 [top](../index.md)&emsp;

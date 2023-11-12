@@ -1,6 +1,6 @@
 ---
 title: Kenya
-image: k/images/kenya.png
+image: k/images/kenya.jpeg
 ---
 [prev](kazakhstan.md)&emsp;
 [top](../index.md)&emsp;

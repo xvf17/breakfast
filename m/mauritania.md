@@ -1,6 +1,6 @@
 ---
 title: Mauritania
-image: m/images/mauritania.png
+image: m/images/mauritania.jpeg
 ---
 [prev](marshall_islands.md)&emsp;
 [top](../index.md)&emsp;

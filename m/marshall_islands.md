@@ -1,6 +1,6 @@
 ---
 title: Marshall Islands
-image: m/images/marshall_islands.png
+image: m/images/marshall_islands.jpeg
 ---
 [prev](malta.md)&emsp;
 [top](../index.md)&emsp;

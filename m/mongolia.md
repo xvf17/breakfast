@@ -1,6 +1,6 @@
 ---
 title: Mongolia
-image: m/images/mongolia.png
+image: m/images/mongolia.jpeg
 ---
 [prev](monaco.md)&emsp;
 [top](../index.md)&emsp;

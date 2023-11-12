@@ -1,6 +1,6 @@
 ---
 title: Nicaragua
-image: n/images/nicaragua.png
+image: n/images/nicaragua.jpeg
 ---
 [prev](new_zealand.md)&emsp;
 [top](../index.md)&emsp;

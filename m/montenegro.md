@@ -1,6 +1,6 @@
 ---
 title: Montenegro
-image: m/images/montenegro.png
+image: m/images/montenegro.jpeg
 ---
 [prev](mongolia.md)&emsp;
 [top](../index.md)&emsp;

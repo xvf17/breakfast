@@ -1,6 +1,6 @@
 ---
 title: Micronesia
-image: m/images/micronesia.png
+image: m/images/micronesia.jpeg
 ---
 [prev](mexico.md)&emsp;
 [top](../index.md)&emsp;

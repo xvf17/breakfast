@@ -1,6 +1,6 @@
 ---
 title: Laos
-image: l/images/laos.png
+image: l/images/laos.jpeg
 ---
 [prev](../k/kyrgyzstan.md)&emsp;
 [top](../index.md)&emsp;

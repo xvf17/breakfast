@@ -1,6 +1,6 @@
 ---
 title: Libya
-image: l/images/libya.png
+image: l/images/libya.jpeg
 ---
 [prev](liberia.md)&emsp;
 [top](../index.md)&emsp;

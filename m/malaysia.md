@@ -1,6 +1,6 @@
 ---
 title: Malaysia
-image: m/images/malaysia.png
+image: m/images/malaysia.jpeg
 ---
 [prev](malawi.md)&emsp;
 [top](../index.md)&emsp;

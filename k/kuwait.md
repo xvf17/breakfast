@@ -1,6 +1,6 @@
 ---
 title: Kuwait
-image: k/images/kuwait.png
+image: k/images/kuwait.jpeg
 ---
 [prev](kosovo.md)&emsp;
 [top](../index.md)&emsp;

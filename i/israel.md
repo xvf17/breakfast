@@ -1,6 +1,6 @@
 ---
 title: Israel
-image: i/images/israel.png
+image: i/images/israel.jpeg
 ---
 [prev](ireland.md)&emsp;
 [top](../index.md)&emsp;

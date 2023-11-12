@@ -1,6 +1,6 @@
 ---
 title: Moldova
-image: m/images/moldova.png
+image: m/images/moldova.jpeg
 ---
 [prev](micronesia.md)&emsp;
 [top](../index.md)&emsp;

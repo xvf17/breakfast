@@ -1,6 +1,6 @@
 ---
 title: Mexico
-image: m/images/mexico.png
+image: m/images/mexico.jpeg
 ---
 [prev](mauritius.md)&emsp;
 [top](../index.md)&emsp;

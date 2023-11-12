@@ -1,6 +1,6 @@
 ---
 title: Kosovo
-image: k/images/kosovo.png
+image: k/images/kosovo.jpeg
 ---
 [prev](south_korea.md)&emsp;
 [top](../index.md)&emsp;

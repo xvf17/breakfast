@@ -1,6 +1,6 @@
 ---
 title: Italy
-image: i/images/italy.png
+image: i/images/italy.jpeg
 ---
 [prev](israel.md)&emsp;
 [top](../index.md)&emsp;
