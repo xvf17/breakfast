@@ -4,6 +4,7 @@ image: n/images/niger.jpeg
 ---
 [prev](nicaragua.md)&emsp;
 [top](../index.md)&emsp;
+[next](nigeria.md)
 # Niger
 12 November, 2023
 

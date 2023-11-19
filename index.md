@@ -189,22 +189,22 @@ raisins
 * [New Zealand](n/new_zealand.md) - spaghetti on toast
 * [Nicaragua](n/nicaragua.md) - desayuno tipico
 * [Niger](n/niger.md) - millet porridge
-* Nigeria - instant noodles and egg
+* [Nigeria](n/nigeria.md) - instant noodles and egg
 * North Macedonia - zelnik
 * Norway - Laks og Egger&oslash;re
 
 * Oman - regag with honey
-* Pakistan - manakeesh
+* Pakistan - halwa puri
 * Palau - fish and rice
 * Palestine - fatayer
 * Panama - arepas
-* Papua New Guinea
-* Paraguay
-* Peru
-* Philippines
-* Poland
-* Portugal
-* Qatar
+* Papua New Guinea - kaukau
+* Paraguay - sopa paraguaya
+* Peru - butifarra sandwich
+* Philippines - totang giniling
+* Poland - potato bread and farmers cheese
+* Portugal - tosta mista
+* Qatar - thareed
 * Romania
 * Russia
 * Rwanda
