@@ -4,6 +4,7 @@ image: n/images/nigeria.jpeg
 ---
 [prev](niger.md)&emsp;
 [top](../index.md)&emsp;
+[next](north_macedonia.md)
 # Nigeria
 19 November, 2023
 
