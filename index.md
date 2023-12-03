@@ -191,7 +191,7 @@ raisins
 * [Niger](n/niger.md) - millet porridge
 * [Nigeria](n/nigeria.md) - instant noodles and egg
 * [North Macedonia](n/north_macedonia.md) - zelnik
-* Norway - Laks og Egger&oslash;re
+* [Norway](n/norway.md) - Laks og Egger&oslash;re
 
 * Oman - regag with honey
 * Pakistan - halwa puri

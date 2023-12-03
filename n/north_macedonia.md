@@ -4,6 +4,7 @@ image: n/images/north_macedonia.jpeg
 ---
 [prev](nigeria.md)&emsp;
 [top](../index.md)&emsp;
+[next](norway.md)
 # North Macedonia
 26 November, 2023
 
