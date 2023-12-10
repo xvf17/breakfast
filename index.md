@@ -193,7 +193,9 @@ raisins
 * [North Macedonia](n/north_macedonia.md) - zelnik
 * [Norway](n/norway.md) - Laks og Egger&oslash;re
 
-* Oman - regag with honey
+<img src="o/images/oman.jpeg" width="30%" height="30%">
+
+* [Oman](o/oman.md) - regag with honey
 * Pakistan - halwa puri
 * Palau - fish and rice
 * Palestine - fatayer

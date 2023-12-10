@@ -4,6 +4,7 @@ image: n/images/norway.jpeg
 ---
 [prev](north_macedonia.md)&emsp;
 [top](../index.md)&emsp;
+[next](../o/oman.md)
 # Norway
 3 December, 2023
 
