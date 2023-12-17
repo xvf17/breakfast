@@ -4,6 +4,7 @@ image: o/images/oman.jpeg
 ---
 [prev](../n/norway.md)&emsp;
 [top](../index.md)&emsp;
+[next](../p/pakistan.md)
 # Oman
 10 December, 2023
 

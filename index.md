@@ -196,7 +196,10 @@ raisins
 <img src="o/images/oman.jpeg" width="30%" height="30%">
 
 * [Oman](o/oman.md) - regag with honey
-* Pakistan - halwa puri
+
+<img src="p/images/pakistan.jpeg" width="30%" height="30%">
+
+* [Pakistan](p/pakistan.md) - halwa puri
 * Palau - fish and rice
 * Palestine - fatayer
 * Panama - arepas
