@@ -4,6 +4,7 @@ image: p/images/pakistan.jpeg
 ---
 [prev](../o/oman.md)&emsp;
 [top](../index.md)&emsp;
+[next](palau.md)
 # Pakistan
 17 December, 2023
 

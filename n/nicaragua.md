@@ -2,7 +2,7 @@
 title: Nicarauga
 image: n/images/nicaragua.jpeg
 ---
-[prev](new_zealand.md)&emsp;
+[prev](new_zealand_2.md)&emsp;
 [top](../index.md)&emsp;
 [next](niger.md)
 # Nicaragua

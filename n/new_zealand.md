@@ -4,7 +4,7 @@ image: n/images/new_zealand.jpeg
 ---
 [prev](netherlands.md)&emsp;
 [top](../index.md)&emsp;
-[next](nicaragua.md)
+[next](new_zealand_2.md)
 # New Zealand
 29 October, 2023
 

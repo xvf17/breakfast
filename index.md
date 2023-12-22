@@ -187,6 +187,7 @@ raisins
 * [Nepal](n/nepal.md) - dahi-chiura
 * [Netherlands](n/netherlands.md) - uitsmijter
 * [New Zealand](n/new_zealand.md) - spaghetti on toast
+* [New Zealand](n/new_zealand_2.md) - Weet-Bix
 * [Nicaragua](n/nicaragua.md) - desayuno tipico
 * [Niger](n/niger.md) - millet porridge
 * [Nigeria](n/nigeria.md) - instant noodles and egg
@@ -200,7 +201,7 @@ raisins
 <img src="p/images/pakistan.jpeg" width="30%" height="30%">
 
 * [Pakistan](p/pakistan.md) - halwa puri
-* Palau - fish and rice
+* [Palau](p/palau.md) - fish and rice
 * Palestine - fatayer
 * Panama - arepas
 * Papua New Guinea - kaukau
