@@ -202,7 +202,7 @@ raisins
 
 * [Pakistan](p/pakistan.md) - halwa puri
 * [Palau](p/palau.md) - fish and rice
-* Palestine - fatayer
+* [Palestine](p/palestine.md) - fatayer
 * Panama - arepas
 * Papua New Guinea - kaukau
 * Paraguay - sopa paraguaya

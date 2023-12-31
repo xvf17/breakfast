@@ -4,6 +4,7 @@ image: p/images/palau.jpeg
 ---
 [prev](pakistan.md)&emsp;
 [top](../index.md)&emsp;
+[next](palestine.md)
 # Palau
 24 December, 2023
 
