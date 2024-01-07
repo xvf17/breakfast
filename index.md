@@ -203,7 +203,7 @@ raisins
 * [Pakistan](p/pakistan.md) - halwa puri
 * [Palau](p/palau.md) - fish and rice
 * [Palestine](p/palestine.md) - fatayer
-* Panama - arepas
+* [Panama](p/panama.md) - arepas
 * Papua New Guinea - kaukau
 * Paraguay - sopa paraguaya
 * Peru - butifarra sandwich

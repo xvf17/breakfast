@@ -4,6 +4,7 @@ image: p/images/palestine.jpeg
 ---
 [prev](palau.md)&emsp;
 [top](../index.md)&emsp;
+[next](panama.md)
 # Palestine
 31 December, 2023
 
