@@ -4,6 +4,7 @@ image: p/images/panama.jpeg
 ---
 [prev](palestine.md)&emsp;
 [top](../index.md)&emsp;
+[next](papua_new_guinea.md)
 # Panama
 7 January, 2024
 

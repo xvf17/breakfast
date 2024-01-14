@@ -204,7 +204,7 @@ raisins
 * [Palau](p/palau.md) - fish and rice
 * [Palestine](p/palestine.md) - fatayer
 * [Panama](p/panama.md) - arepas
-* Papua New Guinea - kaukau
+* [Papua New Guinea](p/papua_new_guinea.md) - kaukau
 * Paraguay - sopa paraguaya
 * Peru - butifarra sandwich
 * Philippines - totang giniling
