@@ -4,6 +4,7 @@ image: p/images/papua_new_guinea.jpeg
 ---
 [prev](panama.md)&emsp;
 [top](../index.md)&emsp;
+[next](paraguay.md)
 # Papua New Guinea
 14 January, 2024
 

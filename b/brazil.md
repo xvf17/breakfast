@@ -1,3 +1,7 @@
+---
+title: Brazil
+image: b/images/brazil.jpeg
+---
 [prev](botswana.md)&emsp;
 [top](../index.md)&emsp;
 [next](brunei.md)

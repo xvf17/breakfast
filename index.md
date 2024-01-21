@@ -205,15 +205,15 @@ raisins
 * [Palestine](p/palestine.md) - fatayer
 * [Panama](p/panama.md) - arepas
 * [Papua New Guinea](p/papua_new_guinea.md) - kaukau
-* Paraguay - sopa paraguaya
+* [Paraguay](p/paraguay.md) - sopa paraguaya
 * Peru - butifarra sandwich
 * Philippines - totang giniling
-* Poland - potato bread and farmers cheese
+* Poland - potato bread and farmer's cheese
 * Portugal - tosta mista
 * Qatar - thareed
-* Romania
-* Russia
-* Rwanda
+* Romania - eggs, sazusca, bread, polenta, cheese
+* Russia - syrniki
+* Rwanda - ibiharage with fried plantains
 * Saint Kitts and Nevis
 * Saint Lucia
 * Saint Vincent and the Grenadines
@@ -226,7 +226,7 @@ raisins
 * Seychelles
 * Sierra Leone
 * Singapore
-* Slovakia
+* Slovakia - kolaches
 * Slovenia
 * Solomon Islands
 * Somalia - malawah
@@ -239,7 +239,7 @@ raisins
 * Sweden
 * Switzerland
 * Syria
-* Taiwan
+* Taiwan - Dou Jiang, Cong You Bing over fried egg
 * Tajikistan
 * Tanzania
 * Thailand
@@ -250,7 +250,7 @@ raisins
 * Turkey
 * Turkmenistan
 * Tuvalu
-* Uganda
+* Uganda - rolex
 * Ukraine - deruny
 * United Arab Emirates
 * United Kingdom - full English breakfast
