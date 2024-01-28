@@ -4,6 +4,7 @@ image: p/images/paraguay.jpeg
 ---
 [prev](papua_new_guinea.md)&emsp;
 [top](../index.md)&emsp;
+[next](peru.md)
 # Paraguay
 21 January, 2024
 
