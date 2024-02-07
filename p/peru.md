@@ -4,6 +4,7 @@ image: p/images/peru.jpeg
 ---
 [prev](paraguay.md)&emsp;
 [top](../index.md)&emsp;
+[next](philippines.md)
 # Peru
 28 January, 2024
 

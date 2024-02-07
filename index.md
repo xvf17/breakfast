@@ -207,7 +207,7 @@ raisins
 * [Papua New Guinea](p/papua_new_guinea.md) - kaukau
 * [Paraguay](p/paraguay.md) - sopa paraguaya
 * [Peru](p/peru.md) - butifarra sandwich
-* Philippines - totang giniling
+* [Philippines](p/philippines.md) - totang giniling
 * Poland - potato bread and farmer's cheese
 * Portugal - tosta mista
 * Qatar - thareed
