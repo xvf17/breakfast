@@ -208,7 +208,7 @@ raisins
 * [Paraguay](p/paraguay.md) - sopa paraguaya
 * [Peru](p/peru.md) - butifarra sandwich
 * [Philippines](p/philippines.md) - totang giniling
-* Poland - potato bread and farmer's cheese
+* [Poland](p/poland.md) - potato bread and farmer's cheese
 * Portugal - tosta mista
 * Qatar - thareed
 * Romania - eggs, sazusca, bread, polenta, cheese

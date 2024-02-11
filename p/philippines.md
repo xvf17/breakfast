@@ -4,6 +4,7 @@ image: p/images/philippines.jpeg
 ---
 [prev](peru.md)&emsp;
 [top](../index.md)&emsp;
+[next](poland.md)
 # Philippines
 4 February, 2024
 
