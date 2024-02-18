@@ -4,6 +4,7 @@ image: p/images/poland.jpeg
 ---
 [prev](philippines.md)&emsp;
 [top](../index.md)&emsp;
+[next](portugal.md)
 # Poland
 11 February, 2024
 
