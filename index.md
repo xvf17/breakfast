@@ -96,7 +96,7 @@ raisins
 <img src="f/images/finland.jpeg" width="30%" height="30%">
 
 * [Fiji](f/fiji.md) - babakao
-* [Finland](f/finland.md) - karjalan pies (with ham)
+* [Finland](f/finland.md) - karjalan pies
 * [France](f/france.md) - hot chocolate w/ brioche
 
 <img src="g/images/gabon.jpeg" width="30%" height="30%">
@@ -210,15 +210,19 @@ raisins
 * [Philippines](p/philippines.md) - totang giniling
 * [Poland](p/poland.md) - potato bread and farmer's cheese
 * [Portugal](p/portugal.md) - tosta mista
-* Qatar - thareed
+
+<img src="q/images/qatar.jpeg" width="30%" height="30%">
+
+* [Qatar](q/qatar.md) - thareed
+
 * Romania - eggs, sazusca, bread, polenta, cheese
 * Russia - syrniki
 * Rwanda - ibiharage with fried plantains
-* Saint Kitts and Nevis
-* Saint Lucia
-* Saint Vincent and the Grenadines
-* Samoa
-* San Marino
+* Saint Kitts and Nevis - plantain porridge
+* Saint Lucia - bakes
+* Saint Vincent and the Grenadines - accra
+* Samoa - panipopo
+* San Marino - piadina
 * Sao Tome and Principe
 * Saudi Arabia
 * Senegal - ndambe
@@ -254,7 +258,7 @@ raisins
 * Ukraine - deruny
 * United Arab Emirates
 * United Kingdom - full English breakfast
-* United States - biscuits and gravy
+* United States - pancakes with bacon and eggs
 * Uruguay
 * Uzbekistan
 * Vanuatu

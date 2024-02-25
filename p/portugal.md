@@ -4,6 +4,7 @@ image: p/images/portugal.jpeg
 ---
 [prev](poland.md)&emsp;
 [top](../index.md)&emsp;
+[next](../q/qatar.md)
 # Portugal
 18 February, 2024
 
