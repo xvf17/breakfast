@@ -4,6 +4,7 @@ image: q/images/qatar.jpeg
 ---
 [prev](../p/portugal.md)&emsp;
 [top](../index.md)&emsp;
+[next](../r/romania.md)
 # Qatar
 25 February, 2024
 
