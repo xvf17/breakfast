@@ -4,6 +4,7 @@ image: r/images/romania.jpeg
 ---
 [prev](../q/qatar.md)&emsp;
 [top](../index.md)&emsp;
+[next](russia.md)
 # Romania
 3 March, 2024
 
