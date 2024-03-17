@@ -219,7 +219,7 @@ raisins
 
 * [Romania](r/romania.md) - eggs, sazusca, bread, polenta, cheese
 * [Russia](r/russia.md) - syrniki
-* Rwanda - ibiharage with fried plantains
+* [Rwanda](r/rwanda.md) - ibiharage with fried plantains
 
 * Saint Kitts and Nevis - plantain porridge
 * Saint Lucia - bakes

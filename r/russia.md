@@ -4,6 +4,7 @@ image: r/images/russia.jpeg
 ---
 [prev](romania.md)&emsp;
 [top](../index.md)&emsp;
+[next](rwanda.md)
 # Russia
 10 March, 2024
 
