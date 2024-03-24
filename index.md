@@ -221,7 +221,9 @@ raisins
 * [Russia](r/russia.md) - syrniki
 * [Rwanda](r/rwanda.md) - ibiharage with fried plantains
 
-* Saint Kitts and Nevis - plantain porridge
+<img src="s/images/saint_kitts_and_nevis.jpeg" width="30%" height="30%">
+
+* [Saint Kitts and Nevis](s/saint_kitts_and_nevis.md) - plantain porridge
 * Saint Lucia - bakes
 * Saint Vincent and the Grenadines - accra
 * Samoa - panipopo

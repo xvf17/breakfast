@@ -4,6 +4,7 @@ image: r/images/rwanda.jpeg
 ---
 [prev](russia.md)&emsp;
 [top](../index.md)&emsp;
+[next](../s/saint_kitts_and_nevis.md)
 # Rwanda
 17 March, 2024
 
