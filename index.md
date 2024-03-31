@@ -224,24 +224,24 @@ raisins
 <img src="s/images/saint_kitts_and_nevis.jpeg" width="30%" height="30%">
 
 * [Saint Kitts and Nevis](s/saint_kitts_and_nevis.md) - plantain porridge
-* Saint Lucia - bakes
+* [Saint Lucia](s/saint_lucia.md) - bakes
 * Saint Vincent and the Grenadines - accra
 * Samoa - panipopo
 * San Marino - piadina
-* Sao Tome and Principe
-* Saudi Arabia
+* S&atilde;o Tom&eacute; and Principe - cuscuz
+* Saudi Arabia - zatar bread
 * Senegal - ndambe
-* Serbia
-* Seychelles
-* Sierra Leone
-* Singapore
+* Serbia - sirnica
+* Seychelles - chicken curry
+* Sierra Leone - jalloff rice
+* Singapore - soft cooked eggs
 * Slovakia - kolaches
-* Slovenia
+* Slovenia - pahorje omelet
 * Solomon Islands
 * Somalia - malawah
 * South Africa
 * Spain
-* Sri Lanka
+* Sri Lanka - curry
 * Sudan
 * Sudan, South
 * Suriname
@@ -256,7 +256,7 @@ raisins
 * Tonga
 * Trinidad and Tobago
 * Tunisia
-* Turkey
+* Turkey - menemen
 * Turkmenistan
 * Tuvalu
 * Uganda - rolex
