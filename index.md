@@ -226,7 +226,7 @@ raisins
 * [Saint Kitts and Nevis](s/saint_kitts_and_nevis.md) - plantain porridge
 * [Saint Lucia](s/saint_lucia.md) - bakes
 * [Saint Vincent and the Grenadines](s/saint_vincent.md) - accra
-* Samoa - panipopo
+* [Samoa](s/samoa.md) - panipopo
 * San Marino - piadina
 * S&atilde;o Tom&eacute; and Principe - cuscuz
 * Saudi Arabia - za'atar bread
@@ -248,6 +248,7 @@ raisins
 * Sweden
 * Switzerland
 * Syria
+
 * Taiwan - Dou Jiang, Cong You Bing over fried egg
 * Tajikistan
 * Tanzania
