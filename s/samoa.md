@@ -4,6 +4,7 @@ image: s/images/samoa.jpeg
 ---
 [prev](saint_vincent.md)&emsp;
 [top](../index.md)&emsp;
+[next](san_marino.md)
 # Samoa
 14 April, 2024
 
