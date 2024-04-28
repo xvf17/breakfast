@@ -228,7 +228,7 @@ raisins
 * [Saint Vincent and the Grenadines](s/saint_vincent.md) - accra
 * [Samoa](s/samoa.md) - panipopo
 * [San Marino](s/san_marino.md) - piadina
-* S&atilde;o Tom&eacute; and Principe - cuscuz
+* [S&atilde;o Tom&eacute; and Principe](s/sao_tome.md) - cuscuz
 * Saudi Arabia - za'atar bread
 * Senegal - ndambe
 * Serbia - sirnica

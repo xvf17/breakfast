@@ -4,6 +4,7 @@ image: s/images/san_marino.jpeg
 ---
 [prev](samoa.md)&emsp;
 [top](../index.md)&emsp;
+[next](sao_tome.md)
 # San Marino
 21 April, 2024
 
