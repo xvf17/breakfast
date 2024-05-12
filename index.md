@@ -230,7 +230,7 @@ raisins
 * [San Marino](s/san_marino.md) - piadina
 * [S&atilde;o Tom&eacute; and Principe](s/sao_tome.md) - cuscuz
 * [Saudi Arabia](s/saudi_arabia.md) - za'atar bread
-* Senegal - ndambe
+* [Senegal](s/senegal.md) - ndambe
 * Serbia - sirnica
 * Seychelles - chicken curry
 * Sierra Leone - jalloff rice
