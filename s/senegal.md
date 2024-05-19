@@ -4,6 +4,7 @@ image: s/images/senegal.jpeg
 ---
 [prev](saudi_arabia.md)&emsp;
 [top](../index.md)&emsp;
+[next](serbia.md)
 # Senegal
 12 May, 2024
 

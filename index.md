@@ -221,7 +221,7 @@ raisins
 * [Russia](r/russia.md) - syrniki
 * [Rwanda](r/rwanda.md) - ibiharage with fried plantains
 
-<img src="s/images/saint_kitts_and_nevis.jpeg" width="30%" height="30%">
+<img src="s/images/saudi_arabia.jpeg" width="30%" height="30%">
 
 * [Saint Kitts and Nevis](s/saint_kitts_and_nevis.md) - plantain porridge
 * [Saint Lucia](s/saint_lucia.md) - bakes
@@ -231,7 +231,7 @@ raisins
 * [S&atilde;o Tom&eacute; and Principe](s/sao_tome.md) - cuscuz
 * [Saudi Arabia](s/saudi_arabia.md) - za'atar bread
 * [Senegal](s/senegal.md) - ndambe
-* Serbia - sirnica
+* [Serbia](s/serbia.md) - sirnica
 * Seychelles - chicken curry
 * Sierra Leone - jalloff rice
 * Singapore - soft cooked eggs
@@ -242,12 +242,12 @@ raisins
 * South Africa - rusks
 * Spain - tortilla
 * Sri Lanka - curry
-* Sudan
-* Sudan, South
-* Suriname
-* Sweden
-* Switzerland
-* Syria
+* Sudan - Ful Medames with kisra
+* Sudan, South - asia
+* Suriname - teloh
+* Sweden - lemon pancakes
+* Switzerland - rosti
+* Syria - mamounia
 
 * Taiwan - Dou Jiang, Cong You Bing over fried egg
 * Tajikistan
