@@ -232,7 +232,7 @@ raisins
 * [Saudi Arabia](s/saudi_arabia.md) - za'atar bread
 * [Senegal](s/senegal.md) - ndambe
 * [Serbia](s/serbia.md) - sirnica
-* Seychelles - chicken curry
+* [Seychelles](s/seychelles.md) - chicken curry
 * Sierra Leone - jalloff rice
 * Singapore - soft cooked eggs
 * Slovakia - kolaches

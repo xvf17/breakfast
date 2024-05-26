@@ -4,6 +4,7 @@ image: s/images/serbia.jpeg
 ---
 [prev](senegal.md)&emsp;
 [top](../index.md)&emsp;
+[next](seychelles.md)
 # Serbia
 19 May, 2024
 
