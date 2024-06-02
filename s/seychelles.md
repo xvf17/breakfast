@@ -4,6 +4,7 @@ image: s/images/seychelles.jpeg
 ---
 [prev](serbia.md)&emsp;
 [top](../index.md)&emsp;
+[next](sierra_leone.md)
 # Seychelles
 26 May, 2024
 

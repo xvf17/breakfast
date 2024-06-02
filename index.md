@@ -233,10 +233,10 @@ raisins
 * [Senegal](s/senegal.md) - ndambe
 * [Serbia](s/serbia.md) - sirnica
 * [Seychelles](s/seychelles.md) - chicken curry
-* Sierra Leone - jalloff rice
+* [Sierra Leone](s/sierra_leone.md) - jalloff rice
 * Singapore - soft cooked eggs
 * Slovakia - kolaches
-* Slovenia - pahorje omelet
+* Slovenia - pohorje omelet
 * Solomon Islands - coconut crab
 * Somalia - malawah
 * South Africa - rusks
