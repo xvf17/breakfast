@@ -4,6 +4,7 @@ image: s/images/sierra_leone.jpeg
 ---
 [prev](seychelles.md)&emsp;
 [top](../index.md)&emsp;
+[next](singapore.md)
 # Sierra Leone
 2 June, 2024
 

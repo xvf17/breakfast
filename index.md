@@ -234,10 +234,10 @@ raisins
 * [Serbia](s/serbia.md) - sirnica
 * [Seychelles](s/seychelles.md) - chicken curry
 * [Sierra Leone](s/sierra_leone.md) - jalloff rice
-* Singapore - soft cooked eggs
+* [Singapore](s/singapore.md) - soft cooked eggs
 * Slovakia - kolaches
 * Slovenia - pohorje omelet
-* Solomon Islands - coconut crab
+* Solomon Islands - coconut tuna curry
 * Somalia - malawah
 * South Africa - rusks
 * Spain - tortilla
