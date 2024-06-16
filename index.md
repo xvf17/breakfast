@@ -235,7 +235,7 @@ raisins
 * [Seychelles](s/seychelles.md) - chicken curry
 * [Sierra Leone](s/sierra_leone.md) - jalloff rice
 * [Singapore](s/singapore.md) - soft cooked eggs
-* Slovakia - kolaches
+* [Slovakia](s/slovakia.md) - kolaches
 * Slovenia - pohorje omelet
 * Solomon Islands - coconut tuna curry
 * Somalia - malawah
