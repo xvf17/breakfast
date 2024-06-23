@@ -4,6 +4,7 @@ image: s/images/slovakia.jpeg
 ---
 [prev](singapore.md)&emsp;
 [top](../index.md)&emsp;
+[next](slovenia.md)
 # Slovakia
 16 June, 2024
 

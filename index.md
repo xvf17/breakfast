@@ -236,7 +236,7 @@ raisins
 * [Sierra Leone](s/sierra_leone.md) - jalloff rice
 * [Singapore](s/singapore.md) - soft cooked eggs
 * [Slovakia](s/slovakia.md) - kolaches
-* Slovenia - pohorje omelet
+* [Slovenia](s/slovenia.md) - pohorje omelet
 * Solomon Islands - coconut tuna curry
 * Somalia - malawah
 * South Africa - rusks
