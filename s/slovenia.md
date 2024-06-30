@@ -4,6 +4,7 @@ image: s/images/slovenia.jpeg
 ---
 [prev](slovakia.md)&emsp;
 [top](../index.md)&emsp;
+[next](solomon_islands.md)
 # Slovenia
 23 June, 2024
 

@@ -237,7 +237,7 @@ raisins
 * [Singapore](s/singapore.md) - soft cooked eggs
 * [Slovakia](s/slovakia.md) - kolaches
 * [Slovenia](s/slovenia.md) - pohorje omelet
-* Solomon Islands - coconut tuna curry
+* [Solomon Islands](s/solomon_islands.md) - coconut tuna curry
 * Somalia - malawah
 * South Africa - rusks
 * Spain - tortilla
