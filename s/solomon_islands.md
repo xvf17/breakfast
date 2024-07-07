@@ -4,6 +4,7 @@ image: s/images/solomon_islands.jpeg
 ---
 [prev](slovenia.md)&emsp;
 [top](../index.md)&emsp;
+[next](somalia.md)
 # Solomon Islands
 30 June, 2024
 

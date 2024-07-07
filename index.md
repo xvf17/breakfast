@@ -238,7 +238,7 @@ raisins
 * [Slovakia](s/slovakia.md) - kolaches
 * [Slovenia](s/slovenia.md) - pohorje omelet
 * [Solomon Islands](s/solomon_islands.md) - coconut tuna curry
-* Somalia - malawah
+* [Somalia](s/somalia.md) - malawah
 * South Africa - rusks
 * Spain - tortilla
 * Sri Lanka - curry
