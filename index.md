@@ -239,7 +239,7 @@ raisins
 * [Slovenia](s/slovenia.md) - pohorje omelet
 * [Solomon Islands](s/solomon_islands.md) - coconut tuna curry
 * [Somalia](s/somalia.md) - malawah
-* South Africa - rusks
+* [South Africa](s/south_africa.md) - rusks
 * Spain - tortilla
 * Sri Lanka - curry
 * Sudan - Ful Medames with kisra

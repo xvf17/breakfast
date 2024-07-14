@@ -4,6 +4,7 @@ image: s/images/somalia.jpeg
 ---
 [prev](solomon_islands.md)&emsp;
 [top](../index.md)&emsp;
+[next](south_africa.md)
 # Somalia
 7 July, 2024
 
