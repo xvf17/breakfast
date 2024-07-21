@@ -4,6 +4,7 @@ image: s/images/south_africa.jpeg
 ---
 [prev](somalia.md)&emsp;
 [top](../index.md)&emsp;
+[next](spain.md)
 # South Africa
 14 July, 2024
 

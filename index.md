@@ -240,7 +240,7 @@ raisins
 * [Solomon Islands](s/solomon_islands.md) - coconut tuna curry
 * [Somalia](s/somalia.md) - malawah
 * [South Africa](s/south_africa.md) - rusks
-* Spain - tortilla
+* [Spain](s/spain.md) - tortilla
 * Sri Lanka - curry
 * Sudan - Ful Medames with kisra
 * Sudan, South - asia
