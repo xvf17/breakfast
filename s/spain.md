@@ -4,6 +4,7 @@ image: s/images/spain.jpeg
 ---
 [prev](south_africa.md)&emsp;
 [top](../index.md)&emsp;
+[next](sri_lanka.md)
 # Spain
 21 July, 2024
 

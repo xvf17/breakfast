@@ -241,7 +241,7 @@ raisins
 * [Somalia](s/somalia.md) - malawah
 * [South Africa](s/south_africa.md) - rusks
 * [Spain](s/spain.md) - tortilla
-* Sri Lanka - curry
+* [Sri Lanka](s/sri_lanka.md) - curry
 * Sudan - Ful Medames with kisra
 * Sudan, South - asia
 * Suriname - teloh
