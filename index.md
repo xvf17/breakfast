@@ -242,7 +242,7 @@ raisins
 * [South Africa](s/south_africa.md) - rusks
 * [Spain](s/spain.md) - tortilla
 * [Sri Lanka](s/sri_lanka.md) - curry
-* Sudan - Ful Medames with kisra
+* [Sudan](s/sudan.md) - Ful Medames with kisra
 * Sudan, South - asia
 * Suriname - teloh
 * Sweden - lemon pancakes

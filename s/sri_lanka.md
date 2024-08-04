@@ -4,6 +4,7 @@ image: s/images/sri_lanka.jpeg
 ---
 [prev](spain.md)&emsp;
 [top](../index.md)&emsp;
+[next](sudan.md)
 # Sri Lanka
 28 July, 2024
 
