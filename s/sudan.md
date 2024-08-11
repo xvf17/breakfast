@@ -4,6 +4,7 @@ image: s/images/sudan.jpeg
 ---
 [prev](sri_lanka.md)&emsp;
 [top](../index.md)&emsp;
+[next](south_sudan.md)
 # Sudan
 4 August, 2024
 
