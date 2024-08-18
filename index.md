@@ -244,7 +244,7 @@ raisins
 * [Sri Lanka](s/sri_lanka.md) - curry
 * [Sudan](s/sudan.md) - Ful Medames with kisra
 * [Sudan, South](s/south_sudan.md) - asia
-* Suriname - teloh
+* [Suriname](s/suriname.md) - teloh
 * Sweden - lemon pancakes
 * Switzerland - rosti
 * Syria - mamounia

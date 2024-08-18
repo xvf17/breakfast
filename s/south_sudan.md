@@ -4,6 +4,7 @@ image: s/images/south_sudan.jpeg
 ---
 [prev](sudan.md)&emsp;
 [top](../index.md)&emsp;
+[next](suriname.md)
 # South Sudan
 11 August, 2024
 
