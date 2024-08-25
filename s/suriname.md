@@ -4,6 +4,7 @@ image: s/images/suriname.jpeg
 ---
 [prev](south_sudan.md)&emsp;
 [top](../index.md)&emsp;
+[next](sweden.md)
 # Suriname
 18 August, 2024
 

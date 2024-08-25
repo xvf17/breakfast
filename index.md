@@ -245,21 +245,22 @@ raisins
 * [Sudan](s/sudan.md) - Ful Medames with kisra
 * [Sudan, South](s/south_sudan.md) - asia
 * [Suriname](s/suriname.md) - teloh
-* Sweden - lemon pancakes
+* [Sweden](s/sweden.md) - lemon pancakes
 * Switzerland - rosti
 * Syria - mamounia
 
-* Taiwan - Dou Jiang, Cong You Bing over fried egg
-* Tajikistan
-* Tanzania
-* Thailand
-* Togo
-* Tonga
-* Trinidad and Tobago
-* Tunisia
+* Taiwan - Dou Jiang, Cong You Bing with fried egg
+* Tajikistan - manti
+* Tanzania - ugali and beans
+* Thailand - jok
+* Togo - bread, fruit, coffee
+* Tonga - FaiKaKai
+* Trinidad and Tobago - doubles
+* Tunisia - mlawi with halwa
 * Turkey - menemen
 * Turkmenistan
-* Tuvalu
+* Tuvalu - coconut pancakes
+
 * Uganda - rolex
 * Ukraine - deruny
 * United Arab Emirates
