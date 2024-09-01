@@ -221,7 +221,7 @@ raisins
 * [Russia](r/russia.md) - syrniki
 * [Rwanda](r/rwanda.md) - ibiharage with fried plantains
 
-<img src="s/images/saudi_arabia.jpeg" width="30%" height="30%">
+<img src="s/images/sweden.jpeg" width="30%" height="30%">
 
 * [Saint Kitts and Nevis](s/saint_kitts_and_nevis.md) - plantain porridge
 * [Saint Lucia](s/saint_lucia.md) - bakes
@@ -246,7 +246,7 @@ raisins
 * [Sudan, South](s/south_sudan.md) - asia
 * [Suriname](s/suriname.md) - teloh
 * [Sweden](s/sweden.md) - lemon pancakes
-* Switzerland - rosti
+* [Switzerland](s/switzerland.md) - rosti
 * Syria - mamounia
 
 * Taiwan - Dou Jiang, Cong You Bing with fried egg

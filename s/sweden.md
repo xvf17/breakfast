@@ -4,6 +4,7 @@ image: s/images/sweden.jpeg
 ---
 [prev](suriname.md)&emsp;
 [top](../index.md)&emsp;
+[next](switzerland.md)
 # Sweden
 25 August, 2024
 
