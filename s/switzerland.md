@@ -4,6 +4,7 @@ image: s/images/switzerland.jpeg
 ---
 [prev](sweden.md)&emsp;
 [top](../index.md)&emsp;
+[next](syria.md)
 # Switzerland
 1 September, 2024
 

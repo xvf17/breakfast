@@ -247,7 +247,7 @@ raisins
 * [Suriname](s/suriname.md) - teloh
 * [Sweden](s/sweden.md) - lemon pancakes
 * [Switzerland](s/switzerland.md) - rosti
-* Syria - mamounia
+* [Syria](s/syria.md) - mamounia
 
 * Taiwan - Dou Jiang, Cong You Bing with fried egg
 * Tajikistan - manti
