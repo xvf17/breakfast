@@ -4,6 +4,7 @@ image: s/images/syria.jpeg
 ---
 [prev](switzerland.md)&emsp;
 [top](../index.md)&emsp;
+[next](../t/taiwan.md)
 # Syria
 8 September, 2024
 

@@ -249,16 +249,18 @@ raisins
 * [Switzerland](s/switzerland.md) - rosti
 * [Syria](s/syria.md) - mamounia
 
-* Taiwan - Dou Jiang, Cong You Bing with fried egg
+<img src="t/images/taiwan.jpeg" width="30%" height="30%">
+
+* [Taiwan](t/taiwan.md) - Dou Jiang, Cong You Bing with fried egg
 * Tajikistan - manti
 * Tanzania - ugali and beans
 * Thailand - jok
-* Togo - bread, fruit, coffee
+* Togo - ablo
 * Tonga - FaiKaKai
 * Trinidad and Tobago - doubles
 * Tunisia - mlawi with halwa
 * Turkey - menemen
-* Turkmenistan
+* Turkmenistan - batyrma
 * Tuvalu - coconut pancakes
 
 * Uganda - rolex
