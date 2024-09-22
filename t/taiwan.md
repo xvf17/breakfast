@@ -4,6 +4,7 @@ image: t/images/taiwan.jpeg
 ---
 [prev](../s/syria.md)&emsp;
 [top](../index.md)&emsp;
+[next](tajikistan.md)
 # Taiwan
 15 September, 2024
 

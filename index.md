@@ -252,7 +252,7 @@ raisins
 <img src="t/images/taiwan.jpeg" width="30%" height="30%">
 
 * [Taiwan](t/taiwan.md) - Dou Jiang, Cong You Bing with fried egg
-* Tajikistan - manti
+* [Tajikistan](t/tajikistan.md) - manti
 * Tanzania - ugali and beans
 * Thailand - jok
 * Togo - ablo
