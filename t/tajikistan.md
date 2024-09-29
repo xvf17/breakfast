@@ -4,6 +4,7 @@ image: t/images/tajikistan.jpeg
 ---
 [prev](taiwan.md)&emsp;
 [top](../index.md)&emsp;
+[next](tanzania.md)
 # Tajikistan
 22 September, 2024
 
