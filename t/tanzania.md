@@ -4,6 +4,7 @@ image: t/images/tanzania.jpeg
 ---
 [prev](tajikistan.md)&emsp;
 [top](../index.md)&emsp;
+[next](thailand.md)
 # Tanzania
 29 September, 2024
 

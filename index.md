@@ -254,7 +254,7 @@ raisins
 * [Taiwan](t/taiwan.md) - Dou Jiang, Cong You Bing with fried egg
 * [Tajikistan](t/tajikistan.md) - manti
 * [Tanzania](t/tanzania.md) - ugali and beans
-* Thailand - jok
+* [Thailand](t/thailand.md) - jok
 * Togo - ablo
 * Tonga - faikakai
 * Trinidad and Tobago - doubles
