@@ -255,7 +255,7 @@ raisins
 * [Tajikistan](t/tajikistan.md) - manti
 * [Tanzania](t/tanzania.md) - ugali and beans
 * [Thailand](t/thailand.md) - jok
-* Togo - ablo
+* [Togo](t/togo.md) - ablo
 * Tonga - faikakai
 * Trinidad and Tobago - doubles
 * Tunisia - mlawi with halwa
@@ -268,8 +268,8 @@ raisins
 * United Arab Emirates
 * United Kingdom - full English breakfast
 * United States - biscuits and gravy
-* Uruguay
-* Uzbekistan
+* Uruguay - borla de fraile
+* Uzbekistan - chak chak
 * Vanuatu
 * Vatican City
 * Venezuela

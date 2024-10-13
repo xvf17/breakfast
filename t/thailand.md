@@ -4,6 +4,7 @@ image: t/images/thailand.jpeg
 ---
 [prev](tanzania.md)&emsp;
 [top](../index.md)&emsp;
+[next](togo.md)
 # Thailand
 6 October, 2024
 
