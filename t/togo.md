@@ -4,6 +4,7 @@ image: t/images/togo.jpeg
 ---
 [prev](thailand.md)&emsp;
 [top](../index.md)&emsp;
+[next](tonga.md)
 # Togo
 13 October, 2024
 

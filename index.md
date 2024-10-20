@@ -256,7 +256,7 @@ raisins
 * [Tanzania](t/tanzania.md) - ugali and beans
 * [Thailand](t/thailand.md) - jok
 * [Togo](t/togo.md) - ablo
-* Tonga - faikakai
+* [Tonga](t/tonga.md) - faikakai
 * Trinidad and Tobago - doubles
 * Tunisia - mlawi with halwa
 * Turkey - menemen
