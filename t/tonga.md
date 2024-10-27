@@ -4,6 +4,7 @@ image: t/images/tonga.jpeg
 ---
 [prev](togo.md)&emsp;
 [top](../index.md)&emsp;
+[next](trinidad_and_tobago.md)
 # Tonga
 20 October, 2024
 
