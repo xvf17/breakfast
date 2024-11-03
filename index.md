@@ -258,7 +258,7 @@ raisins
 * [Togo](t/togo.md) - ablo
 * [Tonga](t/tonga.md) - faikakai
 * [Trinidad and Tobago](t/trinidad_and_tobago.md) - doubles
-* Tunisia - mlawi with halwa
+* [Tunisia](t/tunisia.md) - mlawi with halwa
 * Turkey - menemen
 * Turkmenistan - batyrma
 * Tuvalu - coconut pancakes
