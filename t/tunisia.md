@@ -4,6 +4,7 @@ image: t/images/tunisia.jpeg
 ---
 [prev](trinidad_and_tobago.md)&emsp;
 [top](../index.md)&emsp;
+[next](turkey.md)
 # Tunisia
 3 November, 2024
 
