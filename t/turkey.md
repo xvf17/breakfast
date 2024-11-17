@@ -4,6 +4,7 @@ image: t/images/turkey.jpeg
 ---
 [prev](tunisia.md)&emsp;
 [top](../index.md)&emsp;
+[next](turkmenistan.md)
 # Turkey
 10 November, 2024
 
