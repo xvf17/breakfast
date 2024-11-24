@@ -261,11 +261,11 @@ raisins
 * [Tunisia](t/tunisia.md) - mlawi with halwa
 * [Turkey](t/turkey.md) - menemen
 * [Turkmenistan](t/turkmenistan.md) - batyrma
-* Tuvalu - coconut pancakes
+* [Tuvalu](t/tuvalu.md) - coconut pancakes
 
 * Uganda - rolex
 * Ukraine - deruny
-* United Arab Emirates
+* United Arab Emirates - dango and khameer
 * United Kingdom - full English breakfast
 * United States - biscuits and gravy
 * Uruguay - borla de fraile

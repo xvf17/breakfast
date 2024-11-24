@@ -4,6 +4,7 @@ image: t/images/turkmenistan.jpeg
 ---
 [prev](turkey.md)&emsp;
 [top](../index.md)&emsp;
+[next](tuvalu.md)
 # Turkmenistan
 17 November, 2024
 
