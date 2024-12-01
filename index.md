@@ -263,7 +263,9 @@ raisins
 * [Turkmenistan](t/turkmenistan.md) - batyrma
 * [Tuvalu](t/tuvalu.md) - coconut pancakes
 
-* Uganda - rolex
+<img src="u/images/uganda.jpeg" width="30%" height="30%">
+
+* [Uganda](u/uganda.md) - rolex
 * Ukraine - deruny
 * United Arab Emirates - dango and khameer
 * United Kingdom - full English breakfast

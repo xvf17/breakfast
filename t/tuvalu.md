@@ -4,6 +4,7 @@ image: t/images/tuvalu.jpeg
 ---
 [prev](turkmenistan.md)&emsp;
 [top](../index.md)&emsp;
+[next](../u/uganda.md)
 # Tuvalu
 24 November, 2024
 
