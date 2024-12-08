@@ -4,6 +4,7 @@ image: u/images/uganda.jpeg
 ---
 [prev](../t/tuvalu.md)&emsp;
 [top](../index.md)&emsp;
+[next](ukraine.md)
 # Uganda
 1 December, 2024
 

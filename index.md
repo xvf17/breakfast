@@ -266,16 +266,16 @@ raisins
 <img src="u/images/uganda.jpeg" width="30%" height="30%">
 
 * [Uganda](u/uganda.md) - rolex
-* Ukraine - deruny
+* [Ukraine](u/ukraine.md) - deruny
 * United Arab Emirates - dango and khameer
 * United Kingdom - full English breakfast
 * United States - biscuits and gravy
 * Uruguay - borla de fraile
 * Uzbekistan - chak chak
-* Vanuatu
-* Vatican City
-* Venezuela
-* Vietnam
-* Yemen
-* Zambia
-* Zimbabwe
+* Vanuatu - laplap
+* Vatican City - maritozzi
+* Venezuela - cachitos de hamon
+* Vietnam - banh mi
+* Yemen - jachnun
+* Zambia - somp
+* Zimbabwe - chimodho and peanut butter porridge
