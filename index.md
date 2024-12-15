@@ -267,7 +267,7 @@ raisins
 
 * [Uganda](u/uganda.md) - rolex
 * [Ukraine](u/ukraine.md) - deruny
-* United Arab Emirates - dango and khameer
+* [United Arab Emirates](u/united_arab_emirates.md) - dango and khameer
 * United Kingdom - full English breakfast
 * United States - biscuits and gravy
 * Uruguay - borla de fraile
@@ -277,5 +277,5 @@ raisins
 * Venezuela - cachitos de hamon
 * Vietnam - banh mi
 * Yemen - jachnun
-* Zambia - somp
+* Zambia - samp
 * Zimbabwe - chimodho and peanut butter porridge

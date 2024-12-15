@@ -4,6 +4,7 @@ image: u/images/ukraine.jpeg
 ---
 [prev](uganda.md)&emsp;
 [top](../index.md)&emsp;
+[next](united_arab_emirates.md)
 # Ukraine
 8 December, 2024
 
