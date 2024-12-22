@@ -268,7 +268,7 @@ raisins
 * [Uganda](u/uganda.md) - rolex
 * [Ukraine](u/ukraine.md) - deruny
 * [United Arab Emirates](u/united_arab_emirates.md) - dango and khameer
-* United Kingdom - full English breakfast
+* [United Kingdom](u/united_kingdom.md) - full English breakfast
 * United States - biscuits and gravy
 * Uruguay - borla de fraile
 * Uzbekistan - chak chak

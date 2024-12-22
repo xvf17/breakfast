@@ -4,6 +4,7 @@ image: u/images/united_arab_emirates.jpeg
 ---
 [prev](ukraine.md)&emsp;
 [top](../index.md)&emsp;
+[next](united_kingdom.md)
 # United Arab Emirates
 15 December, 2024
 
