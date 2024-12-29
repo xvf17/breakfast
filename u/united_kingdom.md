@@ -4,6 +4,7 @@ image: u/images/united_kingdom.jpeg
 ---
 [prev](united_arab_emirates.md)&emsp;
 [top](../index.md)&emsp;
+[next](united_states.md)
 # United Kingdom
 22 December, 2024
 

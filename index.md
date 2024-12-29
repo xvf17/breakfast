@@ -269,7 +269,7 @@ raisins
 * [Ukraine](u/ukraine.md) - deruny
 * [United Arab Emirates](u/united_arab_emirates.md) - dango and khameer
 * [United Kingdom](u/united_kingdom.md) - full English breakfast
-* United States - biscuits and gravy
+* [United States](u/united_states.md) - biscuits and gravy
 * Uruguay - borla de fraile
 * Uzbekistan - chak chak
 * Vanuatu - laplap
