@@ -270,7 +270,7 @@ raisins
 * [United Arab Emirates](u/united_arab_emirates.md) - dango and khameer
 * [United Kingdom](u/united_kingdom.md) - full English breakfast
 * [United States](u/united_states.md) - biscuits and gravy
-* Uruguay - borla de fraile
+* [Uruguay](u/uruguay.md) - borla de fraile
 * Uzbekistan - chak chak
 * Vanuatu - laplap
 * Vatican City - maritozzi

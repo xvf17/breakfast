@@ -4,6 +4,7 @@ image: u/images/united_states.jpeg
 ---
 [prev](united_kingdom.md)&emsp;
 [top](../index.md)&emsp;
+[next](uruguay.md)
 # United States
 29 December, 2024
 
