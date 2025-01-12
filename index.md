@@ -271,7 +271,7 @@ raisins
 * [United Kingdom](u/united_kingdom.md) - full English breakfast
 * [United States](u/united_states.md) - biscuits and gravy
 * [Uruguay](u/uruguay.md) - borla de fraile
-* Uzbekistan - chak chak
+* [Uzbekistan](u/uzbekistan.md) - chak chak
 * Vanuatu - laplap
 * Vatican City - maritozzi
 * Venezuela - cachitos de hamon

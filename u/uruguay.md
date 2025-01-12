@@ -4,6 +4,7 @@ image: u/images/uruguay.jpeg
 ---
 [prev](united_states.md)&emsp;
 [top](../index.md)&emsp;
+[next](uzbekistan.md)
 # Uruguay
 5 January, 2025
 
