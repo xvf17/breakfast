@@ -263,7 +263,7 @@ raisins
 * [Turkmenistan](t/turkmenistan.md) - batyrma
 * [Tuvalu](t/tuvalu.md) - coconut pancakes
 
-<img src="u/images/uganda.jpeg" width="30%" height="30%">
+<img src="u/images/united_kingdom.jpeg" width="30%" height="30%">
 
 * [Uganda](u/uganda.md) - rolex
 * [Ukraine](u/ukraine.md) - deruny
@@ -272,10 +272,14 @@ raisins
 * [United States](u/united_states.md) - biscuits and gravy
 * [Uruguay](u/uruguay.md) - borla de fraile
 * [Uzbekistan](u/uzbekistan.md) - chak chak
-* Vanuatu - laplap
+
+<img src="v/images/vanuatu.jpeg" width="30%" height="30%">
+
+* [Vanuatu](v/vanuatu.md) - laplap
 * Vatican City - maritozzi
 * Venezuela - cachitos de hamon
 * Vietnam - banh mi
+
 * Yemen - jachnun
 * Zambia - samp
 * Zimbabwe - chimodho and peanut butter porridge

@@ -4,6 +4,7 @@ image: u/images/uzbekistan.jpeg
 ---
 [prev](uruguay.md)&emsp;
 [top](../index.md)&emsp;
+[next](../v/vanuatu.md)
 # Uzbekistan
 12 January, 2025
 
