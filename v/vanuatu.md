@@ -4,6 +4,7 @@ image: v/images/vanuatu.jpeg
 ---
 [prev](../u/uzbekistan.md)&emsp;
 [top](../index.md)&emsp;
+[next](vatican_city.md)
 # Vanuatu
 19 January, 2025
 

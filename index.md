@@ -276,7 +276,7 @@ raisins
 <img src="v/images/vanuatu.jpeg" width="30%" height="30%">
 
 * [Vanuatu](v/vanuatu.md) - laplap
-* Vatican City - maritozzi
+* [Vatican City](v/vatican_city.md) - maritozzi
 * Venezuela - cachitos de hamon
 * Vietnam - banh mi
 
