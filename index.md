@@ -277,7 +277,7 @@ raisins
 
 * [Vanuatu](v/vanuatu.md) - laplap
 * [Vatican City](v/vatican_city.md) - maritozzi
-* Venezuela - cachitos de hamon
+* [Venezuela](v/venezuela.md) - cachitos de hamon
 * Vietnam - banh mi
 
 * Yemen - jachnun

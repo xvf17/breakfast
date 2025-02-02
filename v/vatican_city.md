@@ -4,6 +4,7 @@ image: v/images/vatican_city.jpeg
 ---
 [prev](vanuatu.md)&emsp;
 [top](../index.md)&emsp;
+[next](venezuela.md)
 # Vatican City
 26 January, 2025
 
