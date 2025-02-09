@@ -4,6 +4,7 @@ image: v/images/venezuela.jpeg
 ---
 [prev](vatican_city.md)&emsp;
 [top](../index.md)&emsp;
+[next](vietnam.md)
 # Venezuela
 5 February, 2025
 

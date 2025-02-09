@@ -278,7 +278,7 @@ raisins
 * [Vanuatu](v/vanuatu.md) - laplap
 * [Vatican City](v/vatican_city.md) - maritozzi
 * [Venezuela](v/venezuela.md) - cachitos de hamon
-* Vietnam - banh mi
+* [Vietnam](v/vietnam.md) - banh mi
 
 * Yemen - jachnun
 * Zambia - samp
