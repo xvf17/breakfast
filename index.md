@@ -273,13 +273,16 @@ raisins
 * [Uruguay](u/uruguay.md) - borla de fraile
 * [Uzbekistan](u/uzbekistan.md) - chak chak
 
-<img src="v/images/vanuatu.jpeg" width="30%" height="30%">
+<img src="v/images/vatican_city.jpeg" width="30%" height="30%">
 
 * [Vanuatu](v/vanuatu.md) - laplap
 * [Vatican City](v/vatican_city.md) - maritozzi
 * [Venezuela](v/venezuela.md) - cachitos de hamon
 * [Vietnam](v/vietnam.md) - banh mi
 
-* Yemen - jachnun
+<img src="y/images/yemen.jpeg" width="30%" height="30%">
+
+* [Yemen](y/yemen.md) - jachnun
+
 * Zambia - samp
 * Zimbabwe - chimodho and peanut butter porridge
