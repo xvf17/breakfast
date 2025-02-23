@@ -4,6 +4,7 @@ image: y/images/yemen.jpeg
 ---
 [prev](../v/vietnam.md)&emsp;
 [top](../index.md)&emsp;
+[next](../z/zambia.md)
 # Yemen
 16 February, 2025
 
