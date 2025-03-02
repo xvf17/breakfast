@@ -287,4 +287,4 @@ raisins
 <img src="z/images/zambia.jpeg" width="30%" height="30%">
 
 * [Zambia](z/zambia.md) - samp
-* Zimbabwe - chimodho and peanut butter porridge
+* [Zimbabwe](z/zimbabwe.md) - chimodho and peanut butter porridge

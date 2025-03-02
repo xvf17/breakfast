@@ -4,6 +4,7 @@ image: z/images/zambia.jpeg
 ---
 [prev](../y/yemen.md)&emsp;
 [top](../index.md)&emsp;
+[next](zimbabwe.md)
 # Zambia
 23 February, 2025
 
