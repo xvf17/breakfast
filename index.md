@@ -230,6 +230,7 @@ raisins
 * [San Marino](s/san_marino.md) - piadina
 * [S&atilde;o Tom&eacute; and Principe](s/sao_tome.md) - cuscuz
 * [Saudi Arabia](s/saudi_arabia.md) - za'atar bread
+* [Scotland](s/scotland.md) - lorne sausage breakfast buns
 * [Senegal](s/senegal.md) - ndambe
 * [Serbia](s/serbia.md) - sirnica
 * [Seychelles](s/seychelles.md) - chicken curry

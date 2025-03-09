@@ -2,7 +2,7 @@
 title: Senegal
 image: s/images/senegal.jpeg
 ---
-[prev](saudi_arabia.md)&emsp;
+[prev](scotland.md)&emsp;
 [top](../index.md)&emsp;
 [next](serbia.md)
 # Senegal

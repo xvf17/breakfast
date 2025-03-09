@@ -4,7 +4,7 @@ image: s/images/saudi_arabia.jpeg
 ---
 [prev](sao_tome.md)&emsp;
 [top](../index.md)&emsp;
-[next](senegal.md)
+[next](scotland.md)
 # Saudi Arabia
 5 May, 2024
 
