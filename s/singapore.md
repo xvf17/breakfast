@@ -4,7 +4,7 @@ image: s/images/singapore.jpeg
 ---
 [prev](sierra_leone.md)&emsp;
 [top](../index.md)&emsp;
-[next](slovakia.md)
+[next](singapore2.md)
 # Singapore
 9 June, 2024
 

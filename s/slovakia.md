@@ -2,7 +2,7 @@
 title: Slovakia
 image: s/images/slovakia.jpeg
 ---
-[prev](singapore.md)&emsp;
+[prev](singapore2.md)&emsp;
 [top](../index.md)&emsp;
 [next](slovenia.md)
 # Slovakia

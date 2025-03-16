@@ -236,6 +236,7 @@ raisins
 * [Seychelles](s/seychelles.md) - chicken curry
 * [Sierra Leone](s/sierra_leone.md) - jalloff rice
 * [Singapore](s/singapore.md) - soft cooked eggs
+* [Singapore](s/singapore2.md) - roti prata with chicken curry
 * [Slovakia](s/slovakia.md) - kolaches
 * [Slovenia](s/slovenia.md) - pohorje omelet
 * [Solomon Islands](s/solomon_islands.md) - coconut tuna curry
