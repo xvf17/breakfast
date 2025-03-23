@@ -2,7 +2,7 @@
 title: Thailand
 image: t/images/thailand.jpeg
 ---
-[prev](tanzania.md)&emsp;
+[prev](tasmania.md)&emsp;
 [top](../index.md)&emsp;
 [next](togo.md)
 # Thailand

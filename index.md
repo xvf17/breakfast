@@ -256,6 +256,7 @@ raisins
 * [Taiwan](t/taiwan.md) - Dou Jiang, Cong You Bing with fried egg
 * [Tajikistan](t/tajikistan.md) - manti
 * [Tanzania](t/tanzania.md) - ugali and beans
+* [Tasmania](t/tasmania.md) - tassie savoury toast
 * [Thailand](t/thailand.md) - jok
 * [Togo](t/togo.md) - ablo
 * [Tonga](t/tonga.md) - faikakai
