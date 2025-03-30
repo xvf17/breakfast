@@ -4,7 +4,7 @@ image: v/images/vietnam.jpeg
 ---
 [prev](venezuela.md)&emsp;
 [top](../index.md)&emsp;
-[next](../y/yemen.md)
+[next](../w/wales.md)
 # Vietnam
 9 February, 2025
 

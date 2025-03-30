@@ -283,6 +283,10 @@ raisins
 * [Venezuela](v/venezuela.md) - cachitos de hamon
 * [Vietnam](v/vietnam.md) - banh mi
 
+<img src="w/images/wales.jpeg" width="30%" height="30%">
+
+* [Wales](w/wales.md) - rarebit
+
 <img src="y/images/yemen.jpeg" width="30%" height="30%">
 
 * [Yemen](y/yemen.md) - jachnun

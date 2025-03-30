@@ -2,7 +2,7 @@
 title: Yemen
 image: y/images/yemen.jpeg
 ---
-[prev](../v/vietnam.md)&emsp;
+[prev](../w/wales.md)&emsp;
 [top](../index.md)&emsp;
 [next](../z/zambia.md)
 # Yemen
